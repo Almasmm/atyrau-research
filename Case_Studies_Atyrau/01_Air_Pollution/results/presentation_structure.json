@@ -1,0 +1,16 @@
+{
+  "revision": "2026-09-26",
+  "source": "slides_v2.json",
+  "slides": 15,
+  "native_chart_slides": [
+    11
+  ],
+  "native_table_slides": [
+    5
+  ],
+  "font": "Arial",
+  "slide_size": [
+    1280,
+    720
+  ]
+}

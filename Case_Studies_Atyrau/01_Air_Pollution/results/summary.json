@@ -1,0 +1,52 @@
+{
+  "period": [
+    "2022-01-01",
+    "2025-12-31"
+  ],
+  "common_days": 1124,
+  "fixed_stations": {
+    "Atyrau": "32",
+    "Aktau": "22",
+    "Aktobe": "31"
+  },
+  "atyrau_valid_days": 1209,
+  "atyrau_missing_or_incomplete_days": 252,
+  "highest_pm25_station_city_in_archive": "Atyrau",
+  "selected_model": "mean",
+  "status": "PARTIAL",
+  "material_limitation": "Channel/calibration metadata unavailable; Atyrau32 PM25 frequently exceeds paired PM10. Archive comparison cannot validate city exposure ranking.",
+  "atyrau_pm25_gt_pm10_days": 845,
+  "atyrau_paired_days": 1209,
+  "city_results": [
+    {
+      "city": "Aktau",
+      "count": 1124.0,
+      "mean": 2.359003582369572,
+      "median": 1.2529687499999804,
+      "std": 16.088593473594496,
+      "max": 491.36112499999996,
+      "who15_days": 13,
+      "who15_pct": 1.1565836298932384
+    },
+    {
+      "city": "Aktobe",
+      "count": 1124.0,
+      "mean": 1.4594493692308346,
+      "median": 1.4488194444444167,
+      "std": 0.191509585298376,
+      "max": 3.7234305555555416,
+      "who15_days": 0,
+      "who15_pct": 0.0
+    },
+    {
+      "city": "Atyrau",
+      "count": 1124.0,
+      "mean": 54.297549691208,
+      "median": 54.5066145833333,
+      "std": 18.346369668607778,
+      "max": 106.94863888888888,
+      "who15_days": 1093,
+      "who15_pct": 97.24199288256227
+    }
+  ]
+}

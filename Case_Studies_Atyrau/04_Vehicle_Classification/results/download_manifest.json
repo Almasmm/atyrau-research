@@ -1,0 +1,3035 @@
+[
+  {
+    "image_id": 2006,
+    "status": "cached",
+    "url": "http://images.cocodataset.org/val2017/000000002006.jpg",
+    "relative_path": "raw/images/000000002006.jpg",
+    "bytes": 202589,
+    "sha256": "eda4af13818b566f8fa4f479e76286ad90cd5da2e8dfd530be0ab3637e1482ed",
+    "accessed_utc": "2026-09-25T20:47:04.697051+00:00"
+  },
+  {
+    "image_id": 6040,
+    "status": "cached",
+    "url": "http://images.cocodataset.org/val2017/000000006040.jpg",
+    "relative_path": "raw/images/000000006040.jpg",
+    "bytes": 161100,
+    "sha256": "ac74264bbc3356e0cb87cdc2edac2e2f7e519ae2c16b0a4e2b943a695163ebf6",
+    "accessed_utc": "2026-09-25T20:47:04.705317+00:00"
+  },
+  {
+    "image_id": 9769,
+    "status": "cached",
+    "url": "http://images.cocodataset.org/val2017/000000009769.jpg",
+    "relative_path": "raw/images/000000009769.jpg",
+    "bytes": 327350,
+    "sha256": "f5e6d63081ba8fbb2a59770144d7c2350de6a1a8288e15565df7dd1bd87d85bf",
+    "accessed_utc": "2026-09-25T20:47:04.697051+00:00"
+  },
+  {
+    "image_id": 9891,
+    "status": "cached",
+    "url": "http://images.cocodataset.org/val2017/000000009891.jpg",
+    "relative_path": "raw/images/000000009891.jpg",
+    "bytes": 131797,
+    "sha256": "dc8292c102663e64a5fcf7477e8ab5f5289660099817e7d52f40e3918784dc0e",
+    "accessed_utc": "2026-09-25T20:47:04.697051+00:00"
+  },
+  {
+    "image_id": 10363,
+    "status": "cached",
+    "url": "http://images.cocodataset.org/val2017/000000010363.jpg",
+    "relative_path": "raw/images/000000010363.jpg",
+    "bytes": 96128,
+    "sha256": "2fd23c4c491520182a703d0df9c604f6b7ee8a592ad8743897870cf0260f47b2",
+    "accessed_utc": "2026-09-25T20:47:04.705317+00:00"
+  },
+  {
+    "image_id": 15338,
+    "status": "cached",
+    "url": "http://images.cocodataset.org/val2017/000000015338.jpg",
+    "relative_path": "raw/images/000000015338.jpg",
+    "bytes": 213912,
+    "sha256": "b9e7f3f58e1568b0af83d0494d21614a38bb212da2d4b14bc36bd002c0b6f0ad",
+    "accessed_utc": "2026-09-25T20:47:04.697051+00:00"
+  },
+  {
+    "image_id": 15440,
+    "status": "cached",
+    "url": "http://images.cocodataset.org/val2017/000000015440.jpg",
+    "relative_path": "raw/images/000000015440.jpg",
+    "bytes": 129400,
+    "sha256": "477f0dd9751336fc5e5ef0f7c406506998049de4edae936311a4400c934c8419",
+    "accessed_utc": "2026-09-25T20:47:04.705317+00:00"
+  },
+  {
+    "image_id": 15517,
+    "status": "cached",
+    "url": "http://images.cocodataset.org/val2017/000000015517.jpg",
+    "relative_path": "raw/images/000000015517.jpg",
+    "bytes": 194615,
+    "sha256": "db13a24631806ad53b865d8edb4926d455cf54ae60e72b45778e5e58fb164369",
+    "accessed_utc": "2026-09-25T20:47:04.705317+00:00"
+  },
+  {
+    "image_id": 17029,
+    "status": "cached",
+    "url": "http://images.cocodataset.org/val2017/000000017029.jpg",
+    "relative_path": "raw/images/000000017029.jpg",
+    "bytes": 349935,
+    "sha256": "d619327903c6b05520f0d6768807c067cce2d6d908d2d83da018a1da3b1792cf",
+    "accessed_utc": "2026-09-25T20:47:04.697051+00:00"
+  },
+  {
+    "image_id": 17178,
+    "status": "cached",
+    "url": "http://images.cocodataset.org/val2017/000000017178.jpg",
+    "relative_path": "raw/images/000000017178.jpg",
+    "bytes": 166597,
+    "sha256": "89dd925868177ba4f2e4f82eb5f530bb8b839079bb58f872d78d8ab322c5a305",
+    "accessed_utc": "2026-09-25T20:47:04.705317+00:00"
+  },
+  {
+    "image_id": 17207,
+    "status": "cached",
+    "url": "http://images.cocodataset.org/val2017/000000017207.jpg",
+    "relative_path": "raw/images/000000017207.jpg",
+    "bytes": 134840,
+    "sha256": "fd477a26cf3682083ae6633c3778fcce9e53fdfbb0670232d608865ddb606884",
+    "accessed_utc": "2026-09-25T20:47:04.705317+00:00"
+  },
+  {
+    "image_id": 17627,
+    "status": "cached",
+    "url": "http://images.cocodataset.org/val2017/000000017627.jpg",
+    "relative_path": "raw/images/000000017627.jpg",
+    "bytes": 186973,
+    "sha256": "bad16bff668a52e7df757c6382244c86b416315b86a52749dd7bc6ec68e7092f",
+    "accessed_utc": "2026-09-25T20:47:04.705317+00:00"
+  },
+  {
+    "image_id": 18837,
+    "status": "cached",
+    "url": "http://images.cocodataset.org/val2017/000000018837.jpg",
+    "relative_path": "raw/images/000000018837.jpg",
+    "bytes": 224384,
+    "sha256": "70f986167a5f1ea723ee2a25273f39ee1d1d7a3bf8b2fa3a37eca946111f1d93",
+    "accessed_utc": "2026-09-25T20:47:04.705317+00:00"
+  },
+  {
+    "image_id": 22755,
+    "status": "cached",
+    "url": "http://images.cocodataset.org/val2017/000000022755.jpg",
+    "relative_path": "raw/images/000000022755.jpg",
+    "bytes": 157237,
+    "sha256": "e419f292592075e18a264216c6ef3f8a597f027d9407e278d15811a9fc9c8952",
+    "accessed_utc": "2026-09-25T20:47:04.705317+00:00"
+  },
+  {
+    "image_id": 23272,
+    "status": "cached",
+    "url": "http://images.cocodataset.org/val2017/000000023272.jpg",
+    "relative_path": "raw/images/000000023272.jpg",
+    "bytes": 151477,
+    "sha256": "3a20a6c0f0c7d33b9c4d9a4fe9023446ce3f92e90b37792cb791c8e3d3ac4cb4",
+    "accessed_utc": "2026-09-25T20:47:04.705317+00:00"
+  },
+  {
+    "image_id": 25393,
+    "status": "cached",
+    "url": "http://images.cocodataset.org/val2017/000000025393.jpg",
+    "relative_path": "raw/images/000000025393.jpg",
+    "bytes": 142045,
+    "sha256": "677e993476aed8ceca9bd9b8edbeb3c8874ed19488c9050cb8b55057a5f1547a",
+    "accessed_utc": "2026-09-25T20:47:04.705317+00:00"
+  },
+  {
+    "image_id": 26926,
+    "status": "cached",
+    "url": "http://images.cocodataset.org/val2017/000000026926.jpg",
+    "relative_path": "raw/images/000000026926.jpg",
+    "bytes": 126106,
+    "sha256": "7126855b6fe8548a6b9da18d8424f803c0eeb37deb3f5764f95f4d60d1915b37",
+    "accessed_utc": "2026-09-25T20:47:04.705317+00:00"
+  },
+  {
+    "image_id": 27768,
+    "status": "cached",
+    "url": "http://images.cocodataset.org/val2017/000000027768.jpg",
+    "relative_path": "raw/images/000000027768.jpg",
+    "bytes": 191259,
+    "sha256": "f9d68320358d980c1ef077c986316729fc3bd42b7e18e4433bf29b157f1f20f6",
+    "accessed_utc": "2026-09-25T20:47:04.705317+00:00"
+  },
+  {
+    "image_id": 33109,
+    "status": "cached",
+    "url": "http://images.cocodataset.org/val2017/000000033109.jpg",
+    "relative_path": "raw/images/000000033109.jpg",
+    "bytes": 213586,
+    "sha256": "d4c1905fc9f846478feaf8cd048d39a2d50829d1dae1ef954d9b0e015c081b4d",
+    "accessed_utc": "2026-09-25T20:47:04.705317+00:00"
+  },
+  {
+    "image_id": 33759,
+    "status": "cached",
+    "url": "http://images.cocodataset.org/val2017/000000033759.jpg",
+    "relative_path": "raw/images/000000033759.jpg",
+    "bytes": 378591,
+    "sha256": "1752e2ea7125cfc42c0b5e73390e647f98d0e32d7df9c528f6e839b108d672b7",
+    "accessed_utc": "2026-09-25T20:47:04.705317+00:00"
+  },
+  {
+    "image_id": 39484,
+    "status": "cached",
+    "url": "http://images.cocodataset.org/val2017/000000039484.jpg",
+    "relative_path": "raw/images/000000039484.jpg",
+    "bytes": 121285,
+    "sha256": "dd5ee58026d819fb399dff4339efd842c936746c404abda74ad42cc2a499bc5b",
+    "accessed_utc": "2026-09-25T20:47:04.705317+00:00"
+  },
+  {
+    "image_id": 42070,
+    "status": "cached",
+    "url": "http://images.cocodataset.org/val2017/000000042070.jpg",
+    "relative_path": "raw/images/000000042070.jpg",
+    "bytes": 207577,
+    "sha256": "818c02b337b36d985a332535bd5526fa8f958823b1c910e86579fe4294dcbcb1",
+    "accessed_utc": "2026-09-25T20:47:04.709497+00:00"
+  },
+  {
+    "image_id": 44590,
+    "status": "cached",
+    "url": "http://images.cocodataset.org/val2017/000000044590.jpg",
+    "relative_path": "raw/images/000000044590.jpg",
+    "bytes": 139441,
+    "sha256": "5ef55da25c21159d1aeaf61eee0c81b2127dc626eac012c68d2e9a81d2bd7789",
+    "accessed_utc": "2026-09-25T20:47:04.709497+00:00"
+  },
+  {
+    "image_id": 46872,
+    "status": "cached",
+    "url": "http://images.cocodataset.org/val2017/000000046872.jpg",
+    "relative_path": "raw/images/000000046872.jpg",
+    "bytes": 218257,
+    "sha256": "fd991bcccf8342f3ab5c5228dce3873765964a545365ac3f31d69b32c8a9258d",
+    "accessed_utc": "2026-09-25T20:47:04.705317+00:00"
+  },
+  {
+    "image_id": 50679,
+    "status": "cached",
+    "url": "http://images.cocodataset.org/val2017/000000050679.jpg",
+    "relative_path": "raw/images/000000050679.jpg",
+    "bytes": 85380,
+    "sha256": "a4531c707b2f6e12203915a08d60210fe666cda426dfcd7cb5623d33e9c147da",
+    "accessed_utc": "2026-09-25T20:47:04.709497+00:00"
+  },
+  {
+    "image_id": 54967,
+    "status": "cached",
+    "url": "http://images.cocodataset.org/val2017/000000054967.jpg",
+    "relative_path": "raw/images/000000054967.jpg",
+    "bytes": 114373,
+    "sha256": "d40210c4e2241a0ac4de79f4cdc7a6c859dafb1b2b18469146f992c714fe9b2d",
+    "accessed_utc": "2026-09-25T20:47:04.709497+00:00"
+  },
+  {
+    "image_id": 57149,
+    "status": "cached",
+    "url": "http://images.cocodataset.org/val2017/000000057149.jpg",
+    "relative_path": "raw/images/000000057149.jpg",
+    "bytes": 154837,
+    "sha256": "4e57fdaa7e50f2f384087931a026ad14252f976289b636213d24b2f61f64f544",
+    "accessed_utc": "2026-09-25T20:47:04.709497+00:00"
+  },
+  {
+    "image_id": 57597,
+    "status": "cached",
+    "url": "http://images.cocodataset.org/val2017/000000057597.jpg",
+    "relative_path": "raw/images/000000057597.jpg",
+    "bytes": 197750,
+    "sha256": "003280b50c99124750084f25939f305f3fefbd9e3caf5002a456249242b154c0",
+    "accessed_utc": "2026-09-25T20:47:04.709497+00:00"
+  },
+  {
+    "image_id": 65350,
+    "status": "cached",
+    "url": "http://images.cocodataset.org/val2017/000000065350.jpg",
+    "relative_path": "raw/images/000000065350.jpg",
+    "bytes": 191231,
+    "sha256": "963a129714e3675b99b6a405a2cb46eca5678241358bb6b6bbefc3c3f1943ae0",
+    "accessed_utc": "2026-09-25T20:47:04.709497+00:00"
+  },
+  {
+    "image_id": 67213,
+    "status": "cached",
+    "url": "http://images.cocodataset.org/val2017/000000067213.jpg",
+    "relative_path": "raw/images/000000067213.jpg",
+    "bytes": 221340,
+    "sha256": "7c456c6e20d11fa40248d67b7d816d0aaf8106b1635243bdd1ba044245f05f8e",
+    "accessed_utc": "2026-09-25T20:47:04.709497+00:00"
+  },
+  {
+    "image_id": 67616,
+    "status": "cached",
+    "url": "http://images.cocodataset.org/val2017/000000067616.jpg",
+    "relative_path": "raw/images/000000067616.jpg",
+    "bytes": 246355,
+    "sha256": "824b722f5251918066fa4e2689167145918aa77cb8094a9fb2f2d70fd85d1ca1",
+    "accessed_utc": "2026-09-25T20:47:04.709497+00:00"
+  },
+  {
+    "image_id": 68093,
+    "status": "cached",
+    "url": "http://images.cocodataset.org/val2017/000000068093.jpg",
+    "relative_path": "raw/images/000000068093.jpg",
+    "bytes": 284989,
+    "sha256": "c5f288d7a94cace0aa18389b07caaf48af32fc3a49a99a17794456a116016244",
+    "accessed_utc": "2026-09-25T20:47:04.709497+00:00"
+  },
+  {
+    "image_id": 74058,
+    "status": "cached",
+    "url": "http://images.cocodataset.org/val2017/000000074058.jpg",
+    "relative_path": "raw/images/000000074058.jpg",
+    "bytes": 101325,
+    "sha256": "a619c4064a1a9af3f0d3c20abee5dc8bb05edda1ec0b240e28fb823b4fd9d204",
+    "accessed_utc": "2026-09-25T20:47:04.712054+00:00"
+  },
+  {
+    "image_id": 74256,
+    "status": "cached",
+    "url": "http://images.cocodataset.org/val2017/000000074256.jpg",
+    "relative_path": "raw/images/000000074256.jpg",
+    "bytes": 147618,
+    "sha256": "c1a04e7a9714d78380912be1652b14a7dc8a37966f56862e4f8a633ebeda7201",
+    "accessed_utc": "2026-09-25T20:47:04.712054+00:00"
+  },
+  {
+    "image_id": 76416,
+    "status": "cached",
+    "url": "http://images.cocodataset.org/val2017/000000076416.jpg",
+    "relative_path": "raw/images/000000076416.jpg",
+    "bytes": 241984,
+    "sha256": "f21eb87831efba38ef9ccea8a5699b222b614fddf716e1486653ce79ffaef463",
+    "accessed_utc": "2026-09-25T20:47:04.713632+00:00"
+  },
+  {
+    "image_id": 76417,
+    "status": "cached",
+    "url": "http://images.cocodataset.org/val2017/000000076417.jpg",
+    "relative_path": "raw/images/000000076417.jpg",
+    "bytes": 230802,
+    "sha256": "740a8f0e6c980ad0587bb352a909308782f8c3a7fa3853cc6b06aa2ed1ff4675",
+    "accessed_utc": "2026-09-25T20:47:04.712054+00:00"
+  },
+  {
+    "image_id": 78823,
+    "status": "cached",
+    "url": "http://images.cocodataset.org/val2017/000000078823.jpg",
+    "relative_path": "raw/images/000000078823.jpg",
+    "bytes": 157930,
+    "sha256": "d9fe245622dc52d9c977eb501aa70d23a9e0fb61e2873879db6c0a89b1bc6b88",
+    "accessed_utc": "2026-09-25T20:47:04.712054+00:00"
+  },
+  {
+    "image_id": 84170,
+    "status": "cached",
+    "url": "http://images.cocodataset.org/val2017/000000084170.jpg",
+    "relative_path": "raw/images/000000084170.jpg",
+    "bytes": 215702,
+    "sha256": "74de1d85ded730e719dbf35407dc4160976d9da86f2b310f8df6bb388586afa3",
+    "accessed_utc": "2026-09-25T20:47:04.712054+00:00"
+  },
+  {
+    "image_id": 85376,
+    "status": "cached",
+    "url": "http://images.cocodataset.org/val2017/000000085376.jpg",
+    "relative_path": "raw/images/000000085376.jpg",
+    "bytes": 176665,
+    "sha256": "0c61f0ddf5a17a348a194e16232f78d62391008b3e0aa4a204ce77c4ef6182c8",
+    "accessed_utc": "2026-09-25T20:47:04.713632+00:00"
+  },
+  {
+    "image_id": 88432,
+    "status": "cached",
+    "url": "http://images.cocodataset.org/val2017/000000088432.jpg",
+    "relative_path": "raw/images/000000088432.jpg",
+    "bytes": 177110,
+    "sha256": "8e0a6e5eb383a0550ee70fca079826a0e9c4468c4b17e8a60c4372043780253c",
+    "accessed_utc": "2026-09-25T20:47:04.713632+00:00"
+  },
+  {
+    "image_id": 89556,
+    "status": "cached",
+    "url": "http://images.cocodataset.org/val2017/000000089556.jpg",
+    "relative_path": "raw/images/000000089556.jpg",
+    "bytes": 209329,
+    "sha256": "b78eb0eb1250b86210658687ff5063428e0cbff2858d4e07d8dee107ae1964f8",
+    "accessed_utc": "2026-09-25T20:47:04.713632+00:00"
+  },
+  {
+    "image_id": 95843,
+    "status": "cached",
+    "url": "http://images.cocodataset.org/val2017/000000095843.jpg",
+    "relative_path": "raw/images/000000095843.jpg",
+    "bytes": 156478,
+    "sha256": "acdda826fba82c8fefee046272d00f9b5a644d9478160c5d17b1bbbc1d051f0c",
+    "accessed_utc": "2026-09-25T20:47:04.713632+00:00"
+  },
+  {
+    "image_id": 97679,
+    "status": "cached",
+    "url": "http://images.cocodataset.org/val2017/000000097679.jpg",
+    "relative_path": "raw/images/000000097679.jpg",
+    "bytes": 105361,
+    "sha256": "7d636d406352e1643cab6f85925dd2fccd7ac11c471f1c58bd627a9512154efc",
+    "accessed_utc": "2026-09-25T20:47:04.713632+00:00"
+  },
+  {
+    "image_id": 97924,
+    "status": "cached",
+    "url": "http://images.cocodataset.org/val2017/000000097924.jpg",
+    "relative_path": "raw/images/000000097924.jpg",
+    "bytes": 114215,
+    "sha256": "015ca73dcfa846a1d24d87f7676fbb4e095fb044f378ebe9dfe3bf2ebab5a798",
+    "accessed_utc": "2026-09-25T20:47:04.713632+00:00"
+  },
+  {
+    "image_id": 98392,
+    "status": "cached",
+    "url": "http://images.cocodataset.org/val2017/000000098392.jpg",
+    "relative_path": "raw/images/000000098392.jpg",
+    "bytes": 92708,
+    "sha256": "c976adf7599725c1bab7fbae692611501e7a33fb5e182c3e301f985205340ecf",
+    "accessed_utc": "2026-09-25T20:47:04.713632+00:00"
+  },
+  {
+    "image_id": 100624,
+    "status": "cached",
+    "url": "http://images.cocodataset.org/val2017/000000100624.jpg",
+    "relative_path": "raw/images/000000100624.jpg",
+    "bytes": 82206,
+    "sha256": "853ddfac5c8827aa25601a84670c8b162830421f9759ef0e21f9be980aa1ae98",
+    "accessed_utc": "2026-09-25T20:47:04.713632+00:00"
+  },
+  {
+    "image_id": 102805,
+    "status": "cached",
+    "url": "http://images.cocodataset.org/val2017/000000102805.jpg",
+    "relative_path": "raw/images/000000102805.jpg",
+    "bytes": 176132,
+    "sha256": "66e6c4530c4a84e97b77bf32227f5f7dfebb1c22accb0e7fa5dbd009308a8c0a",
+    "accessed_utc": "2026-09-25T20:47:04.713632+00:00"
+  },
+  {
+    "image_id": 105912,
+    "status": "cached",
+    "url": "http://images.cocodataset.org/val2017/000000105912.jpg",
+    "relative_path": "raw/images/000000105912.jpg",
+    "bytes": 129106,
+    "sha256": "371f4f6ea696a0b01e6f2b1a5a3bf27d420dc3e8c8276091dd8f29f8aa21baa2",
+    "accessed_utc": "2026-09-25T20:47:04.713632+00:00"
+  },
+  {
+    "image_id": 105923,
+    "status": "cached",
+    "url": "http://images.cocodataset.org/val2017/000000105923.jpg",
+    "relative_path": "raw/images/000000105923.jpg",
+    "bytes": 196472,
+    "sha256": "d118f309dc5e3a8b2d5702b927fce9222d6edd86425730c818902e496bc8a80c",
+    "accessed_utc": "2026-09-25T20:47:04.713632+00:00"
+  },
+  {
+    "image_id": 109900,
+    "status": "cached",
+    "url": "http://images.cocodataset.org/val2017/000000109900.jpg",
+    "relative_path": "raw/images/000000109900.jpg",
+    "bytes": 279626,
+    "sha256": "72ea2b53ec449ad79e309dadae27b80e58fa25d64579799e90a3d2a790b3421b",
+    "accessed_utc": "2026-09-25T20:47:04.713632+00:00"
+  },
+  {
+    "image_id": 111036,
+    "status": "cached",
+    "url": "http://images.cocodataset.org/val2017/000000111036.jpg",
+    "relative_path": "raw/images/000000111036.jpg",
+    "bytes": 98623,
+    "sha256": "24635e2814536e1c2727643e34ef1793791c99bbfb598a1b6d36cec47fd0235f",
+    "accessed_utc": "2026-09-25T20:47:04.713632+00:00"
+  },
+  {
+    "image_id": 114884,
+    "status": "cached",
+    "url": "http://images.cocodataset.org/val2017/000000114884.jpg",
+    "relative_path": "raw/images/000000114884.jpg",
+    "bytes": 205959,
+    "sha256": "f4b8351984bceef7b96b22f66f12d0bc463b0118be5b9d8493ae1e432908e044",
+    "accessed_utc": "2026-09-25T20:47:04.713632+00:00"
+  },
+  {
+    "image_id": 114907,
+    "status": "cached",
+    "url": "http://images.cocodataset.org/val2017/000000114907.jpg",
+    "relative_path": "raw/images/000000114907.jpg",
+    "bytes": 209467,
+    "sha256": "1ef6feb0a8d8886de8dc4db6e6c379cdd8fad15111a8edc570eeda66bcc17dba",
+    "accessed_utc": "2026-09-25T20:47:04.713632+00:00"
+  },
+  {
+    "image_id": 115946,
+    "status": "cached",
+    "url": "http://images.cocodataset.org/val2017/000000115946.jpg",
+    "relative_path": "raw/images/000000115946.jpg",
+    "bytes": 111574,
+    "sha256": "710c302c6a617ffbd271ebad8a4b1a15a6737f51e3cdaa35b4b009aee4046264",
+    "accessed_utc": "2026-09-25T20:47:04.713632+00:00"
+  },
+  {
+    "image_id": 121506,
+    "status": "cached",
+    "url": "http://images.cocodataset.org/val2017/000000121506.jpg",
+    "relative_path": "raw/images/000000121506.jpg",
+    "bytes": 144700,
+    "sha256": "c343589eeba3701c2e6bc2b7f7f6c65eaaf9b2d998fd0402b90d82bdc69a0325",
+    "accessed_utc": "2026-09-25T20:47:04.717811+00:00"
+  },
+  {
+    "image_id": 122166,
+    "status": "cached",
+    "url": "http://images.cocodataset.org/val2017/000000122166.jpg",
+    "relative_path": "raw/images/000000122166.jpg",
+    "bytes": 230903,
+    "sha256": "914e39f9c79ced1a519f1003c410b3ed7bfbc8315df4e0e0c35ac421079e9c6d",
+    "accessed_utc": "2026-09-25T20:47:04.717811+00:00"
+  },
+  {
+    "image_id": 122606,
+    "status": "cached",
+    "url": "http://images.cocodataset.org/val2017/000000122606.jpg",
+    "relative_path": "raw/images/000000122606.jpg",
+    "bytes": 225697,
+    "sha256": "0a52f0b754a2d186b8c4a46e7f1105ebe61f18f1494d500ee6f39c75f6ce7c3a",
+    "accessed_utc": "2026-09-25T20:47:04.717811+00:00"
+  },
+  {
+    "image_id": 123131,
+    "status": "cached",
+    "url": "http://images.cocodataset.org/val2017/000000123131.jpg",
+    "relative_path": "raw/images/000000123131.jpg",
+    "bytes": 159669,
+    "sha256": "564acb1745af3c7202cac2af758bc15ea37ac4c8deb11961792e7c90f0190c80",
+    "accessed_utc": "2026-09-25T20:47:04.713632+00:00"
+  },
+  {
+    "image_id": 124798,
+    "status": "cached",
+    "url": "http://images.cocodataset.org/val2017/000000124798.jpg",
+    "relative_path": "raw/images/000000124798.jpg",
+    "bytes": 231060,
+    "sha256": "945dffc0d0e390d50539049ebbe2a80691f9f0c5bee67bc10a6ecc57a08ae536",
+    "accessed_utc": "2026-09-25T20:47:04.717811+00:00"
+  },
+  {
+    "image_id": 125778,
+    "status": "cached",
+    "url": "http://images.cocodataset.org/val2017/000000125778.jpg",
+    "relative_path": "raw/images/000000125778.jpg",
+    "bytes": 142728,
+    "sha256": "1b93c291b14ba4d8a559fcb08240d8d204e69f1b2e4c41ee41f13935646340dd",
+    "accessed_utc": "2026-09-25T20:47:04.717811+00:00"
+  },
+  {
+    "image_id": 126110,
+    "status": "cached",
+    "url": "http://images.cocodataset.org/val2017/000000126110.jpg",
+    "relative_path": "raw/images/000000126110.jpg",
+    "bytes": 19981,
+    "sha256": "68f6289ad123cea10bf3111a6776409bf571d0b57a1453475debe54e1a36e961",
+    "accessed_utc": "2026-09-25T20:47:04.717811+00:00"
+  },
+  {
+    "image_id": 126592,
+    "status": "cached",
+    "url": "http://images.cocodataset.org/val2017/000000126592.jpg",
+    "relative_path": "raw/images/000000126592.jpg",
+    "bytes": 132416,
+    "sha256": "69e4bfc82b8c7c258b1eec413754609583c42488e47af994ba561c77ba5f6a0c",
+    "accessed_utc": "2026-09-25T20:47:04.717811+00:00"
+  },
+  {
+    "image_id": 127092,
+    "status": "cached",
+    "url": "http://images.cocodataset.org/val2017/000000127092.jpg",
+    "relative_path": "raw/images/000000127092.jpg",
+    "bytes": 180013,
+    "sha256": "9cbae776d4643672174a2b799df2f404e254f078ce0204e39e287de0e60751c0",
+    "accessed_utc": "2026-09-25T20:47:04.717811+00:00"
+  },
+  {
+    "image_id": 128051,
+    "status": "cached",
+    "url": "http://images.cocodataset.org/val2017/000000128051.jpg",
+    "relative_path": "raw/images/000000128051.jpg",
+    "bytes": 147927,
+    "sha256": "2497ae695583057b6adda26f862de2287d2052933c14b7f0a6027ecbb09a079c",
+    "accessed_utc": "2026-09-25T20:47:04.717811+00:00"
+  },
+  {
+    "image_id": 128372,
+    "status": "cached",
+    "url": "http://images.cocodataset.org/val2017/000000128372.jpg",
+    "relative_path": "raw/images/000000128372.jpg",
+    "bytes": 171887,
+    "sha256": "6076863986b65a05fc9fd1edd1558cacee52db9b1e0c263ae3a02b1047f2617f",
+    "accessed_utc": "2026-09-25T20:47:04.717811+00:00"
+  },
+  {
+    "image_id": 134886,
+    "status": "cached",
+    "url": "http://images.cocodataset.org/val2017/000000134886.jpg",
+    "relative_path": "raw/images/000000134886.jpg",
+    "bytes": 112044,
+    "sha256": "a3eb8a72558bd091480d96592617432c273da3842462cc2bf04d65f0bd721f71",
+    "accessed_utc": "2026-09-25T20:47:04.717811+00:00"
+  },
+  {
+    "image_id": 135410,
+    "status": "cached",
+    "url": "http://images.cocodataset.org/val2017/000000135410.jpg",
+    "relative_path": "raw/images/000000135410.jpg",
+    "bytes": 141815,
+    "sha256": "603013773e6bca16d1e4af56e76b38b3f7510c62d41e6089072905419ef4373f",
+    "accessed_utc": "2026-09-25T20:47:04.717811+00:00"
+  },
+  {
+    "image_id": 138979,
+    "status": "cached",
+    "url": "http://images.cocodataset.org/val2017/000000138979.jpg",
+    "relative_path": "raw/images/000000138979.jpg",
+    "bytes": 161541,
+    "sha256": "1422f5ad941613d3a62795c276abda2ed3b45972d0fc84d9df5a1a715338131e",
+    "accessed_utc": "2026-09-25T20:47:04.717811+00:00"
+  },
+  {
+    "image_id": 140203,
+    "status": "cached",
+    "url": "http://images.cocodataset.org/val2017/000000140203.jpg",
+    "relative_path": "raw/images/000000140203.jpg",
+    "bytes": 108471,
+    "sha256": "5c3a04dada4c36aba47e5c65a25da677451e66c4a7344ebb602bb4fe4cda55d1",
+    "accessed_utc": "2026-09-25T20:47:04.717811+00:00"
+  },
+  {
+    "image_id": 141597,
+    "status": "cached",
+    "url": "http://images.cocodataset.org/val2017/000000141597.jpg",
+    "relative_path": "raw/images/000000141597.jpg",
+    "bytes": 107300,
+    "sha256": "25c14df824e33813379628baba9adad6a93ebc5003667a88ef3c113d74689c05",
+    "accessed_utc": "2026-09-25T20:47:04.717811+00:00"
+  },
+  {
+    "image_id": 142472,
+    "status": "cached",
+    "url": "http://images.cocodataset.org/val2017/000000142472.jpg",
+    "relative_path": "raw/images/000000142472.jpg",
+    "bytes": 191947,
+    "sha256": "db7173813c230d969afa81c1012904f95a680a4b6b756eb07e17e6727c88c0dd",
+    "accessed_utc": "2026-09-25T20:47:04.717811+00:00"
+  },
+  {
+    "image_id": 142585,
+    "status": "cached",
+    "url": "http://images.cocodataset.org/val2017/000000142585.jpg",
+    "relative_path": "raw/images/000000142585.jpg",
+    "bytes": 116377,
+    "sha256": "41277a4ea32031b3486e839d18ca61506931002fca4ff9214686c63e9c6bb983",
+    "accessed_utc": "2026-09-25T20:47:04.721974+00:00"
+  },
+  {
+    "image_id": 143931,
+    "status": "cached",
+    "url": "http://images.cocodataset.org/val2017/000000143931.jpg",
+    "relative_path": "raw/images/000000143931.jpg",
+    "bytes": 248870,
+    "sha256": "45cf81830e1b95dc25a9be1ebdf2798238b9bda4dc3e34e589442c5c9ad98aad",
+    "accessed_utc": "2026-09-25T20:47:04.721974+00:00"
+  },
+  {
+    "image_id": 144300,
+    "status": "cached",
+    "url": "http://images.cocodataset.org/val2017/000000144300.jpg",
+    "relative_path": "raw/images/000000144300.jpg",
+    "bytes": 190839,
+    "sha256": "859ad40927fb62779a65eb109b52881641ddf6bbc435aaed2bcac4d4ecc9a9c8",
+    "accessed_utc": "2026-09-25T20:47:04.721974+00:00"
+  },
+  {
+    "image_id": 144333,
+    "status": "cached",
+    "url": "http://images.cocodataset.org/val2017/000000144333.jpg",
+    "relative_path": "raw/images/000000144333.jpg",
+    "bytes": 203462,
+    "sha256": "7acabef5186a84189013c5fc859fe9e76f9507a00b20dc758d3e916d16a0f96c",
+    "accessed_utc": "2026-09-25T20:47:04.721974+00:00"
+  },
+  {
+    "image_id": 147338,
+    "status": "cached",
+    "url": "http://images.cocodataset.org/val2017/000000147338.jpg",
+    "relative_path": "raw/images/000000147338.jpg",
+    "bytes": 168134,
+    "sha256": "1340659ee42c04143b39b031f8c7345d08b7f54753d9b75638bc6c81b084b2d1",
+    "accessed_utc": "2026-09-25T20:47:04.721974+00:00"
+  },
+  {
+    "image_id": 147740,
+    "status": "cached",
+    "url": "http://images.cocodataset.org/val2017/000000147740.jpg",
+    "relative_path": "raw/images/000000147740.jpg",
+    "bytes": 180965,
+    "sha256": "0384b4bff79f53a0f2bcc54c99c0f7dc24660dd33f37c9b6dfa6adaa1e4a88ce",
+    "accessed_utc": "2026-09-25T20:47:04.721974+00:00"
+  },
+  {
+    "image_id": 147745,
+    "status": "cached",
+    "url": "http://images.cocodataset.org/val2017/000000147745.jpg",
+    "relative_path": "raw/images/000000147745.jpg",
+    "bytes": 183114,
+    "sha256": "2297abddf7dbbcbf4be69b6e950b7bb3ff5cdc31834820c427a1599ed656ef16",
+    "accessed_utc": "2026-09-25T20:47:04.721974+00:00"
+  },
+  {
+    "image_id": 148719,
+    "status": "cached",
+    "url": "http://images.cocodataset.org/val2017/000000148719.jpg",
+    "relative_path": "raw/images/000000148719.jpg",
+    "bytes": 283112,
+    "sha256": "dc5224344a70a6bb7bda0d21dddeac70f599aeaa35b2ce1fa3620821c6de4bf0",
+    "accessed_utc": "2026-09-25T20:47:04.721974+00:00"
+  },
+  {
+    "image_id": 153011,
+    "status": "cached",
+    "url": "http://images.cocodataset.org/val2017/000000153011.jpg",
+    "relative_path": "raw/images/000000153011.jpg",
+    "bytes": 209804,
+    "sha256": "e051d5c7180bec8cb38caae0cbeca57f4d09879d097065c581bb9f9c0d474a09",
+    "accessed_utc": "2026-09-25T20:47:04.721974+00:00"
+  },
+  {
+    "image_id": 154000,
+    "status": "cached",
+    "url": "http://images.cocodataset.org/val2017/000000154000.jpg",
+    "relative_path": "raw/images/000000154000.jpg",
+    "bytes": 161617,
+    "sha256": "4224e841b58048d5568088cd5e7a67b6882a4f8fd3dda928ac7ea97a864bfe76",
+    "accessed_utc": "2026-09-25T20:47:04.721974+00:00"
+  },
+  {
+    "image_id": 156071,
+    "status": "cached",
+    "url": "http://images.cocodataset.org/val2017/000000156071.jpg",
+    "relative_path": "raw/images/000000156071.jpg",
+    "bytes": 264051,
+    "sha256": "f097478ac969638fae642da941b78820fc2939b30e72eb9152c31205401fa357",
+    "accessed_utc": "2026-09-25T20:47:04.721974+00:00"
+  },
+  {
+    "image_id": 157365,
+    "status": "cached",
+    "url": "http://images.cocodataset.org/val2017/000000157365.jpg",
+    "relative_path": "raw/images/000000157365.jpg",
+    "bytes": 120948,
+    "sha256": "5cbfd4a00bec8586b5528c968a62d109e028a7ce99cd843b4862313e52934b43",
+    "accessed_utc": "2026-09-25T20:47:04.721974+00:00"
+  },
+  {
+    "image_id": 157756,
+    "status": "cached",
+    "url": "http://images.cocodataset.org/val2017/000000157756.jpg",
+    "relative_path": "raw/images/000000157756.jpg",
+    "bytes": 153248,
+    "sha256": "d46a285172f857e1bbce63263da95a0e0d632f8f118c158ecbf233f83012f913",
+    "accessed_utc": "2026-09-25T20:47:04.721974+00:00"
+  },
+  {
+    "image_id": 157928,
+    "status": "cached",
+    "url": "http://images.cocodataset.org/val2017/000000157928.jpg",
+    "relative_path": "raw/images/000000157928.jpg",
+    "bytes": 207152,
+    "sha256": "9f3b22d40647c37afbd9f45e010a139b77d0cbe6ccb000d3d718227bac5e42ef",
+    "accessed_utc": "2026-09-25T20:47:04.721974+00:00"
+  },
+  {
+    "image_id": 160012,
+    "status": "cached",
+    "url": "http://images.cocodataset.org/val2017/000000160012.jpg",
+    "relative_path": "raw/images/000000160012.jpg",
+    "bytes": 157339,
+    "sha256": "b660ce7ce72dcfa459181967524c53f9360318652c0014790da9fa096ccf1ae2",
+    "accessed_utc": "2026-09-25T20:47:04.721974+00:00"
+  },
+  {
+    "image_id": 161128,
+    "status": "cached",
+    "url": "http://images.cocodataset.org/val2017/000000161128.jpg",
+    "relative_path": "raw/images/000000161128.jpg",
+    "bytes": 111429,
+    "sha256": "4698f1cd6364d17702a85bb16dc91c0059429baf5f37bf7fcb848138f1c7035b",
+    "accessed_utc": "2026-09-25T20:47:04.721974+00:00"
+  },
+  {
+    "image_id": 165039,
+    "status": "cached",
+    "url": "http://images.cocodataset.org/val2017/000000165039.jpg",
+    "relative_path": "raw/images/000000165039.jpg",
+    "bytes": 201280,
+    "sha256": "e33ff0c52506ec5f5eea55ca9a3306f3bdc2ba6596ceedefcadf3b59541c1458",
+    "accessed_utc": "2026-09-25T20:47:04.721974+00:00"
+  },
+  {
+    "image_id": 166391,
+    "status": "cached",
+    "url": "http://images.cocodataset.org/val2017/000000166391.jpg",
+    "relative_path": "raw/images/000000166391.jpg",
+    "bytes": 121273,
+    "sha256": "4ee9bb8a8ac31522bd24dc3068760d4cf7a9255257ba38572ba5b4c750360c35",
+    "accessed_utc": "2026-09-25T20:47:04.721974+00:00"
+  },
+  {
+    "image_id": 166664,
+    "status": "cached",
+    "url": "http://images.cocodataset.org/val2017/000000166664.jpg",
+    "relative_path": "raw/images/000000166664.jpg",
+    "bytes": 158847,
+    "sha256": "36f607358c9e9dcd1a9c50a0cef18356d6b04d6d4924a22114b8ca1613219bdd",
+    "accessed_utc": "2026-09-25T20:47:04.721974+00:00"
+  },
+  {
+    "image_id": 166747,
+    "status": "cached",
+    "url": "http://images.cocodataset.org/val2017/000000166747.jpg",
+    "relative_path": "raw/images/000000166747.jpg",
+    "bytes": 117566,
+    "sha256": "a49b8ab0191de258ca77c4be4cd50a91321a2fd95f451e343eefbe8e21f44d82",
+    "accessed_utc": "2026-09-25T20:47:04.721974+00:00"
+  },
+  {
+    "image_id": 167122,
+    "status": "cached",
+    "url": "http://images.cocodataset.org/val2017/000000167122.jpg",
+    "relative_path": "raw/images/000000167122.jpg",
+    "bytes": 150706,
+    "sha256": "9a86c4231709eb0432dadfa7e3c1ff3bea7bb310da1023343ec53525c9f37c89",
+    "accessed_utc": "2026-09-25T20:47:04.721974+00:00"
+  },
+  {
+    "image_id": 168330,
+    "status": "cached",
+    "url": "http://images.cocodataset.org/val2017/000000168330.jpg",
+    "relative_path": "raw/images/000000168330.jpg",
+    "bytes": 85011,
+    "sha256": "704ded862e1cdf5132739e4564d433bf7cfd55a2c044fb9da2afcfec39aa64a8",
+    "accessed_utc": "2026-09-25T20:47:04.721974+00:00"
+  },
+  {
+    "image_id": 169169,
+    "status": "cached",
+    "url": "http://images.cocodataset.org/val2017/000000169169.jpg",
+    "relative_path": "raw/images/000000169169.jpg",
+    "bytes": 192805,
+    "sha256": "d267375dc1802876eeafb14a9da413bf1f2f9bd802a1645ebbf3c58a41520cf5",
+    "accessed_utc": "2026-09-25T20:47:04.721974+00:00"
+  },
+  {
+    "image_id": 171382,
+    "status": "cached",
+    "url": "http://images.cocodataset.org/val2017/000000171382.jpg",
+    "relative_path": "raw/images/000000171382.jpg",
+    "bytes": 222294,
+    "sha256": "f96faf8870853b0f11e2746eb86cb0dbc7e34c1b4903e3d912aa857002ef9bf3",
+    "accessed_utc": "2026-09-25T20:47:04.721974+00:00"
+  },
+  {
+    "image_id": 172330,
+    "status": "cached",
+    "url": "http://images.cocodataset.org/val2017/000000172330.jpg",
+    "relative_path": "raw/images/000000172330.jpg",
+    "bytes": 276623,
+    "sha256": "ef1b61b35ac3aa2af9d9cdb01f52ac79703a5ad0f0fbe036d6aecb94c07c212f",
+    "accessed_utc": "2026-09-25T20:47:04.721974+00:00"
+  },
+  {
+    "image_id": 174004,
+    "status": "cached",
+    "url": "http://images.cocodataset.org/val2017/000000174004.jpg",
+    "relative_path": "raw/images/000000174004.jpg",
+    "bytes": 330071,
+    "sha256": "f1fbca2e0593f2741a89a36f8e11e71f9bc9ad79f03b351ed83bd89b2e6c38db",
+    "accessed_utc": "2026-09-25T20:47:04.721974+00:00"
+  },
+  {
+    "image_id": 175438,
+    "status": "cached",
+    "url": "http://images.cocodataset.org/val2017/000000175438.jpg",
+    "relative_path": "raw/images/000000175438.jpg",
+    "bytes": 274985,
+    "sha256": "caebcf4ace0859fe109f89e8d9ec8a474a48ef303a6d20325c562403a0b8a648",
+    "accessed_utc": "2026-09-25T20:47:04.721974+00:00"
+  },
+  {
+    "image_id": 176037,
+    "status": "cached",
+    "url": "http://images.cocodataset.org/val2017/000000176037.jpg",
+    "relative_path": "raw/images/000000176037.jpg",
+    "bytes": 245411,
+    "sha256": "64001499037f4314e4deb5cf0f85e9f0b06331370f1e8901bd1057b47c5ddf42",
+    "accessed_utc": "2026-09-25T20:47:04.721974+00:00"
+  },
+  {
+    "image_id": 176606,
+    "status": "cached",
+    "url": "http://images.cocodataset.org/val2017/000000176606.jpg",
+    "relative_path": "raw/images/000000176606.jpg",
+    "bytes": 308127,
+    "sha256": "f04bdd313c6a9d75b3cc70d37191a99ac0bd1097eec19cee5094990bef49ea82",
+    "accessed_utc": "2026-09-25T20:47:04.721974+00:00"
+  },
+  {
+    "image_id": 177934,
+    "status": "cached",
+    "url": "http://images.cocodataset.org/val2017/000000177934.jpg",
+    "relative_path": "raw/images/000000177934.jpg",
+    "bytes": 312839,
+    "sha256": "81c836a2c877b44c79b0dbab615b3d07f6c7b2a98455e78554d57a6c9ed7e6ff",
+    "accessed_utc": "2026-09-25T20:47:04.721974+00:00"
+  },
+  {
+    "image_id": 179265,
+    "status": "cached",
+    "url": "http://images.cocodataset.org/val2017/000000179265.jpg",
+    "relative_path": "raw/images/000000179265.jpg",
+    "bytes": 226633,
+    "sha256": "1fc867afe91c5a84b66bd6eaada8d8bcca2ce65b15433be23ba0e70c3af34410",
+    "accessed_utc": "2026-09-25T20:47:04.730315+00:00"
+  },
+  {
+    "image_id": 181816,
+    "status": "cached",
+    "url": "http://images.cocodataset.org/val2017/000000181816.jpg",
+    "relative_path": "raw/images/000000181816.jpg",
+    "bytes": 209768,
+    "sha256": "fd7fe9e831b97c31d2996209d4eb152558e46d752089d3a2b1b5e0cb21f343fe",
+    "accessed_utc": "2026-09-25T20:47:04.730315+00:00"
+  },
+  {
+    "image_id": 183246,
+    "status": "cached",
+    "url": "http://images.cocodataset.org/val2017/000000183246.jpg",
+    "relative_path": "raw/images/000000183246.jpg",
+    "bytes": 129172,
+    "sha256": "25d6c62b5ee245a99b98de1f078ab5d827c6737dfe11c60815955146604b6e7b",
+    "accessed_utc": "2026-09-25T20:47:04.730315+00:00"
+  },
+  {
+    "image_id": 183709,
+    "status": "cached",
+    "url": "http://images.cocodataset.org/val2017/000000183709.jpg",
+    "relative_path": "raw/images/000000183709.jpg",
+    "bytes": 107845,
+    "sha256": "89dabb8b6940b9c08d005d03f0a22573eea72896f8314fbb0d4c128a99c261a1",
+    "accessed_utc": "2026-09-25T20:47:04.721974+00:00"
+  },
+  {
+    "image_id": 187144,
+    "status": "cached",
+    "url": "http://images.cocodataset.org/val2017/000000187144.jpg",
+    "relative_path": "raw/images/000000187144.jpg",
+    "bytes": 176173,
+    "sha256": "ecda88adbae1ca905ecf37007ef2ce11013109523964dca9bf1ed856f26cbcfb",
+    "accessed_utc": "2026-09-25T20:47:04.730315+00:00"
+  },
+  {
+    "image_id": 188296,
+    "status": "cached",
+    "url": "http://images.cocodataset.org/val2017/000000188296.jpg",
+    "relative_path": "raw/images/000000188296.jpg",
+    "bytes": 248122,
+    "sha256": "fcb23cbab168a4ce784173658a630910ed1110b418ef492dfaf2f61febfcb351",
+    "accessed_utc": "2026-09-25T20:47:04.730315+00:00"
+  },
+  {
+    "image_id": 188439,
+    "status": "cached",
+    "url": "http://images.cocodataset.org/val2017/000000188439.jpg",
+    "relative_path": "raw/images/000000188439.jpg",
+    "bytes": 281335,
+    "sha256": "0d0f70784139740ad6616d02d462d9a0e1610a8c7d83b825fea6ff21ce408506",
+    "accessed_utc": "2026-09-25T20:47:04.730315+00:00"
+  },
+  {
+    "image_id": 189698,
+    "status": "cached",
+    "url": "http://images.cocodataset.org/val2017/000000189698.jpg",
+    "relative_path": "raw/images/000000189698.jpg",
+    "bytes": 164700,
+    "sha256": "ce9c60ba26d620a0ee11723bc7e39dc4d09b17d9ac4906048704c8f3d8b2919f",
+    "accessed_utc": "2026-09-25T20:47:04.730315+00:00"
+  },
+  {
+    "image_id": 190923,
+    "status": "cached",
+    "url": "http://images.cocodataset.org/val2017/000000190923.jpg",
+    "relative_path": "raw/images/000000190923.jpg",
+    "bytes": 138770,
+    "sha256": "3407447c4e8ca2ceb0db4ba1cb97dee1547e63fb3499cb67d6813ac5d4275d3c",
+    "accessed_utc": "2026-09-25T20:47:04.730315+00:00"
+  },
+  {
+    "image_id": 191013,
+    "status": "cached",
+    "url": "http://images.cocodataset.org/val2017/000000191013.jpg",
+    "relative_path": "raw/images/000000191013.jpg",
+    "bytes": 205929,
+    "sha256": "c630ba727a128d2e4d42c4498bd9b7e50d7564c23905925865186bbb529c37b3",
+    "accessed_utc": "2026-09-25T20:47:04.730315+00:00"
+  },
+  {
+    "image_id": 192607,
+    "status": "cached",
+    "url": "http://images.cocodataset.org/val2017/000000192607.jpg",
+    "relative_path": "raw/images/000000192607.jpg",
+    "bytes": 266559,
+    "sha256": "df1cfbabe293d62e1ad29ebf0e79699de8c1cef2a09177c5192255846a756974",
+    "accessed_utc": "2026-09-25T20:47:04.734510+00:00"
+  },
+  {
+    "image_id": 192670,
+    "status": "cached",
+    "url": "http://images.cocodataset.org/val2017/000000192670.jpg",
+    "relative_path": "raw/images/000000192670.jpg",
+    "bytes": 344177,
+    "sha256": "78166d1775deaa41e93780921bccec43c99a293626f44eb19c41fe56bd12925e",
+    "accessed_utc": "2026-09-25T20:47:04.730315+00:00"
+  },
+  {
+    "image_id": 192716,
+    "status": "cached",
+    "url": "http://images.cocodataset.org/val2017/000000192716.jpg",
+    "relative_path": "raw/images/000000192716.jpg",
+    "bytes": 234619,
+    "sha256": "9a3223f94d7aaf079d3831b10c07ee5a84f36071c55c633394dd5c93a67c9c07",
+    "accessed_utc": "2026-09-25T20:47:04.730315+00:00"
+  },
+  {
+    "image_id": 196141,
+    "status": "cached",
+    "url": "http://images.cocodataset.org/val2017/000000196141.jpg",
+    "relative_path": "raw/images/000000196141.jpg",
+    "bytes": 135345,
+    "sha256": "8e66c7dd60fe81fb0eae99314eb5e6c191e53f739760fa36ae7ba56f10115814",
+    "accessed_utc": "2026-09-25T20:47:04.730315+00:00"
+  },
+  {
+    "image_id": 196759,
+    "status": "cached",
+    "url": "http://images.cocodataset.org/val2017/000000196759.jpg",
+    "relative_path": "raw/images/000000196759.jpg",
+    "bytes": 158633,
+    "sha256": "91e7ce017c2bb00c5fb22919f12749823d371b1c4664cdaccc0a2854bc992710",
+    "accessed_utc": "2026-09-25T20:47:04.730315+00:00"
+  },
+  {
+    "image_id": 196843,
+    "status": "cached",
+    "url": "http://images.cocodataset.org/val2017/000000196843.jpg",
+    "relative_path": "raw/images/000000196843.jpg",
+    "bytes": 266322,
+    "sha256": "7bafbbaa286e2fcb78d30b5192d09a82a05d231778a5d1b84929c1de64b566ae",
+    "accessed_utc": "2026-09-25T20:47:04.734510+00:00"
+  },
+  {
+    "image_id": 198489,
+    "status": "cached",
+    "url": "http://images.cocodataset.org/val2017/000000198489.jpg",
+    "relative_path": "raw/images/000000198489.jpg",
+    "bytes": 224890,
+    "sha256": "d199d17ae41effbdd7b190888b03331e18905084d55c98bf6f7b6d9eb688c02a",
+    "accessed_utc": "2026-09-25T20:47:04.734510+00:00"
+  },
+  {
+    "image_id": 200839,
+    "status": "cached",
+    "url": "http://images.cocodataset.org/val2017/000000200839.jpg",
+    "relative_path": "raw/images/000000200839.jpg",
+    "bytes": 203018,
+    "sha256": "154ccc80280800738f0c67dd2c1aeb1622079408d311327d18314b96cbadd67c",
+    "accessed_utc": "2026-09-25T20:47:04.734510+00:00"
+  },
+  {
+    "image_id": 201934,
+    "status": "cached",
+    "url": "http://images.cocodataset.org/val2017/000000201934.jpg",
+    "relative_path": "raw/images/000000201934.jpg",
+    "bytes": 60219,
+    "sha256": "a5702ac025e235ee3de6205238323c50ef6792142b53e8b379a41e57f037a2cf",
+    "accessed_utc": "2026-09-25T20:47:04.734510+00:00"
+  },
+  {
+    "image_id": 202339,
+    "status": "cached",
+    "url": "http://images.cocodataset.org/val2017/000000202339.jpg",
+    "relative_path": "raw/images/000000202339.jpg",
+    "bytes": 195767,
+    "sha256": "9b1d63dff953ffb99953a9c7073ba01772810928f3b22a205b267f9ae0fa7ed5",
+    "accessed_utc": "2026-09-25T20:47:04.734510+00:00"
+  },
+  {
+    "image_id": 203294,
+    "status": "cached",
+    "url": "http://images.cocodataset.org/val2017/000000203294.jpg",
+    "relative_path": "raw/images/000000203294.jpg",
+    "bytes": 241482,
+    "sha256": "c5d43fb94e11fae1e3bf97b08bebb4a96d7735bb92a6bab8bf8618000208ef9c",
+    "accessed_utc": "2026-09-25T20:47:04.734510+00:00"
+  },
+  {
+    "image_id": 204871,
+    "status": "cached",
+    "url": "http://images.cocodataset.org/val2017/000000204871.jpg",
+    "relative_path": "raw/images/000000204871.jpg",
+    "bytes": 152642,
+    "sha256": "f471e48c808ea689a1e3a4a1214bc03e81a95195146b0c42601dbd6eaa006c89",
+    "accessed_utc": "2026-09-25T20:47:04.734510+00:00"
+  },
+  {
+    "image_id": 205289,
+    "status": "cached",
+    "url": "http://images.cocodataset.org/val2017/000000205289.jpg",
+    "relative_path": "raw/images/000000205289.jpg",
+    "bytes": 164786,
+    "sha256": "c9a58eeace3113acbac814cdd972ac4319bc67a5957f0132371288e605607b89",
+    "accessed_utc": "2026-09-25T20:47:04.734510+00:00"
+  },
+  {
+    "image_id": 205647,
+    "status": "cached",
+    "url": "http://images.cocodataset.org/val2017/000000205647.jpg",
+    "relative_path": "raw/images/000000205647.jpg",
+    "bytes": 165340,
+    "sha256": "7b57ce0fe44c455fc400a75c4aae17d107442a3578006fc0313578e5c0e5371f",
+    "accessed_utc": "2026-09-25T20:47:04.734510+00:00"
+  },
+  {
+    "image_id": 206487,
+    "status": "cached",
+    "url": "http://images.cocodataset.org/val2017/000000206487.jpg",
+    "relative_path": "raw/images/000000206487.jpg",
+    "bytes": 253864,
+    "sha256": "3df6eaf2b80be894a9909549b5177958ab932776d4e8a5843c51464710284b5f",
+    "accessed_utc": "2026-09-25T20:47:04.734510+00:00"
+  },
+  {
+    "image_id": 210273,
+    "status": "cached",
+    "url": "http://images.cocodataset.org/val2017/000000210273.jpg",
+    "relative_path": "raw/images/000000210273.jpg",
+    "bytes": 146443,
+    "sha256": "3ec23de63592c1eef86740fd46fed2cb66170fca02b695d37e6ae379dcee4355",
+    "accessed_utc": "2026-09-25T20:47:04.734510+00:00"
+  },
+  {
+    "image_id": 210789,
+    "status": "cached",
+    "url": "http://images.cocodataset.org/val2017/000000210789.jpg",
+    "relative_path": "raw/images/000000210789.jpg",
+    "bytes": 128406,
+    "sha256": "86d17cae625d00c9e8dfd08f5bf04e1fd66120bd6cde931ebd1e0ef6962affc7",
+    "accessed_utc": "2026-09-25T20:47:04.734510+00:00"
+  },
+  {
+    "image_id": 211674,
+    "status": "cached",
+    "url": "http://images.cocodataset.org/val2017/000000211674.jpg",
+    "relative_path": "raw/images/000000211674.jpg",
+    "bytes": 163756,
+    "sha256": "35668e0f1e026343b862ec9e0663558c92aa60883ecffde2a98f5c3832b4aa7f",
+    "accessed_utc": "2026-09-25T20:47:04.734510+00:00"
+  },
+  {
+    "image_id": 212226,
+    "status": "cached",
+    "url": "http://images.cocodataset.org/val2017/000000212226.jpg",
+    "relative_path": "raw/images/000000212226.jpg",
+    "bytes": 98901,
+    "sha256": "261ba1b81c768f47b8452cd8fc7866a354a69c336a927032486d129b8684eb44",
+    "accessed_utc": "2026-09-25T20:47:04.734510+00:00"
+  },
+  {
+    "image_id": 213255,
+    "status": "cached",
+    "url": "http://images.cocodataset.org/val2017/000000213255.jpg",
+    "relative_path": "raw/images/000000213255.jpg",
+    "bytes": 112582,
+    "sha256": "536b78fa08534eb0778e58838065ba773fe8751dd87c13bf070f726affaab6e0",
+    "accessed_utc": "2026-09-25T20:47:04.734510+00:00"
+  },
+  {
+    "image_id": 213605,
+    "status": "cached",
+    "url": "http://images.cocodataset.org/val2017/000000213605.jpg",
+    "relative_path": "raw/images/000000213605.jpg",
+    "bytes": 229712,
+    "sha256": "fa2219d8ac3130ba9ca1e1c9c7ed2b19949a99850854cae14734b9abbd477583",
+    "accessed_utc": "2026-09-25T20:47:04.734510+00:00"
+  },
+  {
+    "image_id": 214200,
+    "status": "cached",
+    "url": "http://images.cocodataset.org/val2017/000000214200.jpg",
+    "relative_path": "raw/images/000000214200.jpg",
+    "bytes": 140330,
+    "sha256": "9e93bc93c96357bb1c7d5f6f784531aa1235933e2f844efae10860c024c601c3",
+    "accessed_utc": "2026-09-25T20:47:04.734510+00:00"
+  },
+  {
+    "image_id": 215723,
+    "status": "cached",
+    "url": "http://images.cocodataset.org/val2017/000000215723.jpg",
+    "relative_path": "raw/images/000000215723.jpg",
+    "bytes": 91890,
+    "sha256": "20e15853e22f5d69312b821e846671af204a12dc24631bc46f4ef8e72da19be7",
+    "accessed_utc": "2026-09-25T20:47:04.739134+00:00"
+  },
+  {
+    "image_id": 219271,
+    "status": "cached",
+    "url": "http://images.cocodataset.org/val2017/000000219271.jpg",
+    "relative_path": "raw/images/000000219271.jpg",
+    "bytes": 44857,
+    "sha256": "404ee96388af2dbbe54de91cc6da0f1ec3803c9d027fd2c89c7fac930ab2088d",
+    "accessed_utc": "2026-09-25T20:47:04.739134+00:00"
+  },
+  {
+    "image_id": 220732,
+    "status": "cached",
+    "url": "http://images.cocodataset.org/val2017/000000220732.jpg",
+    "relative_path": "raw/images/000000220732.jpg",
+    "bytes": 199382,
+    "sha256": "81b9254c750f52ebc8fcc5fa421ab8a3ac430db19f541bfb7541adada76a6a30",
+    "accessed_utc": "2026-09-25T20:47:04.734510+00:00"
+  },
+  {
+    "image_id": 222094,
+    "status": "cached",
+    "url": "http://images.cocodataset.org/val2017/000000222094.jpg",
+    "relative_path": "raw/images/000000222094.jpg",
+    "bytes": 125915,
+    "sha256": "1d9bcba769c81d9703d4d5cf3502e8997916347c91648104f888866634b2de8b",
+    "accessed_utc": "2026-09-25T20:47:04.739134+00:00"
+  },
+  {
+    "image_id": 224051,
+    "status": "cached",
+    "url": "http://images.cocodataset.org/val2017/000000224051.jpg",
+    "relative_path": "raw/images/000000224051.jpg",
+    "bytes": 137812,
+    "sha256": "ad01e4704883ecaaa25321efcc24d2ada74a725fe70cc0578890dca7a4745c60",
+    "accessed_utc": "2026-09-25T20:47:04.739134+00:00"
+  },
+  {
+    "image_id": 224724,
+    "status": "cached",
+    "url": "http://images.cocodataset.org/val2017/000000224724.jpg",
+    "relative_path": "raw/images/000000224724.jpg",
+    "bytes": 150851,
+    "sha256": "78effdbaecaa4db9353c72b69b27969ef20359cf144ad47b244ffd0ab3265bf0",
+    "accessed_utc": "2026-09-25T20:47:04.739134+00:00"
+  },
+  {
+    "image_id": 225532,
+    "status": "cached",
+    "url": "http://images.cocodataset.org/val2017/000000225532.jpg",
+    "relative_path": "raw/images/000000225532.jpg",
+    "bytes": 90179,
+    "sha256": "5a07bffd50042e13421fbdb48eb2e89badb941fa1c27ba20a2f9c9f69b5f35db",
+    "accessed_utc": "2026-09-25T20:47:04.739134+00:00"
+  },
+  {
+    "image_id": 226154,
+    "status": "cached",
+    "url": "http://images.cocodataset.org/val2017/000000226154.jpg",
+    "relative_path": "raw/images/000000226154.jpg",
+    "bytes": 138132,
+    "sha256": "c1c4315fd2043e9a2ae44d5e9176a1b844b3dd5d50c2b0b74fdd3084dc0d216e",
+    "accessed_utc": "2026-09-25T20:47:04.739134+00:00"
+  },
+  {
+    "image_id": 226802,
+    "status": "cached",
+    "url": "http://images.cocodataset.org/val2017/000000226802.jpg",
+    "relative_path": "raw/images/000000226802.jpg",
+    "bytes": 146236,
+    "sha256": "1be10574bd4a77358d6d778a5f1badf4ea2f081ebe59ce07db7e9105d07c4e0c",
+    "accessed_utc": "2026-09-25T20:47:04.739134+00:00"
+  },
+  {
+    "image_id": 227511,
+    "status": "cached",
+    "url": "http://images.cocodataset.org/val2017/000000227511.jpg",
+    "relative_path": "raw/images/000000227511.jpg",
+    "bytes": 160712,
+    "sha256": "9fc4da31a5388bb29c1348ba37e139af14e63eba2d39bfd07d48756df87912cb",
+    "accessed_utc": "2026-09-25T20:47:04.739134+00:00"
+  },
+  {
+    "image_id": 229948,
+    "status": "cached",
+    "url": "http://images.cocodataset.org/val2017/000000229948.jpg",
+    "relative_path": "raw/images/000000229948.jpg",
+    "bytes": 153579,
+    "sha256": "0b7d8fbfc3966e04899ceb96a391aacf7805749aee405cfb20226cb189f34009",
+    "accessed_utc": "2026-09-25T20:47:04.739134+00:00"
+  },
+  {
+    "image_id": 230008,
+    "status": "cached",
+    "url": "http://images.cocodataset.org/val2017/000000230008.jpg",
+    "relative_path": "raw/images/000000230008.jpg",
+    "bytes": 221091,
+    "sha256": "71685782cd06160eb22c6b1bf4da9149374e41f878767c7bb1f5e41183c2d120",
+    "accessed_utc": "2026-09-25T20:47:04.739134+00:00"
+  },
+  {
+    "image_id": 231508,
+    "status": "cached",
+    "url": "http://images.cocodataset.org/val2017/000000231508.jpg",
+    "relative_path": "raw/images/000000231508.jpg",
+    "bytes": 150098,
+    "sha256": "e0af7f51a9a89f1c5d80a1d53a8196dc2e7bfdcde170947f4830822d533f9bb6",
+    "accessed_utc": "2026-09-25T20:47:04.739134+00:00"
+  },
+  {
+    "image_id": 233727,
+    "status": "cached",
+    "url": "http://images.cocodataset.org/val2017/000000233727.jpg",
+    "relative_path": "raw/images/000000233727.jpg",
+    "bytes": 168109,
+    "sha256": "51af6bee62011f2031b93e7039c81bf8ad65d484146ac8f2541a530d410644a0",
+    "accessed_utc": "2026-09-25T20:47:04.739134+00:00"
+  },
+  {
+    "image_id": 233771,
+    "status": "cached",
+    "url": "http://images.cocodataset.org/val2017/000000233771.jpg",
+    "relative_path": "raw/images/000000233771.jpg",
+    "bytes": 195232,
+    "sha256": "74a1c2c7bab09dd89ecda08fe54e44d2478fa1e90ac4dc8fd172226f9fdd9119",
+    "accessed_utc": "2026-09-25T20:47:04.739134+00:00"
+  },
+  {
+    "image_id": 236845,
+    "status": "cached",
+    "url": "http://images.cocodataset.org/val2017/000000236845.jpg",
+    "relative_path": "raw/images/000000236845.jpg",
+    "bytes": 179036,
+    "sha256": "fac9633f1a2667d635c668fe7481db95032a4838df255844cfec143c11ddb3a8",
+    "accessed_utc": "2026-09-25T20:47:04.739134+00:00"
+  },
+  {
+    "image_id": 242411,
+    "status": "cached",
+    "url": "http://images.cocodataset.org/val2017/000000242411.jpg",
+    "relative_path": "raw/images/000000242411.jpg",
+    "bytes": 157498,
+    "sha256": "758c1fb8f4dd4add47472a751b81fd01de2f0b0ff3f9c4e7bb6b749e45eacf62",
+    "accessed_utc": "2026-09-25T20:47:04.739134+00:00"
+  },
+  {
+    "image_id": 245320,
+    "status": "cached",
+    "url": "http://images.cocodataset.org/val2017/000000245320.jpg",
+    "relative_path": "raw/images/000000245320.jpg",
+    "bytes": 106043,
+    "sha256": "944c7222b6da847bba576d9999bc80c163da56cd08d4c77374c1169ee04e810d",
+    "accessed_utc": "2026-09-25T20:47:04.743308+00:00"
+  },
+  {
+    "image_id": 249219,
+    "status": "cached",
+    "url": "http://images.cocodataset.org/val2017/000000249219.jpg",
+    "relative_path": "raw/images/000000249219.jpg",
+    "bytes": 288896,
+    "sha256": "141d3cf96e4324705add1db8eba08c16be30aed16e927f4dae0bfc60d9a265d0",
+    "accessed_utc": "2026-09-25T20:47:04.743308+00:00"
+  },
+  {
+    "image_id": 255749,
+    "status": "cached",
+    "url": "http://images.cocodataset.org/val2017/000000255749.jpg",
+    "relative_path": "raw/images/000000255749.jpg",
+    "bytes": 89307,
+    "sha256": "6b7e93b3bddf3c69af9f2411c46d7b3321ca0eebb18009c8476eb8f620ebd1a6",
+    "accessed_utc": "2026-09-25T20:47:04.743308+00:00"
+  },
+  {
+    "image_id": 260925,
+    "status": "cached",
+    "url": "http://images.cocodataset.org/val2017/000000260925.jpg",
+    "relative_path": "raw/images/000000260925.jpg",
+    "bytes": 148677,
+    "sha256": "772da4e47a7ec53f1ca83ca29f92fccc426e03be39641aa5fafb6db5fc913240",
+    "accessed_utc": "2026-09-25T20:47:04.743308+00:00"
+  },
+  {
+    "image_id": 261982,
+    "status": "cached",
+    "url": "http://images.cocodataset.org/val2017/000000261982.jpg",
+    "relative_path": "raw/images/000000261982.jpg",
+    "bytes": 115752,
+    "sha256": "a89dbf1e93c72e44335247a7f31a93e274c8d065e0b78210068f99feb216299a",
+    "accessed_utc": "2026-09-25T20:47:04.743308+00:00"
+  },
+  {
+    "image_id": 269632,
+    "status": "cached",
+    "url": "http://images.cocodataset.org/val2017/000000269632.jpg",
+    "relative_path": "raw/images/000000269632.jpg",
+    "bytes": 150524,
+    "sha256": "eacd77dd985fd0c0ea4a761c6087956a885394240033649296cb015e4469485e",
+    "accessed_utc": "2026-09-25T20:47:04.744388+00:00"
+  },
+  {
+    "image_id": 269942,
+    "status": "cached",
+    "url": "http://images.cocodataset.org/val2017/000000269942.jpg",
+    "relative_path": "raw/images/000000269942.jpg",
+    "bytes": 99317,
+    "sha256": "b0185e227082a1aa4406912643dcd320ae48e6713ab2bdeae35566f1597a9e31",
+    "accessed_utc": "2026-09-25T20:47:04.744388+00:00"
+  },
+  {
+    "image_id": 272049,
+    "status": "cached",
+    "url": "http://images.cocodataset.org/val2017/000000272049.jpg",
+    "relative_path": "raw/images/000000272049.jpg",
+    "bytes": 207736,
+    "sha256": "edcce591803494f25d75b861d799a3df9b664069773fcab5bbfbd7937058d417",
+    "accessed_utc": "2026-09-25T20:47:04.745387+00:00"
+  },
+  {
+    "image_id": 274272,
+    "status": "cached",
+    "url": "http://images.cocodataset.org/val2017/000000274272.jpg",
+    "relative_path": "raw/images/000000274272.jpg",
+    "bytes": 224913,
+    "sha256": "e87ab7fa2006444ffb6f71b65a5743d33365313b30c96c8b559de7dc7891a404",
+    "accessed_utc": "2026-09-25T20:47:04.745387+00:00"
+  },
+  {
+    "image_id": 274411,
+    "status": "cached",
+    "url": "http://images.cocodataset.org/val2017/000000274411.jpg",
+    "relative_path": "raw/images/000000274411.jpg",
+    "bytes": 139860,
+    "sha256": "35d973039e8d5c69e56c5ae70484a41026c473796b5bbaddbff5ab969079bd2b",
+    "accessed_utc": "2026-09-25T20:47:04.745387+00:00"
+  },
+  {
+    "image_id": 277005,
+    "status": "cached",
+    "url": "http://images.cocodataset.org/val2017/000000277005.jpg",
+    "relative_path": "raw/images/000000277005.jpg",
+    "bytes": 247722,
+    "sha256": "3cfea124dbcca946c927f9fefe4314b1a41ff8374adb316bdd969aca100b3d85",
+    "accessed_utc": "2026-09-25T20:47:04.745387+00:00"
+  },
+  {
+    "image_id": 278705,
+    "status": "cached",
+    "url": "http://images.cocodataset.org/val2017/000000278705.jpg",
+    "relative_path": "raw/images/000000278705.jpg",
+    "bytes": 151666,
+    "sha256": "d01c906a85c3f77702bdbf9dc7cedf11310e9aa47c6730927f51d9651dece310",
+    "accessed_utc": "2026-09-25T20:47:04.744388+00:00"
+  },
+  {
+    "image_id": 278848,
+    "status": "cached",
+    "url": "http://images.cocodataset.org/val2017/000000278848.jpg",
+    "relative_path": "raw/images/000000278848.jpg",
+    "bytes": 120681,
+    "sha256": "a306321447aa9c6ade4dc28a173f2cba38e1decee4941c89f0749b17fe24fed0",
+    "accessed_utc": "2026-09-25T20:47:04.746386+00:00"
+  },
+  {
+    "image_id": 280710,
+    "status": "cached",
+    "url": "http://images.cocodataset.org/val2017/000000280710.jpg",
+    "relative_path": "raw/images/000000280710.jpg",
+    "bytes": 224262,
+    "sha256": "1a76947fe2c8d39ae21d346118c413bfe06817dda5424e3451ef870db487fe49",
+    "accessed_utc": "2026-09-25T20:47:04.746949+00:00"
+  },
+  {
+    "image_id": 283037,
+    "status": "cached",
+    "url": "http://images.cocodataset.org/val2017/000000283037.jpg",
+    "relative_path": "raw/images/000000283037.jpg",
+    "bytes": 111016,
+    "sha256": "468c710d83cdc6db7be6b4a2c0902d2e02aeba6dc364f214a7dcb8bc85c441d4",
+    "accessed_utc": "2026-09-25T20:47:04.746386+00:00"
+  },
+  {
+    "image_id": 283038,
+    "status": "cached",
+    "url": "http://images.cocodataset.org/val2017/000000283038.jpg",
+    "relative_path": "raw/images/000000283038.jpg",
+    "bytes": 137026,
+    "sha256": "d2bd4dd1e335f37cb7765906adf646e8eb24b1fee3a61e1868e17e7bb2746a84",
+    "accessed_utc": "2026-09-25T20:47:04.746949+00:00"
+  },
+  {
+    "image_id": 283318,
+    "status": "cached",
+    "url": "http://images.cocodataset.org/val2017/000000283318.jpg",
+    "relative_path": "raw/images/000000283318.jpg",
+    "bytes": 164102,
+    "sha256": "4b94d49605715fe88957ac8838ba58746a9082d5beee2928429f4bda101477ee",
+    "accessed_utc": "2026-09-25T20:47:04.746949+00:00"
+  },
+  {
+    "image_id": 284725,
+    "status": "cached",
+    "url": "http://images.cocodataset.org/val2017/000000284725.jpg",
+    "relative_path": "raw/images/000000284725.jpg",
+    "bytes": 244448,
+    "sha256": "10ab8075df3cd9e3344d12fbb764a3c977e809bd06726649b686dd68abcbdf07",
+    "accessed_utc": "2026-09-25T20:47:04.746949+00:00"
+  },
+  {
+    "image_id": 287291,
+    "status": "cached",
+    "url": "http://images.cocodataset.org/val2017/000000287291.jpg",
+    "relative_path": "raw/images/000000287291.jpg",
+    "bytes": 109298,
+    "sha256": "e6dfa7707e0369473b6ac5d90377963b4d92042f0fe68b238cb01ee3d93c8118",
+    "accessed_utc": "2026-09-25T20:47:04.746949+00:00"
+  },
+  {
+    "image_id": 289222,
+    "status": "cached",
+    "url": "http://images.cocodataset.org/val2017/000000289222.jpg",
+    "relative_path": "raw/images/000000289222.jpg",
+    "bytes": 89712,
+    "sha256": "3a184bfd08f6a64fbaeeae674ecdd25ca524604f48640586d8831a33d6db3210",
+    "accessed_utc": "2026-09-25T20:47:04.746949+00:00"
+  },
+  {
+    "image_id": 289938,
+    "status": "cached",
+    "url": "http://images.cocodataset.org/val2017/000000289938.jpg",
+    "relative_path": "raw/images/000000289938.jpg",
+    "bytes": 236234,
+    "sha256": "f6c60eada61cc6c2358599ba213e8c196eb37ce4a3bd12fdfb10932e524233cb",
+    "accessed_utc": "2026-09-25T20:47:04.746949+00:00"
+  },
+  {
+    "image_id": 290248,
+    "status": "cached",
+    "url": "http://images.cocodataset.org/val2017/000000290248.jpg",
+    "relative_path": "raw/images/000000290248.jpg",
+    "bytes": 171095,
+    "sha256": "41f023e930039ac0be9173952f0942cf96be532cc5500f53a8bec2e9ef86bcd8",
+    "accessed_utc": "2026-09-25T20:47:04.746949+00:00"
+  },
+  {
+    "image_id": 293071,
+    "status": "cached",
+    "url": "http://images.cocodataset.org/val2017/000000293071.jpg",
+    "relative_path": "raw/images/000000293071.jpg",
+    "bytes": 119801,
+    "sha256": "20f701233b0235e3f6e31e11c8b4364c1aedd954a5fc7d2d5610aaa8318d0528",
+    "accessed_utc": "2026-09-25T20:47:04.746949+00:00"
+  },
+  {
+    "image_id": 295420,
+    "status": "cached",
+    "url": "http://images.cocodataset.org/val2017/000000295420.jpg",
+    "relative_path": "raw/images/000000295420.jpg",
+    "bytes": 178767,
+    "sha256": "fc0601e452807c790823559ddfc7fcfadfb61c59c6af8389ccff3444c604761a",
+    "accessed_utc": "2026-09-25T20:47:04.746949+00:00"
+  },
+  {
+    "image_id": 296224,
+    "status": "cached",
+    "url": "http://images.cocodataset.org/val2017/000000296224.jpg",
+    "relative_path": "raw/images/000000296224.jpg",
+    "bytes": 214937,
+    "sha256": "bfdfaa35d64439d19781ad60ff92fa5b3d7b90a7293f1603574951871d2238b9",
+    "accessed_utc": "2026-09-25T20:47:04.746949+00:00"
+  },
+  {
+    "image_id": 297022,
+    "status": "cached",
+    "url": "http://images.cocodataset.org/val2017/000000297022.jpg",
+    "relative_path": "raw/images/000000297022.jpg",
+    "bytes": 196810,
+    "sha256": "301882dc7008eed384bf6229ce1d21f1b70edcd1d9a75f9cf74439623f34c8ff",
+    "accessed_utc": "2026-09-25T20:47:04.746949+00:00"
+  },
+  {
+    "image_id": 297681,
+    "status": "cached",
+    "url": "http://images.cocodataset.org/val2017/000000297681.jpg",
+    "relative_path": "raw/images/000000297681.jpg",
+    "bytes": 204474,
+    "sha256": "854a1a8c19dd9a428efd4fb35900b48f2606cf784238883cf0ae9ca1a0eaf0e4",
+    "accessed_utc": "2026-09-25T20:47:04.751151+00:00"
+  },
+  {
+    "image_id": 301135,
+    "status": "cached",
+    "url": "http://images.cocodataset.org/val2017/000000301135.jpg",
+    "relative_path": "raw/images/000000301135.jpg",
+    "bytes": 267834,
+    "sha256": "cb645e1fd3db446a1edca77892935a2d3c4140fa9eb813630dfb1179c16440ba",
+    "accessed_utc": "2026-09-25T20:47:04.746949+00:00"
+  },
+  {
+    "image_id": 301376,
+    "status": "cached",
+    "url": "http://images.cocodataset.org/val2017/000000301376.jpg",
+    "relative_path": "raw/images/000000301376.jpg",
+    "bytes": 92115,
+    "sha256": "57ead4a94a6df986a161c014c0719b6c37b52ea2aa2246c297ec44db06eb7a2e",
+    "accessed_utc": "2026-09-25T20:47:04.752306+00:00"
+  },
+  {
+    "image_id": 301421,
+    "status": "cached",
+    "url": "http://images.cocodataset.org/val2017/000000301421.jpg",
+    "relative_path": "raw/images/000000301421.jpg",
+    "bytes": 82481,
+    "sha256": "a68205cde5ae859ac50c6cb563a0a3e5f7d780f28625afddeb8db153c7dcbb71",
+    "accessed_utc": "2026-09-25T20:47:04.746949+00:00"
+  },
+  {
+    "image_id": 303305,
+    "status": "cached",
+    "url": "http://images.cocodataset.org/val2017/000000303305.jpg",
+    "relative_path": "raw/images/000000303305.jpg",
+    "bytes": 216376,
+    "sha256": "3a68aba42359945b3490eb9c643d279107d41cb15370a0e327cbd0adbbef0356",
+    "accessed_utc": "2026-09-25T20:47:04.751151+00:00"
+  },
+  {
+    "image_id": 303818,
+    "status": "cached",
+    "url": "http://images.cocodataset.org/val2017/000000303818.jpg",
+    "relative_path": "raw/images/000000303818.jpg",
+    "bytes": 240751,
+    "sha256": "7e8916d1f7c98799b8ea70c9b5f20486167dde4c70f6d35d36d2cc384a4c2624",
+    "accessed_utc": "2026-09-25T20:47:04.746949+00:00"
+  },
+  {
+    "image_id": 306136,
+    "status": "cached",
+    "url": "http://images.cocodataset.org/val2017/000000306136.jpg",
+    "relative_path": "raw/images/000000306136.jpg",
+    "bytes": 85618,
+    "sha256": "4409dddd7ba4c58cd3c8f37f170075677db1284d34e75bd312b9cb84f528268d",
+    "accessed_utc": "2026-09-25T20:47:04.751151+00:00"
+  },
+  {
+    "image_id": 308328,
+    "status": "cached",
+    "url": "http://images.cocodataset.org/val2017/000000308328.jpg",
+    "relative_path": "raw/images/000000308328.jpg",
+    "bytes": 203651,
+    "sha256": "58a5b249b1f0f9b33ac2a3fc00fb7217e359a6430d300f637397dcef9c91e2b7",
+    "accessed_utc": "2026-09-25T20:47:04.751151+00:00"
+  },
+  {
+    "image_id": 308531,
+    "status": "cached",
+    "url": "http://images.cocodataset.org/val2017/000000308531.jpg",
+    "relative_path": "raw/images/000000308531.jpg",
+    "bytes": 204598,
+    "sha256": "fa6aa7ce0a999e5e045c425122407e56867ff342e86ee17f65d1f2d62dcbb90e",
+    "accessed_utc": "2026-09-25T20:47:04.753306+00:00"
+  },
+  {
+    "image_id": 309391,
+    "status": "cached",
+    "url": "http://images.cocodataset.org/val2017/000000309391.jpg",
+    "relative_path": "raw/images/000000309391.jpg",
+    "bytes": 245344,
+    "sha256": "8ed212a0ffcf1b3d5f1fb307839030fb41aed1ff7488845a3bed02e386474082",
+    "accessed_utc": "2026-09-25T20:47:04.754306+00:00"
+  },
+  {
+    "image_id": 309964,
+    "status": "cached",
+    "url": "http://images.cocodataset.org/val2017/000000309964.jpg",
+    "relative_path": "raw/images/000000309964.jpg",
+    "bytes": 232877,
+    "sha256": "6c6ab701603a55d002e37b62a757da1f9be3f94346dd74344b7dd7f589b48793",
+    "accessed_utc": "2026-09-25T20:47:04.753306+00:00"
+  },
+  {
+    "image_id": 310072,
+    "status": "cached",
+    "url": "http://images.cocodataset.org/val2017/000000310072.jpg",
+    "relative_path": "raw/images/000000310072.jpg",
+    "bytes": 210572,
+    "sha256": "0404d2aa95236840dcc75a43f8cad1f4b03d382c72e86aaff751cb142f18a8e7",
+    "accessed_utc": "2026-09-25T20:47:04.754306+00:00"
+  },
+  {
+    "image_id": 311909,
+    "status": "cached",
+    "url": "http://images.cocodataset.org/val2017/000000311909.jpg",
+    "relative_path": "raw/images/000000311909.jpg",
+    "bytes": 216051,
+    "sha256": "f79fdaca57226b29458020701e10a441fb21e6180e5bebd059c4b01f86bd0cd7",
+    "accessed_utc": "2026-09-25T20:47:04.753306+00:00"
+  },
+  {
+    "image_id": 313182,
+    "status": "cached",
+    "url": "http://images.cocodataset.org/val2017/000000313182.jpg",
+    "relative_path": "raw/images/000000313182.jpg",
+    "bytes": 165380,
+    "sha256": "eb866ca692e9cbffe64807c519b6b2ce6fec169734658331c3399613cd8ec20f",
+    "accessed_utc": "2026-09-25T20:47:04.754306+00:00"
+  },
+  {
+    "image_id": 313588,
+    "status": "cached",
+    "url": "http://images.cocodataset.org/val2017/000000313588.jpg",
+    "relative_path": "raw/images/000000313588.jpg",
+    "bytes": 233858,
+    "sha256": "4635596b77228a330bebea2dba69c6c96f33febfeb4047f5e74f34a85692387b",
+    "accessed_utc": "2026-09-25T20:47:04.754306+00:00"
+  },
+  {
+    "image_id": 314914,
+    "status": "cached",
+    "url": "http://images.cocodataset.org/val2017/000000314914.jpg",
+    "relative_path": "raw/images/000000314914.jpg",
+    "bytes": 227351,
+    "sha256": "a73311750c13e8c8ca8284470cc0bcf3a6d64244594d5153d712b1be0446e182",
+    "accessed_utc": "2026-09-25T20:47:04.754306+00:00"
+  },
+  {
+    "image_id": 315187,
+    "status": "cached",
+    "url": "http://images.cocodataset.org/val2017/000000315187.jpg",
+    "relative_path": "raw/images/000000315187.jpg",
+    "bytes": 202430,
+    "sha256": "29fcdb959434fddb1f1d11716cf3fd57d3d73310567b9be43046533a00fbd235",
+    "accessed_utc": "2026-09-25T20:47:04.753306+00:00"
+  },
+  {
+    "image_id": 332318,
+    "status": "cached",
+    "url": "http://images.cocodataset.org/val2017/000000332318.jpg",
+    "relative_path": "raw/images/000000332318.jpg",
+    "bytes": 190977,
+    "sha256": "8fbcd5c30eac0658d04867d13cdaf1edfd366d73cad2aae79bc40df3923dfb07",
+    "accessed_utc": "2026-09-25T20:47:04.754306+00:00"
+  },
+  {
+    "image_id": 333745,
+    "status": "cached",
+    "url": "http://images.cocodataset.org/val2017/000000333745.jpg",
+    "relative_path": "raw/images/000000333745.jpg",
+    "bytes": 95356,
+    "sha256": "db3e2af085b3eafd7b00ebf44f43eebf839838a68493dcaaa3529fff953835c9",
+    "accessed_utc": "2026-09-25T20:47:04.757458+00:00"
+  },
+  {
+    "image_id": 334006,
+    "status": "cached",
+    "url": "http://images.cocodataset.org/val2017/000000334006.jpg",
+    "relative_path": "raw/images/000000334006.jpg",
+    "bytes": 193556,
+    "sha256": "de98604a9ca39b461312d8073cb94eabc516bcbab21231404c96d4dea1419f68",
+    "accessed_utc": "2026-09-25T20:47:04.757458+00:00"
+  },
+  {
+    "image_id": 334371,
+    "status": "cached",
+    "url": "http://images.cocodataset.org/val2017/000000334371.jpg",
+    "relative_path": "raw/images/000000334371.jpg",
+    "bytes": 138782,
+    "sha256": "92974746d650d1562788bde333d087df29ca666662b5b35855cac1f9e62f21b8",
+    "accessed_utc": "2026-09-25T20:47:04.757458+00:00"
+  },
+  {
+    "image_id": 334555,
+    "status": "cached",
+    "url": "http://images.cocodataset.org/val2017/000000334555.jpg",
+    "relative_path": "raw/images/000000334555.jpg",
+    "bytes": 205279,
+    "sha256": "4a388fd316719eb740ad6b6c710dc5b8cf13be8abdff0030597ae15fd71b63aa",
+    "accessed_utc": "2026-09-25T20:47:04.756458+00:00"
+  },
+  {
+    "image_id": 336658,
+    "status": "cached",
+    "url": "http://images.cocodataset.org/val2017/000000336658.jpg",
+    "relative_path": "raw/images/000000336658.jpg",
+    "bytes": 207576,
+    "sha256": "df6714f025c3c3020d592110ef0742d4b75b1d9383817cb2e4713678338de4ba",
+    "accessed_utc": "2026-09-25T20:47:04.757458+00:00"
+  },
+  {
+    "image_id": 338625,
+    "status": "cached",
+    "url": "http://images.cocodataset.org/val2017/000000338625.jpg",
+    "relative_path": "raw/images/000000338625.jpg",
+    "bytes": 199054,
+    "sha256": "7b4da0464933e5669fab644bb183beb3e8f45a99a27c4d25667213e5efc83b79",
+    "accessed_utc": "2026-09-25T20:47:04.756458+00:00"
+  },
+  {
+    "image_id": 338986,
+    "status": "cached",
+    "url": "http://images.cocodataset.org/val2017/000000338986.jpg",
+    "relative_path": "raw/images/000000338986.jpg",
+    "bytes": 180508,
+    "sha256": "62fee3f216c3cb2af25eac42d4b1b48acf30652ea1e8dd154aa4dcca480b852f",
+    "accessed_utc": "2026-09-25T20:47:04.757458+00:00"
+  },
+  {
+    "image_id": 343218,
+    "status": "cached",
+    "url": "http://images.cocodataset.org/val2017/000000343218.jpg",
+    "relative_path": "raw/images/000000343218.jpg",
+    "bytes": 78134,
+    "sha256": "ff45d2490e8dfa3d775ddf5ea378d835cdec56eed9c33190c9a00cfd584e7871",
+    "accessed_utc": "2026-09-25T20:47:04.755365+00:00"
+  },
+  {
+    "image_id": 344909,
+    "status": "cached",
+    "url": "http://images.cocodataset.org/val2017/000000344909.jpg",
+    "relative_path": "raw/images/000000344909.jpg",
+    "bytes": 123073,
+    "sha256": "963758fe1359544f537414afa68230ac2a6043ceb37347f157d95416beef18d4",
+    "accessed_utc": "2026-09-25T20:47:04.756458+00:00"
+  },
+  {
+    "image_id": 345027,
+    "status": "cached",
+    "url": "http://images.cocodataset.org/val2017/000000345027.jpg",
+    "relative_path": "raw/images/000000345027.jpg",
+    "bytes": 166168,
+    "sha256": "0c6655788cf20761d9c650c631d254cea96be405cc5f8ab06a6f1446844ad5d5",
+    "accessed_utc": "2026-09-25T20:47:04.757458+00:00"
+  },
+  {
+    "image_id": 347544,
+    "status": "cached",
+    "url": "http://images.cocodataset.org/val2017/000000347544.jpg",
+    "relative_path": "raw/images/000000347544.jpg",
+    "bytes": 123975,
+    "sha256": "9d9cbb07a6f3b727e1f45c0208cad1ec6f83f41814752bc4c9bcec1ddfe2909d",
+    "accessed_utc": "2026-09-25T20:47:04.758459+00:00"
+  },
+  {
+    "image_id": 350003,
+    "status": "cached",
+    "url": "http://images.cocodataset.org/val2017/000000350003.jpg",
+    "relative_path": "raw/images/000000350003.jpg",
+    "bytes": 217811,
+    "sha256": "4278c4c673a2e75b1f63780d026b3c05dd9955eeae50cd017a8e1844b736ce58",
+    "accessed_utc": "2026-09-25T20:47:04.758459+00:00"
+  },
+  {
+    "image_id": 350023,
+    "status": "cached",
+    "url": "http://images.cocodataset.org/val2017/000000350023.jpg",
+    "relative_path": "raw/images/000000350023.jpg",
+    "bytes": 78487,
+    "sha256": "93ae8ddf49d3289ccb6262bd74f9cab4b625283cc57d3013c95ff9651cea7c48",
+    "accessed_utc": "2026-09-25T20:47:04.759475+00:00"
+  },
+  {
+    "image_id": 350148,
+    "status": "cached",
+    "url": "http://images.cocodataset.org/val2017/000000350148.jpg",
+    "relative_path": "raw/images/000000350148.jpg",
+    "bytes": 147236,
+    "sha256": "887b3caf92b74588d54005ebdf8dfbf925af064c64fb0c6ca64549b121684b46",
+    "accessed_utc": "2026-09-25T20:47:04.759475+00:00"
+  },
+  {
+    "image_id": 353180,
+    "status": "cached",
+    "url": "http://images.cocodataset.org/val2017/000000353180.jpg",
+    "relative_path": "raw/images/000000353180.jpg",
+    "bytes": 109535,
+    "sha256": "8e26e9fb14e54e7f2ccb2a2188e548bdf136e2878df5b68a2d8078499a056380",
+    "accessed_utc": "2026-09-25T20:47:04.759475+00:00"
+  },
+  {
+    "image_id": 354829,
+    "status": "cached",
+    "url": "http://images.cocodataset.org/val2017/000000354829.jpg",
+    "relative_path": "raw/images/000000354829.jpg",
+    "bytes": 44187,
+    "sha256": "f8aec0d916d028160154b1cbcad21339322d355ba37c6b588f6110778465923a",
+    "accessed_utc": "2026-09-25T20:47:04.759475+00:00"
+  },
+  {
+    "image_id": 355817,
+    "status": "cached",
+    "url": "http://images.cocodataset.org/val2017/000000355817.jpg",
+    "relative_path": "raw/images/000000355817.jpg",
+    "bytes": 224283,
+    "sha256": "836a61cf14d0e291a5a86d4a6f2a14a075b04a7dae9e51c9fb284c5b43a2d1d0",
+    "accessed_utc": "2026-09-25T20:47:04.759475+00:00"
+  },
+  {
+    "image_id": 356612,
+    "status": "cached",
+    "url": "http://images.cocodataset.org/val2017/000000356612.jpg",
+    "relative_path": "raw/images/000000356612.jpg",
+    "bytes": 134094,
+    "sha256": "92d4db8b8ea208bddba73c0c89331960e194cf87eb5841e3050f62796131a60e",
+    "accessed_utc": "2026-09-25T20:47:04.759475+00:00"
+  },
+  {
+    "image_id": 357737,
+    "status": "cached",
+    "url": "http://images.cocodataset.org/val2017/000000357737.jpg",
+    "relative_path": "raw/images/000000357737.jpg",
+    "bytes": 194049,
+    "sha256": "2807fcb8cc5b8787e149247b2dc01f9dff1c56cc66cf9759ae1f58f39fd9879c",
+    "accessed_utc": "2026-09-25T20:47:04.759475+00:00"
+  },
+  {
+    "image_id": 357748,
+    "status": "cached",
+    "url": "http://images.cocodataset.org/val2017/000000357748.jpg",
+    "relative_path": "raw/images/000000357748.jpg",
+    "bytes": 203580,
+    "sha256": "1dd50c5845ec4c97b94d799626e324fc2f1a8f66f93039c65189863593c524b9",
+    "accessed_utc": "2026-09-25T20:47:04.760544+00:00"
+  },
+  {
+    "image_id": 357816,
+    "status": "cached",
+    "url": "http://images.cocodataset.org/val2017/000000357816.jpg",
+    "relative_path": "raw/images/000000357816.jpg",
+    "bytes": 177408,
+    "sha256": "af948afbb88b7cf9c4067a019e86a338bff9b98c8bf4c370686f15165ac5316a",
+    "accessed_utc": "2026-09-25T20:47:04.760544+00:00"
+  },
+  {
+    "image_id": 361142,
+    "status": "cached",
+    "url": "http://images.cocodataset.org/val2017/000000361142.jpg",
+    "relative_path": "raw/images/000000361142.jpg",
+    "bytes": 93097,
+    "sha256": "cad7edbaebad81e4a799a39d8be9720c76c79ea2a675cbfd1b16612a837bf28f",
+    "accessed_utc": "2026-09-25T20:47:04.760544+00:00"
+  },
+  {
+    "image_id": 362682,
+    "status": "cached",
+    "url": "http://images.cocodataset.org/val2017/000000362682.jpg",
+    "relative_path": "raw/images/000000362682.jpg",
+    "bytes": 218501,
+    "sha256": "840ceaeff4c9d12ebbf3820ef38426091e6a28782ec6cceea9f265cf8cfb2651",
+    "accessed_utc": "2026-09-25T20:47:04.761544+00:00"
+  },
+  {
+    "image_id": 363188,
+    "status": "cached",
+    "url": "http://images.cocodataset.org/val2017/000000363188.jpg",
+    "relative_path": "raw/images/000000363188.jpg",
+    "bytes": 255569,
+    "sha256": "59190452476d225d4848c3f874074340a2743456dfb95bc6e749e6b135ce862e",
+    "accessed_utc": "2026-09-25T20:47:04.761544+00:00"
+  },
+  {
+    "image_id": 363875,
+    "status": "cached",
+    "url": "http://images.cocodataset.org/val2017/000000363875.jpg",
+    "relative_path": "raw/images/000000363875.jpg",
+    "bytes": 261174,
+    "sha256": "2fa0ce12df50ef1149d6c56830276384dfa5e79a248d20087365856a079b9758",
+    "accessed_utc": "2026-09-25T20:47:04.762544+00:00"
+  },
+  {
+    "image_id": 365642,
+    "status": "cached",
+    "url": "http://images.cocodataset.org/val2017/000000365642.jpg",
+    "relative_path": "raw/images/000000365642.jpg",
+    "bytes": 97937,
+    "sha256": "74a8403ed7515330bca8c58cd1ad16d703507b8d3161fc7dc0d12272152d99fc",
+    "accessed_utc": "2026-09-25T20:47:04.761544+00:00"
+  },
+  {
+    "image_id": 365655,
+    "status": "cached",
+    "url": "http://images.cocodataset.org/val2017/000000365655.jpg",
+    "relative_path": "raw/images/000000365655.jpg",
+    "bytes": 169671,
+    "sha256": "66762bdbb86e5f1aa51134a1ea4e02c9c70f0e9c3bcb6beae6d25c97e2adb4c9",
+    "accessed_utc": "2026-09-25T20:47:04.761544+00:00"
+  },
+  {
+    "image_id": 367680,
+    "status": "cached",
+    "url": "http://images.cocodataset.org/val2017/000000367680.jpg",
+    "relative_path": "raw/images/000000367680.jpg",
+    "bytes": 40267,
+    "sha256": "15a0aa08ef2c7dc21f247375f72459b6ee3f99b57a98482e5251294fc324b231",
+    "accessed_utc": "2026-09-25T20:47:04.761544+00:00"
+  },
+  {
+    "image_id": 369751,
+    "status": "cached",
+    "url": "http://images.cocodataset.org/val2017/000000369751.jpg",
+    "relative_path": "raw/images/000000369751.jpg",
+    "bytes": 243072,
+    "sha256": "57d5d8701f72bcd01989b9252ed1f2d92a54bda330be182e838071c70f7f06ba",
+    "accessed_utc": "2026-09-25T20:47:04.761544+00:00"
+  },
+  {
+    "image_id": 369812,
+    "status": "cached",
+    "url": "http://images.cocodataset.org/val2017/000000369812.jpg",
+    "relative_path": "raw/images/000000369812.jpg",
+    "bytes": 428992,
+    "sha256": "36900b1e1c06b097382afab38134ff4d655634f23287c47d7b6aaaee016cca4e",
+    "accessed_utc": "2026-09-25T20:47:04.762544+00:00"
+  },
+  {
+    "image_id": 372260,
+    "status": "cached",
+    "url": "http://images.cocodataset.org/val2017/000000372260.jpg",
+    "relative_path": "raw/images/000000372260.jpg",
+    "bytes": 254015,
+    "sha256": "48ae887c9520533893d3f7afa853f20db4bc3376def97692b0bd410e715f674c",
+    "accessed_utc": "2026-09-25T20:47:04.763662+00:00"
+  },
+  {
+    "image_id": 373353,
+    "status": "cached",
+    "url": "http://images.cocodataset.org/val2017/000000373353.jpg",
+    "relative_path": "raw/images/000000373353.jpg",
+    "bytes": 287304,
+    "sha256": "bc8f393230d375ddce63522d13740ccac6419e646560c97695a12ea3cee0e6fa",
+    "accessed_utc": "2026-09-25T20:47:04.762544+00:00"
+  },
+  {
+    "image_id": 376284,
+    "status": "cached",
+    "url": "http://images.cocodataset.org/val2017/000000376284.jpg",
+    "relative_path": "raw/images/000000376284.jpg",
+    "bytes": 129809,
+    "sha256": "eb6f932ea8c4865107c802e4a9d23730d0991f6c869b63f8f314471c42f83eb2",
+    "accessed_utc": "2026-09-25T20:47:04.762544+00:00"
+  },
+  {
+    "image_id": 377723,
+    "status": "cached",
+    "url": "http://images.cocodataset.org/val2017/000000377723.jpg",
+    "relative_path": "raw/images/000000377723.jpg",
+    "bytes": 213772,
+    "sha256": "47a58184ee83f6c0c483a2ca1f2ce4550b08170a9576c8e78bda16693a591786",
+    "accessed_utc": "2026-09-25T20:47:04.765239+00:00"
+  },
+  {
+    "image_id": 378873,
+    "status": "cached",
+    "url": "http://images.cocodataset.org/val2017/000000378873.jpg",
+    "relative_path": "raw/images/000000378873.jpg",
+    "bytes": 207146,
+    "sha256": "1f529f83c9ceec1086b1fb67bb5d807e5e6992cb641e8b5fd33bb46b01d180c2",
+    "accessed_utc": "2026-09-25T20:47:04.763662+00:00"
+  },
+  {
+    "image_id": 379800,
+    "status": "cached",
+    "url": "http://images.cocodataset.org/val2017/000000379800.jpg",
+    "relative_path": "raw/images/000000379800.jpg",
+    "bytes": 291234,
+    "sha256": "3f4a4f14981c3bca97393ced16eadf72f295d9e05c3253e7da7e3a6f8dc8f3fc",
+    "accessed_utc": "2026-09-25T20:47:04.763662+00:00"
+  },
+  {
+    "image_id": 382111,
+    "status": "cached",
+    "url": "http://images.cocodataset.org/val2017/000000382111.jpg",
+    "relative_path": "raw/images/000000382111.jpg",
+    "bytes": 239802,
+    "sha256": "8f6fe40126d22774f86651a7d98b707290fb6e3fb894f2324ee40ffd6085ecba",
+    "accessed_utc": "2026-09-25T20:47:04.763662+00:00"
+  },
+  {
+    "image_id": 383289,
+    "status": "cached",
+    "url": "http://images.cocodataset.org/val2017/000000383289.jpg",
+    "relative_path": "raw/images/000000383289.jpg",
+    "bytes": 160041,
+    "sha256": "9c7f2b70986170f34a0ebb5cef888628b93bc044391578553205041cb81b042f",
+    "accessed_utc": "2026-09-25T20:47:04.763662+00:00"
+  },
+  {
+    "image_id": 384468,
+    "status": "cached",
+    "url": "http://images.cocodataset.org/val2017/000000384468.jpg",
+    "relative_path": "raw/images/000000384468.jpg",
+    "bytes": 290539,
+    "sha256": "48bd9dc34673e87bc289a035bd0cd2fcf91c02b3db5ce349445af0ad09f4596b",
+    "accessed_utc": "2026-09-25T20:47:04.765239+00:00"
+  },
+  {
+    "image_id": 386210,
+    "status": "cached",
+    "url": "http://images.cocodataset.org/val2017/000000386210.jpg",
+    "relative_path": "raw/images/000000386210.jpg",
+    "bytes": 123214,
+    "sha256": "e2d8f9e5d52d39e703a16b4804fbb64702e1c796c05f8e0e8f5aa0807ff552df",
+    "accessed_utc": "2026-09-25T20:47:04.765239+00:00"
+  },
+  {
+    "image_id": 392722,
+    "status": "cached",
+    "url": "http://images.cocodataset.org/val2017/000000392722.jpg",
+    "relative_path": "raw/images/000000392722.jpg",
+    "bytes": 200702,
+    "sha256": "137bbeb12ff0d4152279be001c8c5e59b03e2aac88a939db1a3667fd4aac72c6",
+    "accessed_utc": "2026-09-25T20:47:04.765239+00:00"
+  },
+  {
+    "image_id": 393093,
+    "status": "cached",
+    "url": "http://images.cocodataset.org/val2017/000000393093.jpg",
+    "relative_path": "raw/images/000000393093.jpg",
+    "bytes": 211345,
+    "sha256": "624c5f297bf60acc8e87553772a60cdd580b108560d8e0a02eaba8cdc8bdbb33",
+    "accessed_utc": "2026-09-25T20:47:04.765239+00:00"
+  },
+  {
+    "image_id": 393226,
+    "status": "cached",
+    "url": "http://images.cocodataset.org/val2017/000000393226.jpg",
+    "relative_path": "raw/images/000000393226.jpg",
+    "bytes": 204532,
+    "sha256": "7cfb2fecb604d1f7e5429ab118ecda7fe84c296067ce8038a89e7ea8af836a0f",
+    "accessed_utc": "2026-09-25T20:47:04.765239+00:00"
+  },
+  {
+    "image_id": 394275,
+    "status": "cached",
+    "url": "http://images.cocodataset.org/val2017/000000394275.jpg",
+    "relative_path": "raw/images/000000394275.jpg",
+    "bytes": 126021,
+    "sha256": "bc9abed26b6569469bf53d051250140b913ca331c185087e640ae0cf9c934b88",
+    "accessed_utc": "2026-09-25T20:47:04.765239+00:00"
+  },
+  {
+    "image_id": 394510,
+    "status": "cached",
+    "url": "http://images.cocodataset.org/val2017/000000394510.jpg",
+    "relative_path": "raw/images/000000394510.jpg",
+    "bytes": 106275,
+    "sha256": "6ea16e5b77365fccc9a12ce7e5f9eb3182c580cefc7ee0a5cb29238d24106349",
+    "accessed_utc": "2026-09-25T20:47:04.765239+00:00"
+  },
+  {
+    "image_id": 396338,
+    "status": "cached",
+    "url": "http://images.cocodataset.org/val2017/000000396338.jpg",
+    "relative_path": "raw/images/000000396338.jpg",
+    "bytes": 189751,
+    "sha256": "d316e263395e5724b7627cec7df7045df058c746e7180bf93b87d10976c662c6",
+    "accessed_utc": "2026-09-25T20:47:04.765239+00:00"
+  },
+  {
+    "image_id": 398742,
+    "status": "cached",
+    "url": "http://images.cocodataset.org/val2017/000000398742.jpg",
+    "relative_path": "raw/images/000000398742.jpg",
+    "bytes": 166677,
+    "sha256": "6af6678e8c5b9454647a9c1d206acf82b146bebc56463db796efd18037d30c3e",
+    "accessed_utc": "2026-09-25T20:47:04.765239+00:00"
+  },
+  {
+    "image_id": 400815,
+    "status": "cached",
+    "url": "http://images.cocodataset.org/val2017/000000400815.jpg",
+    "relative_path": "raw/images/000000400815.jpg",
+    "bytes": 197624,
+    "sha256": "2b12954b33d24104b1c77ed71d924c579f6a2b7d9d00de617b7ca8ce17ff340d",
+    "accessed_utc": "2026-09-25T20:47:04.767819+00:00"
+  },
+  {
+    "image_id": 401862,
+    "status": "cached",
+    "url": "http://images.cocodataset.org/val2017/000000401862.jpg",
+    "relative_path": "raw/images/000000401862.jpg",
+    "bytes": 244329,
+    "sha256": "82e64d65eb79042a20684d83a09c4aa90b98dd4616eab25c8bb1d40d45fa4cef",
+    "accessed_utc": "2026-09-25T20:47:04.767819+00:00"
+  },
+  {
+    "image_id": 405205,
+    "status": "cached",
+    "url": "http://images.cocodataset.org/val2017/000000405205.jpg",
+    "relative_path": "raw/images/000000405205.jpg",
+    "bytes": 104285,
+    "sha256": "5d9f74f68734488691cd1eef896f89cd5eb1bc942457cf8f79d6a6d8674a0764",
+    "accessed_utc": "2026-09-25T20:47:04.767819+00:00"
+  },
+  {
+    "image_id": 414133,
+    "status": "cached",
+    "url": "http://images.cocodataset.org/val2017/000000414133.jpg",
+    "relative_path": "raw/images/000000414133.jpg",
+    "bytes": 195346,
+    "sha256": "e0f6ceccdafeb5578deb7876cbfaa0a19f44a19f580b7123c865a941b6e9dcee",
+    "accessed_utc": "2026-09-25T20:47:04.767819+00:00"
+  },
+  {
+    "image_id": 414510,
+    "status": "cached",
+    "url": "http://images.cocodataset.org/val2017/000000414510.jpg",
+    "relative_path": "raw/images/000000414510.jpg",
+    "bytes": 248413,
+    "sha256": "f6f2620707df79c606e0c1cfab462860ece49bee7768f0fb2dbdfac7bdf8346e",
+    "accessed_utc": "2026-09-25T20:47:04.767819+00:00"
+  },
+  {
+    "image_id": 415536,
+    "status": "cached",
+    "url": "http://images.cocodataset.org/val2017/000000415536.jpg",
+    "relative_path": "raw/images/000000415536.jpg",
+    "bytes": 281463,
+    "sha256": "a02be69d9dbaf2ebb1e21950d1a0c54238ea6b479b8200c46fd3330de5863236",
+    "accessed_utc": "2026-09-25T20:47:04.767819+00:00"
+  },
+  {
+    "image_id": 416885,
+    "status": "cached",
+    "url": "http://images.cocodataset.org/val2017/000000416885.jpg",
+    "relative_path": "raw/images/000000416885.jpg",
+    "bytes": 139799,
+    "sha256": "f9d0c193c7049951383bef4d39cf979223080e871e257d44e261c24899855ec1",
+    "accessed_utc": "2026-09-25T20:47:04.767819+00:00"
+  },
+  {
+    "image_id": 417779,
+    "status": "cached",
+    "url": "http://images.cocodataset.org/val2017/000000417779.jpg",
+    "relative_path": "raw/images/000000417779.jpg",
+    "bytes": 138500,
+    "sha256": "a7b3cb4fedaf10a1b16043a9ab11d562538dec26ef555cb3525ac763fda9b22b",
+    "accessed_utc": "2026-09-25T20:47:04.767819+00:00"
+  },
+  {
+    "image_id": 421455,
+    "status": "cached",
+    "url": "http://images.cocodataset.org/val2017/000000421455.jpg",
+    "relative_path": "raw/images/000000421455.jpg",
+    "bytes": 112521,
+    "sha256": "c9262daf96f9a989413d418a565e62acf670f51ac5984c69159451b067ba5c50",
+    "accessed_utc": "2026-09-25T20:47:04.767819+00:00"
+  },
+  {
+    "image_id": 423519,
+    "status": "cached",
+    "url": "http://images.cocodataset.org/val2017/000000423519.jpg",
+    "relative_path": "raw/images/000000423519.jpg",
+    "bytes": 210434,
+    "sha256": "a6a6d1615bf3fcab74358eb32672f579939c11d1513ad291a89669462c8b43a8",
+    "accessed_utc": "2026-09-25T20:47:04.767819+00:00"
+  },
+  {
+    "image_id": 423617,
+    "status": "cached",
+    "url": "http://images.cocodataset.org/val2017/000000423617.jpg",
+    "relative_path": "raw/images/000000423617.jpg",
+    "bytes": 219982,
+    "sha256": "ce5546bb400da57646e0de544763fc44c925fc5495e764083f2bcfebba5c76f0",
+    "accessed_utc": "2026-09-25T20:47:04.767819+00:00"
+  },
+  {
+    "image_id": 426372,
+    "status": "cached",
+    "url": "http://images.cocodataset.org/val2017/000000426372.jpg",
+    "relative_path": "raw/images/000000426372.jpg",
+    "bytes": 201318,
+    "sha256": "2008ffc31ea397b00e132ab370a273a61ac65d00d7ad76789fb43ef404f88ca5",
+    "accessed_utc": "2026-09-25T20:47:04.767819+00:00"
+  },
+  {
+    "image_id": 427655,
+    "status": "cached",
+    "url": "http://images.cocodataset.org/val2017/000000427655.jpg",
+    "relative_path": "raw/images/000000427655.jpg",
+    "bytes": 264535,
+    "sha256": "142fea68a2648d6497cf9d7cfb0b58ce487eb08587bd484e34984199528efbb7",
+    "accessed_utc": "2026-09-25T20:47:04.767819+00:00"
+  },
+  {
+    "image_id": 429011,
+    "status": "cached",
+    "url": "http://images.cocodataset.org/val2017/000000429011.jpg",
+    "relative_path": "raw/images/000000429011.jpg",
+    "bytes": 166114,
+    "sha256": "ddec5080b0ed27883477153278effb807ee3f81b170690b5fa5e7c88a95e0880",
+    "accessed_utc": "2026-09-25T20:47:04.767819+00:00"
+  },
+  {
+    "image_id": 429109,
+    "status": "cached",
+    "url": "http://images.cocodataset.org/val2017/000000429109.jpg",
+    "relative_path": "raw/images/000000429109.jpg",
+    "bytes": 282980,
+    "sha256": "1a1a5f1df7d5cf7f3146b333755f402889be7e7dacdd2e0728650f6f99c25ffb",
+    "accessed_utc": "2026-09-25T20:47:04.767819+00:00"
+  },
+  {
+    "image_id": 430048,
+    "status": "cached",
+    "url": "http://images.cocodataset.org/val2017/000000430048.jpg",
+    "relative_path": "raw/images/000000430048.jpg",
+    "bytes": 102766,
+    "sha256": "3c1eb021eba3d6790a4affb38dc17030e21d020acfbfe4520a03389be1920f67",
+    "accessed_utc": "2026-09-25T20:47:04.767819+00:00"
+  },
+  {
+    "image_id": 436883,
+    "status": "cached",
+    "url": "http://images.cocodataset.org/val2017/000000436883.jpg",
+    "relative_path": "raw/images/000000436883.jpg",
+    "bytes": 218716,
+    "sha256": "65cb98085b86ed663a6812a9368364178d845b3458694f1d8d23783f3b848477",
+    "accessed_utc": "2026-09-25T20:47:04.771990+00:00"
+  },
+  {
+    "image_id": 438017,
+    "status": "cached",
+    "url": "http://images.cocodataset.org/val2017/000000438017.jpg",
+    "relative_path": "raw/images/000000438017.jpg",
+    "bytes": 84812,
+    "sha256": "fdc7f44727b7ebd7a606b0483544ef7e70c8804c36bd57a720814c43a633025c",
+    "accessed_utc": "2026-09-25T20:47:04.771990+00:00"
+  },
+  {
+    "image_id": 439180,
+    "status": "cached",
+    "url": "http://images.cocodataset.org/val2017/000000439180.jpg",
+    "relative_path": "raw/images/000000439180.jpg",
+    "bytes": 198209,
+    "sha256": "0aac0cbbf7b80b6b568f24ff43f3a46c1728887b88be6b9a07aa5e32e44ef0e7",
+    "accessed_utc": "2026-09-25T20:47:04.771990+00:00"
+  },
+  {
+    "image_id": 439623,
+    "status": "cached",
+    "url": "http://images.cocodataset.org/val2017/000000439623.jpg",
+    "relative_path": "raw/images/000000439623.jpg",
+    "bytes": 221937,
+    "sha256": "5e1c869e6d688c942b73cb143b181f0a616435024dd3be44641d549527dea2be",
+    "accessed_utc": "2026-09-25T20:47:04.771990+00:00"
+  },
+  {
+    "image_id": 442456,
+    "status": "cached",
+    "url": "http://images.cocodataset.org/val2017/000000442456.jpg",
+    "relative_path": "raw/images/000000442456.jpg",
+    "bytes": 170682,
+    "sha256": "edc04913d2e51d0146a5a2a3dd6a30945ad51df77d2cd16d70a91ece69ea4f6d",
+    "accessed_utc": "2026-09-25T20:47:04.771990+00:00"
+  },
+  {
+    "image_id": 442480,
+    "status": "cached",
+    "url": "http://images.cocodataset.org/val2017/000000442480.jpg",
+    "relative_path": "raw/images/000000442480.jpg",
+    "bytes": 215300,
+    "sha256": "2a67ce62480e4a1b1612ec18521433e00d92d1400cc13c94ef791853a21f2459",
+    "accessed_utc": "2026-09-25T20:47:04.771990+00:00"
+  },
+  {
+    "image_id": 445834,
+    "status": "cached",
+    "url": "http://images.cocodataset.org/val2017/000000445834.jpg",
+    "relative_path": "raw/images/000000445834.jpg",
+    "bytes": 195464,
+    "sha256": "b054ec7280c2da3a51643e2aceb32fe81cb9d78535ad5d8e01b0caa8a3110007",
+    "accessed_utc": "2026-09-25T20:47:04.771990+00:00"
+  },
+  {
+    "image_id": 446206,
+    "status": "cached",
+    "url": "http://images.cocodataset.org/val2017/000000446206.jpg",
+    "relative_path": "raw/images/000000446206.jpg",
+    "bytes": 218048,
+    "sha256": "37f631d7cf9ff3f54abb80600fa15651061c228fb1265b95888847de72e06bae",
+    "accessed_utc": "2026-09-25T20:47:04.771990+00:00"
+  },
+  {
+    "image_id": 446651,
+    "status": "cached",
+    "url": "http://images.cocodataset.org/val2017/000000446651.jpg",
+    "relative_path": "raw/images/000000446651.jpg",
+    "bytes": 148611,
+    "sha256": "68c8ba3c72603ed69835bf0f7be7f943daeadb12778a5fb0ab3606a3b0b79124",
+    "accessed_utc": "2026-09-25T20:47:04.771990+00:00"
+  },
+  {
+    "image_id": 447342,
+    "status": "cached",
+    "url": "http://images.cocodataset.org/val2017/000000447342.jpg",
+    "relative_path": "raw/images/000000447342.jpg",
+    "bytes": 296961,
+    "sha256": "199402bfe3e935cf8c52e59271a9d5a0e2a20a7aa264472d7bcd0936b7c15d97",
+    "accessed_utc": "2026-09-25T20:47:04.771990+00:00"
+  },
+  {
+    "image_id": 448256,
+    "status": "cached",
+    "url": "http://images.cocodataset.org/val2017/000000448256.jpg",
+    "relative_path": "raw/images/000000448256.jpg",
+    "bytes": 160993,
+    "sha256": "e83e088fdda566a8403f37b1e66f4610b2fa6ce26457e64c9b0775f3e6105bd7",
+    "accessed_utc": "2026-09-25T20:47:04.771990+00:00"
+  },
+  {
+    "image_id": 449432,
+    "status": "cached",
+    "url": "http://images.cocodataset.org/val2017/000000449432.jpg",
+    "relative_path": "raw/images/000000449432.jpg",
+    "bytes": 165567,
+    "sha256": "8f9aded677bac57da1d4b55e370dbc97456b332ccfb5620d4cd20917843aa830",
+    "accessed_utc": "2026-09-25T20:47:04.771990+00:00"
+  },
+  {
+    "image_id": 452321,
+    "status": "cached",
+    "url": "http://images.cocodataset.org/val2017/000000452321.jpg",
+    "relative_path": "raw/images/000000452321.jpg",
+    "bytes": 182165,
+    "sha256": "52e7facbcbf94731d50ff073c5a403aa4582a0ed068a48cab75018dda6a044cb",
+    "accessed_utc": "2026-09-25T20:47:04.771990+00:00"
+  },
+  {
+    "image_id": 455085,
+    "status": "cached",
+    "url": "http://images.cocodataset.org/val2017/000000455085.jpg",
+    "relative_path": "raw/images/000000455085.jpg",
+    "bytes": 140912,
+    "sha256": "022d2068d525b03a753287c333c09026fe22b9ae6d8071d4e8c757cbed32bdc4",
+    "accessed_utc": "2026-09-25T20:47:04.771990+00:00"
+  },
+  {
+    "image_id": 458325,
+    "status": "cached",
+    "url": "http://images.cocodataset.org/val2017/000000458325.jpg",
+    "relative_path": "raw/images/000000458325.jpg",
+    "bytes": 290741,
+    "sha256": "cc9d8a2d6fdd06220bb2e63d0e41b13cddd7a83758c74b2aa0161e56c8aa18a9",
+    "accessed_utc": "2026-09-25T20:47:04.771990+00:00"
+  },
+  {
+    "image_id": 458702,
+    "status": "cached",
+    "url": "http://images.cocodataset.org/val2017/000000458702.jpg",
+    "relative_path": "raw/images/000000458702.jpg",
+    "bytes": 242917,
+    "sha256": "6eca6864fa023dd4e7ed265d90f8b3bdc7a7d876e0e45baab7018f81dd02424b",
+    "accessed_utc": "2026-09-25T20:47:04.776163+00:00"
+  },
+  {
+    "image_id": 460147,
+    "status": "cached",
+    "url": "http://images.cocodataset.org/val2017/000000460147.jpg",
+    "relative_path": "raw/images/000000460147.jpg",
+    "bytes": 224888,
+    "sha256": "b041d8c01473b72e2ea2f909174a4d2e5cdefae9a3d5abd06a9db91755392ad3",
+    "accessed_utc": "2026-09-25T20:47:04.776163+00:00"
+  },
+  {
+    "image_id": 460229,
+    "status": "cached",
+    "url": "http://images.cocodataset.org/val2017/000000460229.jpg",
+    "relative_path": "raw/images/000000460229.jpg",
+    "bytes": 208965,
+    "sha256": "af84abd8715c5acb599da83f03174ca57bd0974ce00b6aa581c45bf7f92b6c8c",
+    "accessed_utc": "2026-09-25T20:47:04.776163+00:00"
+  },
+  {
+    "image_id": 461751,
+    "status": "cached",
+    "url": "http://images.cocodataset.org/val2017/000000461751.jpg",
+    "relative_path": "raw/images/000000461751.jpg",
+    "bytes": 195540,
+    "sha256": "7dcf0c5f5135b3e8eedbda7794d0eb4a03e129a742468620a6e3918a14f79fca",
+    "accessed_utc": "2026-09-25T20:47:04.776163+00:00"
+  },
+  {
+    "image_id": 463199,
+    "status": "cached",
+    "url": "http://images.cocodataset.org/val2017/000000463199.jpg",
+    "relative_path": "raw/images/000000463199.jpg",
+    "bytes": 128069,
+    "sha256": "eabc38a2ae22262952cc2c406be88cbc61e7d62b33d613ed040778d60064330f",
+    "accessed_utc": "2026-09-25T20:47:04.776163+00:00"
+  },
+  {
+    "image_id": 464824,
+    "status": "cached",
+    "url": "http://images.cocodataset.org/val2017/000000464824.jpg",
+    "relative_path": "raw/images/000000464824.jpg",
+    "bytes": 245095,
+    "sha256": "6e88bef9ae20e5146c0537e39b0195f62681b5d4248df7c48d5635495fdac7aa",
+    "accessed_utc": "2026-09-25T20:47:04.776163+00:00"
+  },
+  {
+    "image_id": 465675,
+    "status": "cached",
+    "url": "http://images.cocodataset.org/val2017/000000465675.jpg",
+    "relative_path": "raw/images/000000465675.jpg",
+    "bytes": 125404,
+    "sha256": "5ce1574df63983dcb03c6ac6c6c115f2ba148ed6d24f1aefc8701c28264ee8ad",
+    "accessed_utc": "2026-09-25T20:47:04.776163+00:00"
+  },
+  {
+    "image_id": 466156,
+    "status": "cached",
+    "url": "http://images.cocodataset.org/val2017/000000466156.jpg",
+    "relative_path": "raw/images/000000466156.jpg",
+    "bytes": 142553,
+    "sha256": "e43e0f3812afca36cf093b4d3373eb11cbe4bbc8bfbc4e5a57cb5a04b3580e9b",
+    "accessed_utc": "2026-09-25T20:47:04.776163+00:00"
+  },
+  {
+    "image_id": 467848,
+    "status": "cached",
+    "url": "http://images.cocodataset.org/val2017/000000467848.jpg",
+    "relative_path": "raw/images/000000467848.jpg",
+    "bytes": 266176,
+    "sha256": "8043630d9033bd8c58b57cf4faad1b2459c5341bfa487112479128f3ac80e4cd",
+    "accessed_utc": "2026-09-25T20:47:04.776163+00:00"
+  },
+  {
+    "image_id": 468124,
+    "status": "cached",
+    "url": "http://images.cocodataset.org/val2017/000000468124.jpg",
+    "relative_path": "raw/images/000000468124.jpg",
+    "bytes": 135870,
+    "sha256": "741146235c81e978c8dae22c59159c0762a9d75fad9dbbe3511d3ec62196adca",
+    "accessed_utc": "2026-09-25T20:47:04.776163+00:00"
+  },
+  {
+    "image_id": 469192,
+    "status": "cached",
+    "url": "http://images.cocodataset.org/val2017/000000469192.jpg",
+    "relative_path": "raw/images/000000469192.jpg",
+    "bytes": 182050,
+    "sha256": "9f495ad3d8a4c1cf7ee9406c9d05b6337a58b45fd99a4b4fbace131f222182b0",
+    "accessed_utc": "2026-09-25T20:47:04.776163+00:00"
+  },
+  {
+    "image_id": 470924,
+    "status": "cached",
+    "url": "http://images.cocodataset.org/val2017/000000470924.jpg",
+    "relative_path": "raw/images/000000470924.jpg",
+    "bytes": 190878,
+    "sha256": "47ba4dc69534e8710521807833e8ef4cada28af46ee4d985455ba20483d93650",
+    "accessed_utc": "2026-09-25T20:47:04.776163+00:00"
+  },
+  {
+    "image_id": 474164,
+    "status": "cached",
+    "url": "http://images.cocodataset.org/val2017/000000474164.jpg",
+    "relative_path": "raw/images/000000474164.jpg",
+    "bytes": 252530,
+    "sha256": "c1ac8270b67fc383f20fd7ca99786dac0267445f78d3f3e72f980b5e33e4a638",
+    "accessed_utc": "2026-09-25T20:47:04.776163+00:00"
+  },
+  {
+    "image_id": 475484,
+    "status": "cached",
+    "url": "http://images.cocodataset.org/val2017/000000475484.jpg",
+    "relative_path": "raw/images/000000475484.jpg",
+    "bytes": 171622,
+    "sha256": "e1f307ba2c5905702d019ae7aeea4a18fa24e6fb412f33acffe906ea7e03d838",
+    "accessed_utc": "2026-09-25T20:47:04.780318+00:00"
+  },
+  {
+    "image_id": 476119,
+    "status": "cached",
+    "url": "http://images.cocodataset.org/val2017/000000476119.jpg",
+    "relative_path": "raw/images/000000476119.jpg",
+    "bytes": 204732,
+    "sha256": "b1e77b03b318546e0725250efdfb28a1ce24414750ae8e8c3b5097c5ffddf415",
+    "accessed_utc": "2026-09-25T20:47:04.780318+00:00"
+  },
+  {
+    "image_id": 479912,
+    "status": "cached",
+    "url": "http://images.cocodataset.org/val2017/000000479912.jpg",
+    "relative_path": "raw/images/000000479912.jpg",
+    "bytes": 190008,
+    "sha256": "8a7876a0b0369040842be51c1fcab027deaeec0183add371d752760232cd2300",
+    "accessed_utc": "2026-09-25T20:47:04.780318+00:00"
+  },
+  {
+    "image_id": 480944,
+    "status": "cached",
+    "url": "http://images.cocodataset.org/val2017/000000480944.jpg",
+    "relative_path": "raw/images/000000480944.jpg",
+    "bytes": 241992,
+    "sha256": "d93e279fe681bff9f79cda02129731ce9abf2596a573aed2dbb3f2c237d9c7e2",
+    "accessed_utc": "2026-09-25T20:47:04.780318+00:00"
+  },
+  {
+    "image_id": 484404,
+    "status": "cached",
+    "url": "http://images.cocodataset.org/val2017/000000484404.jpg",
+    "relative_path": "raw/images/000000484404.jpg",
+    "bytes": 136975,
+    "sha256": "c61e17a3b972aaa3f9525eeaf181538f544263b1f44e840f05eb892eee2e898e",
+    "accessed_utc": "2026-09-25T20:47:04.780318+00:00"
+  },
+  {
+    "image_id": 490936,
+    "status": "cached",
+    "url": "http://images.cocodataset.org/val2017/000000490936.jpg",
+    "relative_path": "raw/images/000000490936.jpg",
+    "bytes": 213294,
+    "sha256": "ab2e6b0fcc639f29dabdb581a3cd311b9c5490b9abb894d66132abea7070829e",
+    "accessed_utc": "2026-09-25T20:47:04.780318+00:00"
+  },
+  {
+    "image_id": 491213,
+    "status": "cached",
+    "url": "http://images.cocodataset.org/val2017/000000491213.jpg",
+    "relative_path": "raw/images/000000491213.jpg",
+    "bytes": 195079,
+    "sha256": "b9f186905d79293541967dae1b13c0b45f01a7eec0904226cfde2fa358689548",
+    "accessed_utc": "2026-09-25T20:47:04.780318+00:00"
+  },
+  {
+    "image_id": 493286,
+    "status": "cached",
+    "url": "http://images.cocodataset.org/val2017/000000493286.jpg",
+    "relative_path": "raw/images/000000493286.jpg",
+    "bytes": 175659,
+    "sha256": "7610385fe1a4819702e3f027396998018f681b1b845351c3c345c80d8ca50d45",
+    "accessed_utc": "2026-09-25T20:47:04.780318+00:00"
+  },
+  {
+    "image_id": 495054,
+    "status": "cached",
+    "url": "http://images.cocodataset.org/val2017/000000495054.jpg",
+    "relative_path": "raw/images/000000495054.jpg",
+    "bytes": 100027,
+    "sha256": "5864a5039d151cdf03efc9dfcde0a52227f9ffdbf3a26cd09c1add8e401058f5",
+    "accessed_utc": "2026-09-25T20:47:04.780318+00:00"
+  },
+  {
+    "image_id": 495146,
+    "status": "cached",
+    "url": "http://images.cocodataset.org/val2017/000000495146.jpg",
+    "relative_path": "raw/images/000000495146.jpg",
+    "bytes": 129584,
+    "sha256": "cc4814681163a70e29c6aa2bb463b4d6a3c52a3c23f77b38357498c5ffee2d38",
+    "accessed_utc": "2026-09-25T20:47:04.780318+00:00"
+  },
+  {
+    "image_id": 498286,
+    "status": "cached",
+    "url": "http://images.cocodataset.org/val2017/000000498286.jpg",
+    "relative_path": "raw/images/000000498286.jpg",
+    "bytes": 190519,
+    "sha256": "3253772566d47969b4ca29bdd608d84b9876a09ec6b25435ff00c27bf9c1b207",
+    "accessed_utc": "2026-09-25T20:47:04.780318+00:00"
+  },
+  {
+    "image_id": 499181,
+    "status": "cached",
+    "url": "http://images.cocodataset.org/val2017/000000499181.jpg",
+    "relative_path": "raw/images/000000499181.jpg",
+    "bytes": 175596,
+    "sha256": "2b4d8a5404d27eca2b0e3a3d79e2a7129485ba5af33b0f209dcfac06458dfb26",
+    "accessed_utc": "2026-09-25T20:47:04.780318+00:00"
+  },
+  {
+    "image_id": 499768,
+    "status": "cached",
+    "url": "http://images.cocodataset.org/val2017/000000499768.jpg",
+    "relative_path": "raw/images/000000499768.jpg",
+    "bytes": 169253,
+    "sha256": "8570324bcf64969f77f938941778a8fc69ec5a8943f0945511ce4ab09bce5a3a",
+    "accessed_utc": "2026-09-25T20:47:04.780318+00:00"
+  },
+  {
+    "image_id": 504415,
+    "status": "cached",
+    "url": "http://images.cocodataset.org/val2017/000000504415.jpg",
+    "relative_path": "raw/images/000000504415.jpg",
+    "bytes": 139237,
+    "sha256": "74411e93658f68edd930e9e665a8cfabb542425dd63016303e7e23f4f895aaca",
+    "accessed_utc": "2026-09-25T20:47:04.780318+00:00"
+  },
+  {
+    "image_id": 505942,
+    "status": "cached",
+    "url": "http://images.cocodataset.org/val2017/000000505942.jpg",
+    "relative_path": "raw/images/000000505942.jpg",
+    "bytes": 110290,
+    "sha256": "2d4a220296d966f7a37cfbcf97f4693fe52787fc66d1a5a7817caa5f3b4355aa",
+    "accessed_utc": "2026-09-25T20:47:04.780318+00:00"
+  },
+  {
+    "image_id": 506707,
+    "status": "cached",
+    "url": "http://images.cocodataset.org/val2017/000000506707.jpg",
+    "relative_path": "raw/images/000000506707.jpg",
+    "bytes": 229760,
+    "sha256": "7d41021f6690f97184495abbe2e70d45eba3816eff5f2a41e813011976254d3b",
+    "accessed_utc": "2026-09-25T20:47:04.784856+00:00"
+  },
+  {
+    "image_id": 507797,
+    "status": "cached",
+    "url": "http://images.cocodataset.org/val2017/000000507797.jpg",
+    "relative_path": "raw/images/000000507797.jpg",
+    "bytes": 153779,
+    "sha256": "c44a9df9185a2d9b8fb78cf8c15d2a890f166b936e93f4bd0181df6861d1379e",
+    "accessed_utc": "2026-09-25T20:47:04.780318+00:00"
+  },
+  {
+    "image_id": 512564,
+    "status": "cached",
+    "url": "http://images.cocodataset.org/val2017/000000512564.jpg",
+    "relative_path": "raw/images/000000512564.jpg",
+    "bytes": 223032,
+    "sha256": "9286b499e47f7e38a13413a09c0738e59f62d0ef16397006350bfef1bc2fed5d",
+    "accessed_utc": "2026-09-25T20:47:04.780318+00:00"
+  },
+  {
+    "image_id": 514376,
+    "status": "cached",
+    "url": "http://images.cocodataset.org/val2017/000000514376.jpg",
+    "relative_path": "raw/images/000000514376.jpg",
+    "bytes": 398683,
+    "sha256": "951d0f6e435a5cafbdc7fa40f8e5f42467c0ecb2259576c7ffc2eb784e3193a7",
+    "accessed_utc": "2026-09-25T20:47:04.780318+00:00"
+  },
+  {
+    "image_id": 515025,
+    "status": "cached",
+    "url": "http://images.cocodataset.org/val2017/000000515025.jpg",
+    "relative_path": "raw/images/000000515025.jpg",
+    "bytes": 151883,
+    "sha256": "842bf70b9f111af1b4ad64b8451d74a2032737e6a68d224665e441413dcd7b02",
+    "accessed_utc": "2026-09-25T20:47:04.784856+00:00"
+  },
+  {
+    "image_id": 515266,
+    "status": "cached",
+    "url": "http://images.cocodataset.org/val2017/000000515266.jpg",
+    "relative_path": "raw/images/000000515266.jpg",
+    "bytes": 281922,
+    "sha256": "467c8c1837eb1f76f4d2457b6116a45b8cffb778eb3ab217e2bdaefa15951100",
+    "accessed_utc": "2026-09-25T20:47:04.785940+00:00"
+  },
+  {
+    "image_id": 516143,
+    "status": "cached",
+    "url": "http://images.cocodataset.org/val2017/000000516143.jpg",
+    "relative_path": "raw/images/000000516143.jpg",
+    "bytes": 174814,
+    "sha256": "dfb9978fb742680c4d5eabda1c8966cca24687eb084a017830764fc37dc51726",
+    "accessed_utc": "2026-09-25T20:47:04.785940+00:00"
+  },
+  {
+    "image_id": 520009,
+    "status": "cached",
+    "url": "http://images.cocodataset.org/val2017/000000520009.jpg",
+    "relative_path": "raw/images/000000520009.jpg",
+    "bytes": 155170,
+    "sha256": "54617d5196a0d66e47f083ce2ecc67c990b5415eca52302dafdc0591597d4e02",
+    "accessed_utc": "2026-09-25T20:47:04.785940+00:00"
+  },
+  {
+    "image_id": 521052,
+    "status": "cached",
+    "url": "http://images.cocodataset.org/val2017/000000521052.jpg",
+    "relative_path": "raw/images/000000521052.jpg",
+    "bytes": 175077,
+    "sha256": "3aa389e1258ce12da6b3aab20489a1c2fd6e9da8495badaaef394a09730691cb",
+    "accessed_utc": "2026-09-25T20:47:04.785940+00:00"
+  },
+  {
+    "image_id": 521259,
+    "status": "cached",
+    "url": "http://images.cocodataset.org/val2017/000000521259.jpg",
+    "relative_path": "raw/images/000000521259.jpg",
+    "bytes": 239856,
+    "sha256": "95040dd15929de9ee3e0bdb17dc8455197cee814a2293a42c5cccd537565c0ac",
+    "accessed_utc": "2026-09-25T20:47:04.786938+00:00"
+  },
+  {
+    "image_id": 523241,
+    "status": "cached",
+    "url": "http://images.cocodataset.org/val2017/000000523241.jpg",
+    "relative_path": "raw/images/000000523241.jpg",
+    "bytes": 79208,
+    "sha256": "f0056cc384a0a2bb0a44c8d7cacb989917ea1397de562b970b6fb60159cb36ea",
+    "accessed_utc": "2026-09-25T20:47:04.786938+00:00"
+  },
+  {
+    "image_id": 523782,
+    "status": "cached",
+    "url": "http://images.cocodataset.org/val2017/000000523782.jpg",
+    "relative_path": "raw/images/000000523782.jpg",
+    "bytes": 82191,
+    "sha256": "6aa743aa40225ed2d72c71215cb142fd1f19961175e81b856cd0c9d87ad24560",
+    "accessed_utc": "2026-09-25T20:47:04.786938+00:00"
+  },
+  {
+    "image_id": 526392,
+    "status": "cached",
+    "url": "http://images.cocodataset.org/val2017/000000526392.jpg",
+    "relative_path": "raw/images/000000526392.jpg",
+    "bytes": 85079,
+    "sha256": "e5d5df3b0b7203eb60aa9c605a658cb026d1f6825edebda3dc6c86665724bdc2",
+    "accessed_utc": "2026-09-25T20:47:04.786938+00:00"
+  },
+  {
+    "image_id": 527220,
+    "status": "cached",
+    "url": "http://images.cocodataset.org/val2017/000000527220.jpg",
+    "relative_path": "raw/images/000000527220.jpg",
+    "bytes": 63874,
+    "sha256": "4924216bbf86e812d729c8c9cde904d4a9827020c7cfc22787af0fa67dd6c6c7",
+    "accessed_utc": "2026-09-25T20:47:04.786938+00:00"
+  },
+  {
+    "image_id": 530099,
+    "status": "cached",
+    "url": "http://images.cocodataset.org/val2017/000000530099.jpg",
+    "relative_path": "raw/images/000000530099.jpg",
+    "bytes": 64735,
+    "sha256": "ff6dbb424b63a078204e3a6705dd73c985470692b23ce29628cd3d4964817d07",
+    "accessed_utc": "2026-09-25T20:47:04.786938+00:00"
+  },
+  {
+    "image_id": 531036,
+    "status": "cached",
+    "url": "http://images.cocodataset.org/val2017/000000531036.jpg",
+    "relative_path": "raw/images/000000531036.jpg",
+    "bytes": 307853,
+    "sha256": "79be9c405b3ce4d2eea61fc29b0e1e633504fbeebee6483d64dfb38b1dd844a5",
+    "accessed_utc": "2026-09-25T20:47:04.788939+00:00"
+  },
+  {
+    "image_id": 534673,
+    "status": "cached",
+    "url": "http://images.cocodataset.org/val2017/000000534673.jpg",
+    "relative_path": "raw/images/000000534673.jpg",
+    "bytes": 190869,
+    "sha256": "e3596c112886930b23b8e698ad5f637a1fe7522f45acc7f7a927b4a7e294757a",
+    "accessed_utc": "2026-09-25T20:47:04.787938+00:00"
+  },
+  {
+    "image_id": 538364,
+    "status": "cached",
+    "url": "http://images.cocodataset.org/val2017/000000538364.jpg",
+    "relative_path": "raw/images/000000538364.jpg",
+    "bytes": 213567,
+    "sha256": "1b05f4958120b8ab11c5a3b00449320455e16c1a9795871e8e42913c1a04be69",
+    "accessed_utc": "2026-09-25T20:47:04.787938+00:00"
+  },
+  {
+    "image_id": 542625,
+    "status": "cached",
+    "url": "http://images.cocodataset.org/val2017/000000542625.jpg",
+    "relative_path": "raw/images/000000542625.jpg",
+    "bytes": 212725,
+    "sha256": "96bcf0e82d56c029bbb5f440727dbd0daf156a14327a5a83d6fd68ba67f62712",
+    "accessed_utc": "2026-09-25T20:47:04.788939+00:00"
+  },
+  {
+    "image_id": 542856,
+    "status": "cached",
+    "url": "http://images.cocodataset.org/val2017/000000542856.jpg",
+    "relative_path": "raw/images/000000542856.jpg",
+    "bytes": 201669,
+    "sha256": "9bd2d9be44355c59e3599f1f5ddcfc06bf8209a0f24b655538e891ae6a4b3fcf",
+    "accessed_utc": "2026-09-25T20:47:04.789940+00:00"
+  },
+  {
+    "image_id": 545219,
+    "status": "cached",
+    "url": "http://images.cocodataset.org/val2017/000000545219.jpg",
+    "relative_path": "raw/images/000000545219.jpg",
+    "bytes": 158022,
+    "sha256": "4a419d23d2d2137bf145b3affe935b85e8fbe93855a121ac6bd8ec81195703f0",
+    "accessed_utc": "2026-09-25T20:47:04.789940+00:00"
+  },
+  {
+    "image_id": 550084,
+    "status": "cached",
+    "url": "http://images.cocodataset.org/val2017/000000550084.jpg",
+    "relative_path": "raw/images/000000550084.jpg",
+    "bytes": 149879,
+    "sha256": "896499a202c96cc0f32250a0a8cc70cdbfc85ba43288672e7a7aebf4d40409e4",
+    "accessed_utc": "2026-09-25T20:47:04.789940+00:00"
+  },
+  {
+    "image_id": 550691,
+    "status": "cached",
+    "url": "http://images.cocodataset.org/val2017/000000550691.jpg",
+    "relative_path": "raw/images/000000550691.jpg",
+    "bytes": 164686,
+    "sha256": "168105cac7f4cc2c85faa655e68dc817c2178ea23f7fd1edb9d50843efdf1aab",
+    "accessed_utc": "2026-09-25T20:47:04.789940+00:00"
+  },
+  {
+    "image_id": 553511,
+    "status": "cached",
+    "url": "http://images.cocodataset.org/val2017/000000553511.jpg",
+    "relative_path": "raw/images/000000553511.jpg",
+    "bytes": 140083,
+    "sha256": "0f71120e00e049ac2e39e5dd3b6f27bf695e9a62309baad12b90b27b964c00c2",
+    "accessed_utc": "2026-09-25T20:47:04.788939+00:00"
+  },
+  {
+    "image_id": 553669,
+    "status": "cached",
+    "url": "http://images.cocodataset.org/val2017/000000553669.jpg",
+    "relative_path": "raw/images/000000553669.jpg",
+    "bytes": 189901,
+    "sha256": "aa69a44b016d4a7f1b765f9af8af6bff98595da70d73bd83eeaae083c54a096f",
+    "accessed_utc": "2026-09-25T20:47:04.789940+00:00"
+  },
+  {
+    "image_id": 555597,
+    "status": "cached",
+    "url": "http://images.cocodataset.org/val2017/000000555597.jpg",
+    "relative_path": "raw/images/000000555597.jpg",
+    "bytes": 107912,
+    "sha256": "6965bf5b54dbee29ac11ac1b7ea7c2741514ea7e0bc9ad118c32b6a533f94c3e",
+    "accessed_utc": "2026-09-25T20:47:04.790940+00:00"
+  },
+  {
+    "image_id": 560474,
+    "status": "cached",
+    "url": "http://images.cocodataset.org/val2017/000000560474.jpg",
+    "relative_path": "raw/images/000000560474.jpg",
+    "bytes": 252952,
+    "sha256": "6c04067b47b2bb2cd73f043f845d08d923e42ad8c08c6917ed5602f880b6d1d2",
+    "accessed_utc": "2026-09-25T20:47:04.790940+00:00"
+  },
+  {
+    "image_id": 563604,
+    "status": "cached",
+    "url": "http://images.cocodataset.org/val2017/000000563604.jpg",
+    "relative_path": "raw/images/000000563604.jpg",
+    "bytes": 187971,
+    "sha256": "9a333426b8df560bf5c208d9382ea900de5c2abcdc3bf2b27d5f6bcfb05e4202",
+    "accessed_utc": "2026-09-25T20:47:04.790940+00:00"
+  },
+  {
+    "image_id": 564336,
+    "status": "cached",
+    "url": "http://images.cocodataset.org/val2017/000000564336.jpg",
+    "relative_path": "raw/images/000000564336.jpg",
+    "bytes": 140903,
+    "sha256": "259fb73d152522fb39114a5f861e97a8bebae0c0c4811f37efa233dd276b4d4f",
+    "accessed_utc": "2026-09-25T20:47:04.791940+00:00"
+  },
+  {
+    "image_id": 565563,
+    "status": "cached",
+    "url": "http://images.cocodataset.org/val2017/000000565563.jpg",
+    "relative_path": "raw/images/000000565563.jpg",
+    "bytes": 153284,
+    "sha256": "1e6f1e3b345e1a35be647b982ed722cfbcc84683ea463967a7b977b25d177b37",
+    "accessed_utc": "2026-09-25T20:47:04.791940+00:00"
+  },
+  {
+    "image_id": 566758,
+    "status": "cached",
+    "url": "http://images.cocodataset.org/val2017/000000566758.jpg",
+    "relative_path": "raw/images/000000566758.jpg",
+    "bytes": 225800,
+    "sha256": "c2548168a658da18c7f19980f8ca53d2564b6378e33d010f3697b808b09e96e3",
+    "accessed_utc": "2026-09-25T20:47:04.791940+00:00"
+  },
+  {
+    "image_id": 568290,
+    "status": "cached",
+    "url": "http://images.cocodataset.org/val2017/000000568290.jpg",
+    "relative_path": "raw/images/000000568290.jpg",
+    "bytes": 243134,
+    "sha256": "116519cb932504866058215a0cca5e5d03b4af04a71e540db38c5caefb8d4725",
+    "accessed_utc": "2026-09-25T20:47:04.791940+00:00"
+  },
+  {
+    "image_id": 569565,
+    "status": "cached",
+    "url": "http://images.cocodataset.org/val2017/000000569565.jpg",
+    "relative_path": "raw/images/000000569565.jpg",
+    "bytes": 255697,
+    "sha256": "4a41348021140c4a9d58ce601e3c4f8ae1116c71aac77531c336e6d2d549de48",
+    "accessed_utc": "2026-09-25T20:47:04.791940+00:00"
+  },
+  {
+    "image_id": 573943,
+    "status": "cached",
+    "url": "http://images.cocodataset.org/val2017/000000573943.jpg",
+    "relative_path": "raw/images/000000573943.jpg",
+    "bytes": 186230,
+    "sha256": "927f0d87b928f0eafda8b437a3ddbe7c79f30eb4a61d76f75f512bbb0c35aa55",
+    "accessed_utc": "2026-09-25T20:47:04.792940+00:00"
+  },
+  {
+    "image_id": 577932,
+    "status": "cached",
+    "url": "http://images.cocodataset.org/val2017/000000577932.jpg",
+    "relative_path": "raw/images/000000577932.jpg",
+    "bytes": 316061,
+    "sha256": "593d4d8a69f21f4821e0bdd1d9f90e77084b31fb951090b549915a986b0633fe",
+    "accessed_utc": "2026-09-25T20:47:04.792940+00:00"
+  },
+  {
+    "image_id": 577976,
+    "status": "cached",
+    "url": "http://images.cocodataset.org/val2017/000000577976.jpg",
+    "relative_path": "raw/images/000000577976.jpg",
+    "bytes": 154787,
+    "sha256": "f4a69620b9c578112bdac7b7007aaa75d79e4b77e6b96318aa8b1a7defb3d4e5",
+    "accessed_utc": "2026-09-25T20:47:04.792940+00:00"
+  },
+  {
+    "image_id": 580418,
+    "status": "cached",
+    "url": "http://images.cocodataset.org/val2017/000000580418.jpg",
+    "relative_path": "raw/images/000000580418.jpg",
+    "bytes": 149633,
+    "sha256": "2387868faabda108661e76843ac40a74a72f9d4e370a7e52dd31430647e41c7a",
+    "accessed_utc": "2026-09-25T20:47:04.792940+00:00"
+  }
+]

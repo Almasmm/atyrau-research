@@ -1,0 +1,118 @@
+{
+  "dataset_file": "results/model_dataset.csv",
+  "dataset_file_base": "case_directory",
+  "dataset_sha256": "7ed6e0e3712817720ed47bc2ab00cae3047bf542492305e4b7b42ca065b432a5",
+  "target": "station32 daily PM2.5 ug/m3; >=18 unique hours",
+  "horizon": "contemporaneous explanation; not a forecast",
+  "features": [
+    "temperature_2m_mean",
+    "relative_humidity_2m_mean",
+    "wind_speed_10m_mean",
+    "precipitation_sum",
+    "sin_doy",
+    "cos_doy",
+    "sin_week",
+    "cos_week"
+  ],
+  "selected_on_validation_MAE": "mean",
+  "selected_prediction_column": "mean",
+  "split": {
+    "test": {
+      "start": "2025-01-14",
+      "end": "2025-12-22",
+      "n": 304
+    },
+    "train": {
+      "start": "2022-01-01",
+      "end": "2023-12-31",
+      "n": 694
+    },
+    "validation": {
+      "start": "2024-01-01",
+      "end": "2024-10-08",
+      "n": 211
+    }
+  },
+  "seed": 42,
+  "versions": {
+    "python": "3.12.14",
+    "numpy": "2.3.5",
+    "pandas": "3.0.1",
+    "sklearn": "1.9.1",
+    "scipy": "1.18.1"
+  },
+  "training": [
+    {
+      "model": "ridge",
+      "selected_configuration": "ridge_10.0",
+      "fit_rows": 905,
+      "fit_seconds": 0.0031455000025744084,
+      "parameters": {
+        "memory": "None",
+        "steps": "[('simpleimputer', SimpleImputer(add_indicator=True, strategy='median')), ('standardscaler', StandardScaler()), ('ridge', Ridge(alpha=10.0))]",
+        "transform_input": "None",
+        "verbose": "False",
+        "simpleimputer": "SimpleImputer(add_indicator=True, strategy='median')",
+        "standardscaler": "StandardScaler()",
+        "ridge": "Ridge(alpha=10.0)",
+        "simpleimputer__add_indicator": "True",
+        "simpleimputer__copy": "True",
+        "simpleimputer__fill_value": "None",
+        "simpleimputer__keep_empty_features": "False",
+        "simpleimputer__missing_values": "nan",
+        "simpleimputer__strategy": "'median'",
+        "standardscaler__copy": "True",
+        "standardscaler__with_mean": "True",
+        "standardscaler__with_std": "True",
+        "ridge__alpha": "10.0",
+        "ridge__copy_X": "True",
+        "ridge__fit_intercept": "True",
+        "ridge__max_iter": "None",
+        "ridge__positive": "False",
+        "ridge__random_state": "None",
+        "ridge__solver": "'auto'",
+        "ridge__tol": "0.0001"
+      }
+    },
+    {
+      "model": "forest",
+      "selected_configuration": "forest_3",
+      "fit_rows": 905,
+      "fit_seconds": 0.15635140000085812,
+      "parameters": {
+        "memory": "None",
+        "steps": "[('simpleimputer', SimpleImputer(add_indicator=True, strategy='median')), ('randomforestregressor', RandomForestRegressor(max_depth=8, min_samples_leaf=3, n_estimators=200,\n                      n_jobs=2, random_state=42))]",
+        "transform_input": "None",
+        "verbose": "False",
+        "simpleimputer": "SimpleImputer(add_indicator=True, strategy='median')",
+        "randomforestregressor": "RandomForestRegressor(max_depth=8, min_samples_leaf=3, n_estimators=200,\n                      n_jobs=2, random_state=42)",
+        "simpleimputer__add_indicator": "True",
+        "simpleimputer__copy": "True",
+        "simpleimputer__fill_value": "None",
+        "simpleimputer__keep_empty_features": "False",
+        "simpleimputer__missing_values": "nan",
+        "simpleimputer__strategy": "'median'",
+        "randomforestregressor__bootstrap": "True",
+        "randomforestregressor__ccp_alpha": "0.0",
+        "randomforestregressor__criterion": "'squared_error'",
+        "randomforestregressor__max_depth": "8",
+        "randomforestregressor__max_features": "1.0",
+        "randomforestregressor__max_leaf_nodes": "None",
+        "randomforestregressor__max_samples": "None",
+        "randomforestregressor__min_impurity_decrease": "0.0",
+        "randomforestregressor__min_samples_leaf": "3",
+        "randomforestregressor__min_samples_split": "2",
+        "randomforestregressor__min_weight_fraction_leaf": "0.0",
+        "randomforestregressor__monotonic_cst": "None",
+        "randomforestregressor__n_estimators": "200",
+        "randomforestregressor__n_jobs": "2",
+        "randomforestregressor__oob_score": "False",
+        "randomforestregressor__random_state": "42",
+        "randomforestregressor__verbose": "0",
+        "randomforestregressor__warm_start": "False"
+      }
+    }
+  ],
+  "metrics": "../results/metrics.json",
+  "upstream_QC_caveat": "Retrospective publisher filtering and measurement availability latency not reconstructable; offline benchmark only."
+}

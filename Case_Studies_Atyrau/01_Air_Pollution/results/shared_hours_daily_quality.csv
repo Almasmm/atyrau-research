@@ -1,0 +1,7 @@
+city,station_id,paired_days,pm25_gt_pm10_days,pm25_gt_1_2pm10_days,gt_pct
+Aktau,22,1282,0,0,0.0
+Aktobe,31,1326,0,0,0.0
+Atyrau,235,1300,0,0,0.0
+Atyrau,32,1209,845,280,69.89247311827957
+Atyrau,33,223,0,0,0.0
+Atyrau,86,283,0,0,0.0

@@ -1,0 +1,13 @@
+{
+  "rows": 365,
+  "predictions": 359,
+  "statistical_flags": 8,
+  "quality_failures": 0,
+  "threshold_cm": 31.0,
+  "threshold_source": "99th percentile absolute daily change on 2018+2019 only",
+  "threshold_operator": ">",
+  "hazard_classification": false,
+  "labeled_anomaly_metrics": "not applicable; no anomaly labels",
+  "actions_sent": false,
+  "last_forecast_has_no_observed_target": true
+}

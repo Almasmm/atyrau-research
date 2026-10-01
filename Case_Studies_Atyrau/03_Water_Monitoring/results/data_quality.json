@@ -1,0 +1,19 @@
+{
+  "rows": 1095,
+  "unique_dates": 1095,
+  "missing_level": 0,
+  "duplicate_dates": 0,
+  "years": [
+    2018,
+    2019,
+    2022
+  ],
+  "omitted_years": [
+    2020,
+    2021
+  ],
+  "monthly_mean_checks_passed": 36,
+  "monthly_mean_max_abs_difference_cm": 0.5,
+  "dataset_sha256": "155f74f0043c12047402032fdeac1cc7eedc51dcb192ffb3c77f31d20a81f1d1",
+  "raw_extracted_sha256": "155f74f0043c12047402032fdeac1cc7eedc51dcb192ffb3c77f31d20a81f1d1"
+}

@@ -1,0 +1,45 @@
+{
+  "backup": "before_revision_20260926",
+  "checks": [
+    {
+      "file": "dataset.csv",
+      "identical_to_backup": true,
+      "sha256": "155f74f0043c12047402032fdeac1cc7eedc51dcb192ffb3c77f31d20a81f1d1"
+    },
+    {
+      "file": "data/raw/atyrau_level_observations.csv",
+      "identical_to_backup": true,
+      "sha256": "155f74f0043c12047402032fdeac1cc7eedc51dcb192ffb3c77f31d20a81f1d1"
+    },
+    {
+      "file": "results/metrics.csv",
+      "identical_to_backup": true,
+      "sha256": "a2e40bfb833a79b9dc3b8640c8fa442e1b5d0f17bb587d8a3b97e5e4fb29ccc8"
+    },
+    {
+      "file": "results/predictions.csv",
+      "identical_to_backup": true,
+      "sha256": "c8402de4556b1aaa5f1763e9eda5182283181efd199f553648efa234c91c6319"
+    },
+    {
+      "file": "results/replay_actions.csv",
+      "identical_to_backup": true,
+      "sha256": "2d766421cb97781ca5235c8ceab36f253b4e6cb029920d59a779031074f67235"
+    },
+    {
+      "file": "models/metadata.json",
+      "identical_to_backup": true,
+      "sha256": "aa964098d399c71613d6d8e327e265219c8f7ffa4070f3a5f1cd4fa3d55ac952"
+    },
+    {
+      "file": "EXPERIMENT_PLAN.md",
+      "identical_to_backup": true,
+      "sha256": "32d79a0c21a0fdf040c2bd4b39872198e5f7d2cce8b88b47344288225f55f174"
+    },
+    {
+      "file": "slides.json",
+      "identical_to_backup": true,
+      "sha256": "887457d988006cf465e164426cfeb2ac722d4bf5ad4e330523f0adbccdb38e00"
+    }
+  ]
+}

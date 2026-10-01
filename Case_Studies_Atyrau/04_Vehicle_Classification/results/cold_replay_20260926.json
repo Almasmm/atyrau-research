@@ -1,0 +1,35 @@
+{
+  "status": "PASS",
+  "date": "2026-09-26",
+  "declared_inputs": "339 pinned raw files, source_integrity.json, source code; same installed dependency environment",
+  "initial_derived_artifacts": 0,
+  "network_redownload_performed": false,
+  "steps": [
+    {
+      "script": "scripts/prepare_data.py",
+      "returncode": 0,
+      "seconds": 7.367360899999767
+    },
+    {
+      "script": "scripts/make_notebook.py",
+      "returncode": 0,
+      "seconds": 28.946418199997424
+    },
+    {
+      "script": "scripts/make_artifacts.py",
+      "returncode": 0,
+      "seconds": 6.407316799999535
+    }
+  ],
+  "checks": {
+    "metrics_identical_to_original_experiment": true,
+    "test_predictions_identical": true,
+    "split_identical": true,
+    "dataset_identical": true,
+    "notebook_errors_zero": true,
+    "no_author_absolute_paths_in_notebook": true
+  },
+  "elapsed_seconds": 44.103977300001134,
+  "fresh_outputs_promoted": true,
+  "temporary_workspace_removed": true
+}

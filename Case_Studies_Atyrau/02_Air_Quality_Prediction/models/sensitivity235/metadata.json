@@ -1,0 +1,39 @@
+{
+  "station_id": "235",
+  "station_name": "PCP #10",
+  "coordinates": [
+    47.114687,
+    51.860907
+  ],
+  "status": "EXPLORATORY_SECONDARY",
+  "reason": "Added after observing station32 cross-channel inconsistency; main experiment kept unchanged.",
+  "hyperparameters": "Cloned unfitted pipelines selected on station32 validation; no station235 tuning",
+  "model_selection": "persistence frozen from main experiment; no selection by station235 test",
+  "fit_rows": 864,
+  "test_rows": 353,
+  "fit_start": "2022-01-19",
+  "fit_end": "2024-12-31",
+  "test_start": "2025-01-01",
+  "test_end": "2025-12-22",
+  "features": [
+    "lag1",
+    "lag2",
+    "lag3",
+    "lag7",
+    "lag14",
+    "rolling_mean3",
+    "rolling_mean7",
+    "rolling_mean14",
+    "rolling_std7",
+    "sin_doy",
+    "cos_doy",
+    "sin_week",
+    "cos_week"
+  ],
+  "dataset_file": "results/sensitivity235/dataset.csv",
+  "dataset_file_base": "case_directory",
+  "dataset_sha256": "bfe34c18af44c8028052527d4c5738ed3f28fa948ae9cf96f1dc9b2184da8daf",
+  "test_mean": 5.84473850661152,
+  "test_std": 7.617535955145703,
+  "limitations": "Physically more consistent PM channels do not independently validate calibration; retrospective QC and publication-latency limitations persist."
+}

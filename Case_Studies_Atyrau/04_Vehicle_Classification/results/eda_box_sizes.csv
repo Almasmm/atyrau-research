@@ -1,0 +1,6 @@
+,bbox_width,bbox_width,bbox_width,bbox_width,bbox_height,bbox_height,bbox_height,bbox_height
+,count,median,min,max,count,median,min,max
+class,,,,,,,,
+bus,141,250.96,42.1,640.0,141,185.45,46.59,547.96
+car,365,103.16,40.02,640.0,365,73.98,40.05,445.4
+truck,163,156.11,41.85,638.89,163,125.13,40.13,455.13

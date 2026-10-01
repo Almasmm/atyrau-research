@@ -1,0 +1,22 @@
+{
+  "archive": "Case_Studies_Atyrau_SUBMISSION.zip",
+  "sha256": "8eb9057aaa2680e781cc1a899f29032f3c97301aa2741dd847ebc06ffe0cdd8e",
+  "bytes": 476245573,
+  "file_count": 1348,
+  "crc": "PASS",
+  "all_manifest_hashes": "PASS",
+  "unpacked_verification": "PASS",
+  "unpacked_science_retraining": "PASS: fresh kernels, all four science pipelines, frozen metrics reproduced",
+  "science_fingerprint": "9aa6e03394d97d7d32d855e9ddbab034303bea1abb27a7a4e9f5600005cf706a",
+  "excluded": [
+    "research_notes and original hydro PDFs",
+    "__pycache__",
+    ".venv",
+    ".git",
+    "raw/demo_source_page.html"
+  ],
+  "manifest_self_hash": "intentionally omitted",
+  "scope": "Independent scientific run on the pre-final editorial snapshot. The final ZIP receipt is adjacent to the final archive; the computational fingerprint must match.",
+  "step_log": "UNPACKED_REPRODUCTION_STEPS.json",
+  "comparison": "Three numeric cases: all metrics and prediction columns, rtol/atol 1e-10. Vehicle: test metrics 1e-12 and prediction table equality."
+}

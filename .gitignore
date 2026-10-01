@@ -1,0 +1,19 @@
+# Python virtual environment
+.venv/
+venv/
+__pycache__/
+*.pyc
+*.pyo
+
+# Build artifacts and backups (regenerable / large)
+_build/
+_backups/
+
+# Temporary chart data folders
+.chart-data-*/
+
+# OS / editor junk
+.DS_Store
+Thumbs.db
+*.tmp
+*.log

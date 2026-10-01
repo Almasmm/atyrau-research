@@ -1,0 +1,18 @@
+[
+  {
+    "case": "01_Air_Pollution",
+    "code_cells": 14,
+    "errors": 0,
+    "embedded_pngs": 8,
+    "html_bytes": 815395,
+    "word_count_Report_md": 2562
+  },
+  {
+    "case": "02_Air_Quality_Prediction",
+    "code_cells": 13,
+    "errors": 0,
+    "embedded_pngs": 6,
+    "html_bytes": 987130,
+    "word_count_Report_md": 2384
+  }
+]

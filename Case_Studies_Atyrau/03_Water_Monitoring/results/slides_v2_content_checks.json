@@ -1,0 +1,97 @@
+{
+  "status": "PASS",
+  "slides": 15,
+  "checks": [
+    {
+      "slide": 1,
+      "layout": "cover",
+      "title_characters": 35,
+      "notes_words": 71
+    },
+    {
+      "slide": 2,
+      "layout": "stat",
+      "title_characters": 43,
+      "notes_words": 73
+    },
+    {
+      "slide": 3,
+      "layout": "columns",
+      "title_characters": 52,
+      "notes_words": 75
+    },
+    {
+      "slide": 4,
+      "layout": "table",
+      "title_characters": 41,
+      "notes_words": 74
+    },
+    {
+      "slide": 5,
+      "layout": "figure",
+      "title_characters": 41,
+      "notes_words": 73
+    },
+    {
+      "slide": 6,
+      "layout": "table",
+      "title_characters": 41,
+      "notes_words": 74
+    },
+    {
+      "slide": 7,
+      "layout": "columns",
+      "title_characters": 45,
+      "notes_words": 78
+    },
+    {
+      "slide": 8,
+      "layout": "table",
+      "title_characters": 41,
+      "notes_words": 80
+    },
+    {
+      "slide": 9,
+      "layout": "chart",
+      "title_characters": 45,
+      "notes_words": 70
+    },
+    {
+      "slide": 10,
+      "layout": "figure",
+      "title_characters": 44,
+      "notes_words": 74
+    },
+    {
+      "slide": 11,
+      "layout": "table",
+      "title_characters": 37,
+      "notes_words": 76
+    },
+    {
+      "slide": 12,
+      "layout": "stat",
+      "title_characters": 45,
+      "notes_words": 74
+    },
+    {
+      "slide": 13,
+      "layout": "columns",
+      "title_characters": 42,
+      "notes_words": 74
+    },
+    {
+      "slide": 14,
+      "layout": "conclusion",
+      "title_characters": 52,
+      "notes_words": 76
+    },
+    {
+      "slide": 15,
+      "layout": "references",
+      "title_characters": 38,
+      "notes_words": 84
+    }
+  ],
+  "metrics_source": "results/metrics.csv; actual executed results"
+}

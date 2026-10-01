@@ -1,0 +1,13 @@
+{
+  "commit": "0fe9a615baf614346e282796f685ce72b852187f",
+  "archive_sha256": {
+    "raw/pm2_5.csv.gz": "3595834cef57f5ef05aca91d87469fb7f213b86c0720fcb5d430a616e1fdd85c",
+    "raw/pm10.csv.gz": "a20950d545bc40fa0d4fc38a835d99f3137c8a23d23c885fed8bed51b437d8e1",
+    "raw/no2.csv.gz": "9b666a5be02bf023f1a17efdb66dbebdbe002e5c96e093910e7d3c401528bbf4",
+    "raw/so2.csv.gz": "74e0e54db05b03603f3a591c3afd9db32fe1f929a33936a607d8d85484d03213",
+    "raw/co.csv.gz": "785633acd311312272bc5e5adce5984aaddcf1c498d727d7faa156ee32a87f0b",
+    "raw/h2s.csv.gz": "0c78dfeb1fd54f603759ce776a20172e75aa7d53685bb09efc26ba1550139f08",
+    "raw/o3.csv.gz": "997e399b497f29e44c96c018bee9addd24a8140ed5d137c7c5a384f626b520e7"
+  },
+  "weather_daily_sha256": "8ff3dbde7d28c32c2163aab325d7e357e99fa62f03ac82f95067d6c4b26bf0e1"
+}

@@ -1,0 +1,10 @@
+column,dtype,meaning,unit,availability
+city,string,город из опубликованного архива,n/a,observed
+station_id,string,исходный идентификатор; не число для арифметики,n/a,observed
+date,date,местные календарные сутки Asia/Atyrau,UTC+5,observed
+parameter,string,"pm2_5,pm10,no2,so2,co,h2s,o3",n/a,observed
+mean_ugm3,float,среднее имеющихся часов; диагностическое при неполноте,ug/m3,end_of_day
+n_hours,int,число уникальных временных меток часа,hour,end_of_day
+valid_day,bool,n_hours>=18,n/a,end_of_day
+value_ugm3,float,"mean_ugm3 только valid_day, иначе missing",ug/m3,end_of_day
+reference_station,bool,фиксированная станция32/22/31,n/a,predefined

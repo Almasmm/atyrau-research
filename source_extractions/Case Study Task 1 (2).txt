@@ -1,0 +1,104 @@
+
+Case Study Task 1
+Assessment and Analysis of Air Pollution Levels in Major Cities of Kazakhstan
+
+1. Background
+Air pollution is one of the most pressing environmental and public health challenges facing Kazakhstan. Rapid urbanization, industrial expansion, coal-based energy production, transportation emissions, and heating systems significantly contribute to deteriorating air quality. Cities such as Almaty, Astana, Temirtau, Karaganda, and Ust-Kamenogorsk frequently record high levels of particulate matter (PM2.5 and PM10), nitrogen dioxide (NO₂), sulfur dioxide (SO₂), and other pollutants.
+2. Objective of the Case Study
+Your task is to investigate the state of air pollution in selected Kazakhstan’s cities, identify major contributing factors, and propose data-driven recommendations to mitigate pollution.
+Key objectives:
+Analyze real or publicly available air quality datasets from Kazakhstan.
+Compare pollution levels across different cities.
+Identify primary pollution sources (industry, energy, transport, climate factors).
+Evaluate seasonal patterns (winter peaks, heating season).
+Assess health and environmental risks.
+Propose evidence-based solutions.
+3. Research Questions
+Which Kazakhstani cities experience the highest levels of air pollution?
+What pollutants (PM2.5, PM10, SO₂, NO₂, CO, O₃) are most problematic?
+What are the main sources of air contamination in each city?
+How do seasonal changes affect pollution levels?
+What measures can realistically reduce pollution in the next 5–10 years?
+4. Data Requirements
+Use one or more of the following sources:
+Open datasets:
+AirKaz.org – real-time air quality data
+Kazhydromet – official environmental monitoring reports
+IQAir / World Air Quality Index
+Local government reports or academic publications
+Data to collect:
+Pollution metrics: PM2.5, PM10, NO₂, SO₂, CO, O₃
+Temperature, wind, humidity (for seasonal analysis)
+Industrial output, transport density (optional)
+5. Methodology
+You may use the following steps:
+5.1 Data Collection
+Upload or scrape available air-quality datasets.
+Clean missing or inconsistent readings.
+5.2 Data Analysis
+Perform:
+Time-series analysis
+Seasonal decomposition
+Correlation with weather or industrial activity
+5.3 Visualization
+Create:
+Line charts of pollutants over months
+Heatmaps comparing cities
+Bar charts ranking pollution sources
+AQI maps (optional)
+5.4 Evaluation
+Compare results to World Health Organization (WHO) air quality standards.
+Identify high-risk periods (e.g., winter inversion in Almaty).
+Quantify exceedance days.
+5.5 Recommendations
+Provide:
+Short-term actions (transport policy, heating regulations)
+Long-term strategies (green energy transition, urban planning)
+
+6. Expected Deliverables
+You must submit:
+A. Written Report (8–15 pages)
+Should include:
+Introduction (context and motivation)
+Literature review on air pollution in Kazakhstan
+Data description
+Methods (analysis approach)
+Results (with charts and tables)
+Discussion
+Recommendations
+Conclusion
+B. Presentation (10–15 slides)
+Including:
+Problem statement
+Key findings
+Visualizations
+Proposed solutions
+C. Python Notebook / Code (optional)
+If using ML methods (forecasting, anomaly detection, clustering).
+7. Possible Advanced Extensions
+Machine Learning Options:
+Forecasting pollution using ARIMA, Prophet, or LSTM
+Clustering cities based on pollution signatures (K-Means, DBSCAN)
+Predicting pollution levels from weather & traffic data
+Anomaly detection for sudden emissions peaks
+Policy Analysis:
+Compare Kazakhstan’s policies to EU standards
+Estimate potential reduction from alternative heating systems
+Create cost-benefit models for clean air initiatives
+8. Suggested Cities to Analyze
+Almaty (Large amount of transport and traffic jams, worst winter smog, mountain basin)
+Astana (rapid growth, wind patterns help disperse pollutants)
+Temirtau (metallurgy)
+Karaganda (coal mining)
+Ust-Kamenogorsk (industrial emissions)
+Shymkent (transport + industrial mix)
+9. Evaluation Criteria
+Your work will be graded based on:
+Depth of analysis
+Data accuracy and preprocessing quality
+Quality of visualizations
+Clarity of writing
+Feasibility of recommendations
+Originality (e.g., ML modeling, policy comparison)
+
+Lab 1

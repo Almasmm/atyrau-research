@@ -1,0 +1,116 @@
+[
+  {
+    "step": "python 01_Air_Pollution/build_notebooks.py --case both",
+    "returncode": 0,
+    "seconds": 45.128,
+    "cwd_relative": "."
+  },
+  {
+    "step": "python 01_Air_Pollution/build_content.py ",
+    "returncode": 0,
+    "seconds": 2.1,
+    "cwd_relative": "."
+  },
+  {
+    "step": "python 01_Air_Pollution/build_slides_v2.py ",
+    "returncode": 0,
+    "seconds": 0.458,
+    "cwd_relative": "."
+  },
+  {
+    "step": "python 03_Water_Monitoring/code/build_notebook.py ",
+    "returncode": 0,
+    "seconds": 11.169,
+    "cwd_relative": "."
+  },
+  {
+    "step": "python 03_Water_Monitoring/code/build_materials.py ",
+    "returncode": 0,
+    "seconds": 1.775,
+    "cwd_relative": "."
+  },
+  {
+    "step": "python 03_Water_Monitoring/code/build_slides_v2.py ",
+    "returncode": 0,
+    "seconds": 0.467,
+    "cwd_relative": "."
+  },
+  {
+    "step": "python 04_Vehicle_Classification/scripts/prepare_data.py ",
+    "returncode": 0,
+    "seconds": 7.015,
+    "cwd_relative": "."
+  },
+  {
+    "step": "python 04_Vehicle_Classification/scripts/make_notebook.py ",
+    "returncode": 0,
+    "seconds": 27.47,
+    "cwd_relative": "."
+  },
+  {
+    "step": "python 04_Vehicle_Classification/scripts/make_artifacts.py ",
+    "returncode": 0,
+    "seconds": 5.811,
+    "cwd_relative": "."
+  },
+  {
+    "step": "python scripts/assemble_overview.py ",
+    "returncode": 0,
+    "seconds": 0.567,
+    "cwd_relative": "."
+  },
+  {
+    "step": "python scripts/build_registry.py ",
+    "returncode": 0,
+    "seconds": 0.265,
+    "cwd_relative": "."
+  },
+  {
+    "step": "python scripts/build_defense.py ",
+    "returncode": 0,
+    "seconds": 0.429,
+    "cwd_relative": "."
+  },
+  {
+    "step": "python scripts/build_documents.py 01",
+    "returncode": 0,
+    "seconds": 0.283,
+    "cwd_relative": "."
+  },
+  {
+    "step": "python scripts/build_documents.py 02",
+    "returncode": 0,
+    "seconds": 0.269,
+    "cwd_relative": "."
+  },
+  {
+    "step": "python scripts/build_documents.py 03",
+    "returncode": 0,
+    "seconds": 0.256,
+    "cwd_relative": "."
+  },
+  {
+    "step": "python scripts/build_documents.py 04",
+    "returncode": 0,
+    "seconds": 0.276,
+    "cwd_relative": "."
+  },
+  {
+    "step": "build editable presentations",
+    "returncode": 0,
+    "seconds": 15.426,
+    "cwd_relative": "."
+  },
+  {
+    "step": "Office PDF export (PowerShell 7)",
+    "returncode": 0,
+    "seconds": 10.184,
+    "cwd_relative": "."
+  },
+  {
+    "step": "python scripts/verify_package.py ",
+    "returncode": 0,
+    "seconds": 4.463,
+    "cwd_relative": "."
+  }
+]

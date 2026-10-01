@@ -1,0 +1,8 @@
+[
+  {
+    "step": "python scripts/verify_package.py ",
+    "returncode": 0,
+    "seconds": 5.615,
+    "cwd_relative": "."
+  }
+]

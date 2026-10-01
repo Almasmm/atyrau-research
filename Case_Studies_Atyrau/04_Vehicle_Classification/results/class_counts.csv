@@ -1,0 +1,4 @@
+split,bus,car,truck
+test,28,73,32
+train,85,219,99
+validation,28,73,32

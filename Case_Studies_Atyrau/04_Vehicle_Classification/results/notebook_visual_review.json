@@ -1,0 +1,20 @@
+{
+  "technical_status": "PASS",
+  "executed_code_cells": 10,
+  "execution_errors": 0,
+  "html_bytes": 1654831,
+  "absolute_author_windows_paths_found": false,
+  "browser_visual_status": "BLOCKED",
+  "attempted_surface": "CUA Edge, separate tab, local Notebook.html file URL",
+  "reason": "Browser use URL security policy rejected local-file navigation and explicitly prohibited workarounds or alternate browser surfaces.",
+  "workaround_attempted": false,
+  "alternative_evidence": "Clean-kernel execution, nbconvert HTML generation, embedded output images, numerical and schema checks. These are technical evidence, not a claimed browser visual review.",
+  "fresh_prepare_then_notebook_verified": true,
+  "training_before_split_dependent_eda": true,
+  "demo_regenerated_before_metadata_display": true,
+  "revision_date": "2026-09-26",
+  "raw_only_replay_verified": true,
+  "html_sha256": "cd9f751f4d5219df297f9fe710e0278ce96723bb05ff066c3ef3517a3c58faab",
+  "notebook_sha256": "fe9fdb5dc09da4b01ad777d8c7ee7a762e5576838bdc17145745e3fb3a7f835f",
+  "latest_execution_seconds": 39.30180640000253
+}

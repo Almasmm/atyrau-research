@@ -1,0 +1,38 @@
+{
+  "dataset_sha256": "c6a99b919cba4493f90c99cfae042181180bef5cb7d150d629d6b70662abc638",
+  "split_sha256": "9424653fa3b11b1559c5794d0fbdc92b2ef87137b16bea419c5b8391f101f1fe",
+  "selected_model": "logistic",
+  "class_mapping": {
+    "3": "car",
+    "6": "bus",
+    "8": "truck"
+  },
+  "features": "64x64 RGB crop: HOG 9 orientations/8x8 cells/2x2 blocks L2-Hys + 16-bin RGB histogram each channel + log original width/height",
+  "feature_count": 1813,
+  "parameters": {
+    "logistic": {
+      "C": 1.0
+    },
+    "random_forest": {
+      "max_depth": 8,
+      "min_samples_leaf": 2
+    }
+  },
+  "training_objects": 403,
+  "validation_objects": 133,
+  "test_objects": 133,
+  "seed": 42,
+  "pretrained": false,
+  "versions": {
+    "numpy": "2.3.5",
+    "pandas": "3.0.1",
+    "scikit-learn": "1.9.1",
+    "scikit-image": "0.26.0",
+    "scipy": "1.18.1",
+    "pillow": "12.3.0",
+    "joblib": "1.6.0"
+  },
+  "metrics": "../results/metrics.json",
+  "python": "3.12.14 (main, Aug 25 2026, 14:01:42) [MSC v.1944 64 bit (AMD64)]",
+  "platform": "Windows-11-10.0.26200-SP0"
+}

@@ -1,0 +1,65 @@
+{
+  "selected_model": "ridge",
+  "ridge_alpha": 100.0,
+  "forest_min_samples_leaf": 3,
+  "criterion": "lowest validation MAE; stable order breaks ties",
+  "test_year": 2022,
+  "seed": 42,
+  "target": "next calendar day mean level, cm above gauge datum",
+  "station_id": 19802,
+  "datum_m_BS": -30.0,
+  "features": [
+    "level_lag1",
+    "delta_lag1",
+    "delta_lag2",
+    "delta_lag3",
+    "deviation_mean3",
+    "deviation_mean7",
+    "mean_change7",
+    "sin_doy",
+    "cos_doy"
+  ],
+  "fit_rows": 723,
+  "test_rows": 358,
+  "dataset_sha256": "155f74f0043c12047402032fdeac1cc7eedc51dcb192ffb3c77f31d20a81f1d1",
+  "experiment_plan_sha256": "32d79a0c21a0fdf040c2bd4b39872198e5f7d2cce8b88b47344288225f55f174",
+  "split": {
+    "test": {
+      "n": 358,
+      "first_target": "2022-01-08",
+      "last_target": "2022-12-31"
+    },
+    "train": {
+      "n": 358,
+      "first_target": "2018-01-08",
+      "last_target": "2018-12-31"
+    },
+    "validation": {
+      "n": 365,
+      "first_target": "2019-01-01",
+      "last_target": "2019-12-31"
+    }
+  },
+  "versions": {
+    "python": "3.12.14",
+    "numpy": "2.3.5",
+    "pandas": "3.0.1",
+    "scikit-learn": "1.9.1",
+    "matplotlib": "3.11.2",
+    "joblib": "1.6.0"
+  },
+  "hyperparameters": {
+    "ridge": {
+      "alpha": 100.0,
+      "scaler": "StandardScaler"
+    },
+    "forest": {
+      "n_estimators": 200,
+      "max_depth": 6,
+      "min_samples_leaf": 3,
+      "random_state": 42,
+      "n_jobs": 2
+    }
+  },
+  "metrics_path": "results/metrics.json"
+}

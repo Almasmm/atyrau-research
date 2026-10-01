@@ -1,0 +1,10 @@
+model,class,correct,actual_total,predicted_total,false_negative,false_positive,recall
+majority,bus,0,28,0,28,0,0.0
+majority,car,73,73,133,0,60,1.0
+majority,truck,0,32,0,32,0,0.0
+logistic,bus,14,28,34,14,20,0.5
+logistic,car,49,73,70,24,21,0.6712328767123288
+logistic,truck,10,32,29,22,19,0.3125
+random_forest,bus,6,28,8,22,2,0.21428571428571427
+random_forest,car,72,73,118,1,46,0.9863013698630136
+random_forest,truck,4,32,7,28,3,0.125

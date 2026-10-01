@@ -1,0 +1,15 @@
+{
+  "station_id": "32",
+  "station_name": "PCP #8",
+  "city": "Atyrau",
+  "calendar_days": 1461,
+  "valid_target_days": 1209,
+  "modeled_days": 1108,
+  "excluded_missing_lag1_or_lag7": 101,
+  "selected_model": "persistence",
+  "MAE_improvement_vs_persistence_pct": 0.0,
+  "test_n": 273,
+  "shared_source_case": "01_Air_Pollution",
+  "status": "PARTIAL",
+  "material_limitation": "Calibration/channel consistency unresolved; retrospective provider QC and real-time latency unknown; offline forecasting experiment only."
+}

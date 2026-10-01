@@ -1,0 +1,30 @@
+[
+  {
+    "check": "schema_unique_dates_finite_numeric",
+    "status": "PASS"
+  },
+  {
+    "check": "strictly_past_observations",
+    "status": "PASS"
+  },
+  {
+    "check": "target_split_disjoint",
+    "status": "PASS"
+  },
+  {
+    "check": "metrics_recomputed_from_saved_predictions",
+    "status": "PASS"
+  },
+  {
+    "check": "36_source_monthly_mean_checks",
+    "status": "PASS"
+  },
+  {
+    "check": "model_dataset_hash",
+    "status": "PASS"
+  },
+  {
+    "check": "sequential_replay_matches_batch_predictions",
+    "status": "PASS"
+  }
+]

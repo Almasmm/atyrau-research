@@ -1,0 +1,8 @@
+{
+  "selected_model": "ridge",
+  "ridge_alpha": 100.0,
+  "forest_min_samples_leaf": 3,
+  "criterion": "lowest validation MAE; stable order breaks ties",
+  "test_year": 2022,
+  "seed": 42
+}

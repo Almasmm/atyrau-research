@@ -1,0 +1,62 @@
+[
+  {
+    "step": "python 01_Air_Pollution/build_notebooks.py --case both",
+    "returncode": 0,
+    "seconds": 45.0,
+    "cwd_relative": "."
+  },
+  {
+    "step": "python 01_Air_Pollution/build_content.py ",
+    "returncode": 0,
+    "seconds": 2.029,
+    "cwd_relative": "."
+  },
+  {
+    "step": "python 01_Air_Pollution/build_slides_v2.py ",
+    "returncode": 0,
+    "seconds": 0.514,
+    "cwd_relative": "."
+  },
+  {
+    "step": "python 03_Water_Monitoring/code/build_notebook.py ",
+    "returncode": 0,
+    "seconds": 10.643,
+    "cwd_relative": "."
+  },
+  {
+    "step": "python 03_Water_Monitoring/code/build_materials.py ",
+    "returncode": 0,
+    "seconds": 1.65,
+    "cwd_relative": "."
+  },
+  {
+    "step": "python 03_Water_Monitoring/code/build_slides_v2.py ",
+    "returncode": 0,
+    "seconds": 0.421,
+    "cwd_relative": "."
+  },
+  {
+    "step": "python 04_Vehicle_Classification/scripts/prepare_data.py ",
+    "returncode": 0,
+    "seconds": 6.963,
+    "cwd_relative": "."
+  },
+  {
+    "step": "python 04_Vehicle_Classification/scripts/make_notebook.py ",
+    "returncode": 0,
+    "seconds": 27.139,
+    "cwd_relative": "."
+  },
+  {
+    "step": "python 04_Vehicle_Classification/scripts/make_artifacts.py ",
+    "returncode": 0,
+    "seconds": 6.044,
+    "cwd_relative": "."
+  },
+  {
+    "step": "python 04_Vehicle_Classification/scripts/build_slides_v2.py ",
+    "returncode": 1,
+    "seconds": 0.462,
+    "cwd_relative": "."
+  }
+]

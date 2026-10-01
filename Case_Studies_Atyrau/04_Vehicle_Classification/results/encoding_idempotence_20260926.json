@@ -1,0 +1,29 @@
+{
+  "status": "PASS",
+  "date": "2026-09-26",
+  "python_utf8_mode_forced_off": true,
+  "explicit_utf8_read_audit": true,
+  "summary_title_restored_from": "Report.md first heading",
+  "runs": [
+    {
+      "run": 1,
+      "returncode": 0,
+      "sha256": {
+        "slides_v2.json": "04bc3719666d96f73a8d3c6c9e998e044c608d1a427755876e26bd6713c57d4c",
+        "summary.json": "e3accb23e5ebc0a66676ac556297c46806d134c1f1223239e29fde642c35eeae",
+        "results/slides_v2_checks.json": "afabd67e048c0b0968ec4fa0b6b2ff799162ed3e39779aeacf48f689edbd82bc"
+      }
+    },
+    {
+      "run": 2,
+      "returncode": 0,
+      "sha256": {
+        "slides_v2.json": "04bc3719666d96f73a8d3c6c9e998e044c608d1a427755876e26bd6713c57d4c",
+        "summary.json": "e3accb23e5ebc0a66676ac556297c46806d134c1f1223239e29fde642c35eeae",
+        "results/slides_v2_checks.json": "afabd67e048c0b0968ec4fa0b6b2ff799162ed3e39779aeacf48f689edbd82bc"
+      }
+    }
+  ],
+  "byte_identical_second_generation": true,
+  "science_or_model_changes": false
+}

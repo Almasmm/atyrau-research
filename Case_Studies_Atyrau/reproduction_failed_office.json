@@ -1,0 +1,98 @@
+[
+  {
+    "step": "python 01_Air_Pollution/build_notebooks.py --case both",
+    "returncode": 0,
+    "seconds": 94.61,
+    "cwd_relative": "."
+  },
+  {
+    "step": "python 01_Air_Pollution/build_content.py ",
+    "returncode": 0,
+    "seconds": 0.777,
+    "cwd_relative": "."
+  },
+  {
+    "step": "python 03_Water_Monitoring/code/build_notebook.py ",
+    "returncode": 0,
+    "seconds": 21.014,
+    "cwd_relative": "."
+  },
+  {
+    "step": "python 03_Water_Monitoring/code/build_materials.py ",
+    "returncode": 0,
+    "seconds": 2.405,
+    "cwd_relative": "."
+  },
+  {
+    "step": "python 04_Vehicle_Classification/scripts/prepare_data.py ",
+    "returncode": 0,
+    "seconds": 14.553,
+    "cwd_relative": "."
+  },
+  {
+    "step": "python 04_Vehicle_Classification/scripts/make_notebook.py ",
+    "returncode": 0,
+    "seconds": 44.716,
+    "cwd_relative": "."
+  },
+  {
+    "step": "python 04_Vehicle_Classification/scripts/make_artifacts.py ",
+    "returncode": 0,
+    "seconds": 1.456,
+    "cwd_relative": "."
+  },
+  {
+    "step": "python scripts/assemble_overview.py ",
+    "returncode": 0,
+    "seconds": 0.867,
+    "cwd_relative": "."
+  },
+  {
+    "step": "python scripts/build_registry.py ",
+    "returncode": 0,
+    "seconds": 0.537,
+    "cwd_relative": "."
+  },
+  {
+    "step": "python scripts/build_defense.py ",
+    "returncode": 0,
+    "seconds": 0.638,
+    "cwd_relative": "."
+  },
+  {
+    "step": "python scripts/build_documents.py 01",
+    "returncode": 0,
+    "seconds": 0.434,
+    "cwd_relative": "."
+  },
+  {
+    "step": "python scripts/build_documents.py 02",
+    "returncode": 0,
+    "seconds": 0.419,
+    "cwd_relative": "."
+  },
+  {
+    "step": "python scripts/build_documents.py 03",
+    "returncode": 0,
+    "seconds": 0.427,
+    "cwd_relative": "."
+  },
+  {
+    "step": "python scripts/build_documents.py 04",
+    "returncode": 0,
+    "seconds": 0.431,
+    "cwd_relative": "."
+  },
+  {
+    "step": "build editable presentations",
+    "returncode": 0,
+    "seconds": 27.028,
+    "cwd_relative": "."
+  },
+  {
+    "step": "Office PDF export",
+    "returncode": 4294967295,
+    "seconds": 434.184,
+    "cwd_relative": "."
+  }
+]

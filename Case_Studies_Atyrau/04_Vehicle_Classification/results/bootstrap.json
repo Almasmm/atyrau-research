@@ -1,0 +1,10 @@
+{
+  "method": "percentile bootstrap of held-out scene groups, 500 repetitions; not transportability bound",
+  "selected_model": "logistic",
+  "macro_f1_95_percentile_interval": [
+    0.3874006554886294,
+    0.591902631703477
+  ],
+  "groups": 64,
+  "seed": 42
+}

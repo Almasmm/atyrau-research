@@ -1,0 +1,18 @@
+column,dtype,meaning,unit,availability
+date,date,целевые следующие сутки,date,known calendar
+value_ugm3,float,target не доступен при origin,ug/m3,after target interval
+latest_feature_date,date,"t-1; контроль, не признак",date,before target
+split,string,хронологическое train/validation/test,n/a,predefined
+lag1,float,наблюдение target_date минус1 суток,ug/m3,strictly before target
+lag2,float,наблюдение target_date минус2 суток,ug/m3,strictly before target
+lag3,float,наблюдение target_date минус3 суток,ug/m3,strictly before target
+lag7,float,наблюдение target_date минус7 суток,ug/m3,strictly before target
+lag14,float,наблюдение target_date минус14 суток,ug/m3,strictly before target
+rolling_mean3,float,"shift1 then rolling3, min periods 2",ug/m3,strictly before target
+rolling_mean7,float,"shift1 then rolling7, min periods 3",ug/m3,strictly before target
+rolling_mean14,float,"shift1 then rolling14, min periods 7",ug/m3,strictly before target
+rolling_std7,float,"shift1 then rolling7,std,min_periods3",ug/m3,strictly before target
+sin_doy,float,циклический календарь целевого дня,unitless,known calendar
+cos_doy,float,циклический календарь целевого дня,unitless,known calendar
+sin_week,float,циклический календарь целевого дня,unitless,known calendar
+cos_week,float,циклический календарь целевого дня,unitless,known calendar

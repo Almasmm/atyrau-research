@@ -1,0 +1,12 @@
+{
+  "date": "2026-09-26",
+  "syntax": "PASS",
+  "report_results_and_order": "PASS",
+  "chart_matches_saved_metrics": "PASS",
+  "notes_and_titles": "PASS",
+  "slides": 15,
+  "report_words": 3213,
+  "old_slides_sha256": "887457d988006cf465e164426cfeb2ac722d4bf5ad4e330523f0adbccdb38e00",
+  "mean_change7_units": "PASS",
+  "visual_render": "PENDING_ROOT_RENDER"
+}

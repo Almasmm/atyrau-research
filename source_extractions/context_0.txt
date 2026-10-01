@@ -1,0 +1,134 @@
+SLIDE ppt/slides/slide1.xml
+AI LLM 
+models
+SLIDE ppt/slides/slide10.xml
+Prompt Engineering
+• Создание эффективных запросов для AI-модели.
+• Role + Task + Context + Requirements + Output format
+• Чем точнее задача и требования, тем более предсказуемым может быть результат.
+SLIDE ppt/slides/slide11.xml
+Возможности LLM
+• Text Generation
+• Information Extraction
+• Translation
+• Summarization
+• Code Generation
+• Data Analysis
+• Education
+• AI Agents
+SLIDE ppt/slides/slide12.xml
+Ограничения LLM
+• Возможные фактические ошибки
+• Hallucinations
+• Зависимость от качества prompt
+• Ограничения контекста
+• Вопросы конфиденциальности
+• Bias
+• Важные результаты необходимо проверять.
+SLIDE ppt/slides/slide13.xml
+LLM + внешние инструменты
+• LLM может работать вместе с Web Search, Database, Calculator, Python, APIs и Documents.
+• Подключение инструментов расширяет возможности языковой модели.
+SLIDE ppt/slides/slide14.xml
+AI Agents
+• AI Agent — система, которая использует AI-модель для выполнения многошаговых задач.
+• User → AI Agent → LLM → Planning → Tools → Analysis → Result
+SLIDE ppt/slides/slide15.xml
+Пример AI Agent
+• Задача: проанализировать данные о медицинских отходах.
+• 1. Получить данные
+• 2. Проверить качество
+• 3. Проанализировать временные ряды
+• 4. Найти пики нагрузки
+• 5. Выполнить прогноз
+• 6. Создать отчет
+SLIDE ppt/slides/slide16.xml
+LLM в образовании
+• AI Tutor
+• Генерация учебных материалов
+• Помощь преподавателю
+• Генерация тестов
+• Помощь в программировании
+• Персонализированное обучение
+SLIDE ppt/slides/slide17.xml
+LLM в научных исследованиях
+• Анализ литературы
+• Структурирование научного текста
+• Объяснение сложных концепций
+• Генерация кода
+• Анализ результатов
+• Подготовка таблиц
+• Перевод научных текстов
+SLIDE ppt/slides/slide18.xml
+Этические вопросы
+• Конфиденциальность данных
+• Авторство
+• Академическая честность
+• Авторские права
+• Bias
+• Прозрачность
+• Безопасность
+• Ответственность человека за конечное решение
+SLIDE ppt/slides/slide19.xml
+AI, LLM и AI Agents
+• AI → Machine Learning → Deep Learning → Generative AI → LLM → LLM + Tools → AI Agents
+SLIDE ppt/slides/slide2.xml
+Generative AI
+• Generative AI создаёт новый контент.
+• Текст
+• Изображения
+• Аудио
+• Видео
+• Код
+• Презентации
+SLIDE ppt/slides/slide20.xml
+Итоги
+• AI создаёт интеллектуальные системы.
+• ML обучает модели на данных.
+• Deep Learning использует глубокие нейронные сети.
+• Generative AI создаёт контент.
+• LLM работают с естественным языком.
+• AI Agents объединяют LLM с инструментами.
+• Человек остается ответственным за использование результатов AI.
+SLIDE ppt/slides/slide21.xml
+Спасибо за внимание!
+Questions?
+SLIDE ppt/slides/slide3.xml
+Что такое LLM?
+• LLM — Large Language Model, большая языковая модель.
+• Обучается на больших объемах текстовых данных.
+• Понимает запросы и генерирует текст.
+• Может переводить, суммировать, анализировать документы и писать код.
+SLIDE ppt/slides/slide4.xml
+Примеры LLM
+• GPT
+• Gemini
+• Claude
+• Llama
+• Mistral
+• Qwen
+• Модели отличаются архитектурой, размером, данными и возможностями.
+SLIDE ppt/slides/slide5.xml
+Как работает LLM?
+• User Prompt → Tokenization → Transformer → Attention → Next-token prediction → Response
+• Модель последовательно предсказывает наиболее подходящие токены с учетом контекста.
+SLIDE ppt/slides/slide6.xml
+Что такое токен?
+• LLM работает с токенами, а не непосредственно со словами.
+• Токеном может быть слово, часть слова, символ или знак препинания.
+• Текст → Tokens → Numbers → Neural Network
+SLIDE ppt/slides/slide7.xml
+Архитектура Transformer
+• Embedding
+• Self-Attention
+• Multi-Head Attention
+• Feed-Forward Network
+• Positional Information
+• Output Layer
+SLIDE ppt/slides/slide8.xml
+Self-Attention
+• Self-Attention помогает модели учитывать взаимосвязи между частями текста.
+• Механизм позволяет определить, какие элементы контекста наиболее важны для текущего шага.
+SLIDE ppt/slides/slide9.xml
+Обучение LLM
+• Большие наборы данных → Предварительная обработка → Pre-training → Fine-tuning → Instruction tuning / alignment → Готовая модель

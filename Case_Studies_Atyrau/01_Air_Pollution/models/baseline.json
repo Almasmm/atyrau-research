@@ -1,0 +1,6 @@
+{
+  "kind": "mean",
+  "training_mean_ugm3": 60.659855473684054,
+  "definition": "prediction(t)=mean(training+validation targets)",
+  "chosen_prediction_column": "mean"
+}

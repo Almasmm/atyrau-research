@@ -1,0 +1,230 @@
+Перечень заданий для изучения тем на основе кейсов
+
+
+№
+
+Задания/темы для самостоятельной работы в формате анализа конкретных кейсов
+Часы
+Рекомендуемая литература и другие источники (ссылки)
+
+Форма сдачи и сроки выполнения
+
+1
+2
+3
+4
+5
+1
+Загрязнение воздуха в крупнейших городах Казахстана
+
+5
+Список литературы, книги, интернет-ресурсы (электронная версия), наборы данных (Kaggle), AirKaz.org – данные о качестве воздуха в режиме реального времени, Казгидромет – официальные отчеты по мониторингу окружающей среды, IQAir / Всемирный индекс качества воздуха, Отчеты местных органов власти или научные публикации.
+Научная работа, описывающая процесс и результаты проекта, включая:
+выбор набора данных,
+разведочный анализ данных (EDA),
+построение и обучение модели,
+оценку результатов.
+Представление и обсуждение работы проводится еженедельно во время лекций и практических занятий.
+2
+Анализ тональности данных из социальных сетей
+5
+Список литературы, книги, интернет-ресурсы. Электронная версия, наборы данных (например: набор данных Sentiment140 (Twitter), набор данных комментариев Reddit).
+Научная работа (такая же, как и в пункте №1).
+3
+Машинное обучение для анализа терроризма
+5
+Список литературы, книги, интернет-ресурсы. Электронная версия, общедоступные или частные наборы данных.
+Научная работа (такая же, как и в пункте №1).
+4
+Классификация изображений в медицинской визуализации
+5
+Список литературы, книги, интернет-ресурсы. Электронная версия, общедоступные или частные наборы данных.
+Научная работа (такая же, как и в пункте №1).
+5
+Обнаружение мошенничества в финансовых транзакциях
+
+5
+Список литературы, книги, интернет-ресурсы. Электронная версия, общедоступные или частные наборы данных.
+Научная работа (такая же, как и в пункте №1).
+6
+Прогнозирование временных рядов для предсказания фондового рынка
+5
+Список литературы, книги, интернет-ресурсы. Электронная версия, общедоступные или частные наборы данных.
+Научная работа (такая же, как и в пункте №1).
+7
+Рекомендательные системы для электронной коммерции
+
+5
+Список литературы, книги, интернет-ресурсы. Электронная версия, общедоступные или частные наборы данных.
+Научная работа (такая же, как и в пункте №1).
+8
+Обнаружение аномалий для сетевой безопасности
+
+5
+Список литературы, книги, интернет-ресурсы. Электронная версия, общедоступные или частные наборы данных.
+Научная работа (такая же, как и в пункте №1).
+9
+Анализ социальных сетей и обнаружение сообществ
+
+5
+Список литературы, книги, интернет-ресурсы. Электронная версия, общедоступные или частные наборы данных.
+Научная работа (такая же, как и в пункте №1).
+10
+Прогнозирование качества воздуха и уровней загрязнения в городских районах
+5
+Список литературы, книги, интернет-ресурсы. Электронная версия, общедоступные или частные наборы данных.
+Научная работа (такая же, как и в пункте №1).
+11
+Прогнозирование криминальных очагов в городе с использованием геопространственных данных
+5
+Список литературы, книги, интернет-ресурсы. Электронная версия, общедоступные или частные наборы данных.
+Научная работа (такая же, как и в пункте №1).
+12
+Умное управление водными ресурсами с использованием IoT и сенсорных данных
+5
+Список литературы, книги, интернет-ресурсы. Электронная версия, общедоступные или частные наборы данных.
+Научная работа (такая же, как и в пункте №1).
+13
+Прогнозирование энергопотребления в умных домах
+5
+Список литературы, книги, интернет-ресурсы. Электронная версия, общедоступные или частные наборы данных.
+Научная работа (такая же, как и в пункте №1).
+14
+Мониторинг общественного транспорта в реальном времени с использованием GPS-данных
+5
+Список литературы, книги, интернет-ресурсы. Электронная версия, общедоступные или частные наборы данных.
+Научная работа (такая же, как и в пункте №1).
+15
+Классификация типов транспортных средств по видеозаписям с видеорегистраторов
+5
+Список литературы, книги, интернет-ресурсы. Электронная версия, общедоступные или частные наборы данных.
+Научная работа (такая же, как и в пункте №1).
+16
+Распознавание эмоций по выражениям лица
+5
+Список литературы, книги, интернет-ресурсы. Электронная версия, общедоступные или частные наборы данных.
+Научная работа (такая же, как и в пункте №1).
+17
+Обнаружение объектов в реальном времени для автономных транспортных средств
+5
+Список литературы, книги, интернет-ресурсы. Электронная версия, общедоступные или частные наборы данных.
+Научная работа (такая же, как и в пункте №1).
+18
+Управление медицинскими отходами
+5
+Список литературы, книги, интернет-ресурсы. Электронная версия, общедоступные или частные наборы данных.
+Научная работа (такая же, как и в пункте №1).
+
+
+List of Assignments for Case-based Topic Study
+
+
+#
+
+Case study tasks / Assignments (topics) for independent study
+Hours
+Recommended literature and other sources (links)
+Form of submission and deadlines
+1
+2
+3
+4
+5
+1
+Air pollution in the main cities of Kazakhstan
+
+5
+Reading list, books, internet resources Electronic version, Datasets (Kaggle), AirKaz.org – real-time air quality data, Kazhydromet – official environmental monitoring reports, IQAir / World Air Quality Index, Local government reports or academic publications
+A research paper detailing the process and results of the project, including dataset selection, exploratory data analysis (EDA), model building and training, and evaluation.
+Every week during the lecture and practice session
+2
+Sentiment Analysis of Social Media Data
+5
+Reading list, books, internet resources Electronic version, Datasets (Example: Sentiment140 Dataset (Twitter), Reddit Comment Dataset.
+A research paper (the same as in #1).
+3
+Machine Learning for Terrorism Analysis 
+5
+Reading list, books, internet resources Electronic version, Publicly Available or Private Datasets.
+A research paper (the same as in #1).
+4
+Image Classification for Medical Imaging
+
+5
+Reading list, books, internet resources Electronic version, Publicly Available or Private Datasets.
+A research paper (the same as in #1).
+5
+Fraud Detection in Financial Transactions
+
+5
+Reading list, books, internet resources Electronic version, Publicly Available or Private Datasets.
+A research paper (the same as in #1).
+6
+Time Series Forecasting for Stock Market Prediction
+5
+Reading list, books, internet resources Electronic version, Publicly Available or Private Datasets.
+A research paper (the same as in #1).
+7
+Recommender Systems for E-commerce
+
+5
+Reading list, books, internet resources Electronic version, Publicly Available or Private Datasets.
+A research paper (the same as in #1).
+8
+Anomaly Detection for Network Security
+
+5
+Reading list, books, internet resources Electronic version, Publicly Available or Private Datasets.
+A research paper (the same as in #1).
+9
+Social Network Analysis and Community Detection
+
+5
+Reading list, books, internet resources Electronic version, Publicly Available or Private Datasets.
+A research paper (the same as in #1).
+10
+Predicting Air Quality and Pollution Levels in Urban Areas
+
+5
+Reading list, books, internet resources Electronic version, Publicly Available or Private Datasets.
+A research paper (the same as in #1).
+11
+Predicting Crime Hotspots in a City Using Geospatial Data
+5
+Reading list, books, internet resources Electronic version, Publicly Available or Private Datasets.
+A research paper (the same as in #1).
+12
+Smart Water Management Using IoT and Sensor Data
+5
+Reading list, books, internet resources Electronic version, Publicly Available or Private Datasets.
+A research paper (the same as in #1).
+13
+Energy Consumption Forecasting in Smart Homes
+5
+Reading list, books, internet resources Electronic version, Publicly Available or Private Datasets.
+A research paper (the same as in #1).
+14
+Real-Time Public Transit Monitoring Using GPS Data
+5
+Reading list, books, internet resources Electronic version, Publicly Available or Private Datasets.
+A research paper (the same as in #1).
+15
+Vehicle Type Classification from Dashcam Footage
+5
+Reading list, books, internet resources Electronic version, Publicly Available or Private Datasets.
+A research paper (the same as in #1).
+16
+Emotion Recognition from Facial Expressions
+5
+Reading list, books, internet resources Electronic version, Publicly Available or Private Datasets.
+A research paper (the same as in #1).
+17
+Real-Time Object Detection for Autonomous Vehicles
+5
+Reading list, books, internet resources Electronic version, Publicly Available or Private Datasets.
+A research paper (the same as in #1).
+18
+Medical Waste Management
+5
+Reading list, books, internet resources Electronic version, Publicly Available or Private Datasets.
+A research paper (the same as in #1).

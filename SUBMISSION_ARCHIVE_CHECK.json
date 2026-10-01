@@ -1,0 +1,19 @@
+{
+  "archive": "Case_Studies_Atyrau_SUBMISSION.zip",
+  "sha256": "7562fed8fb42e23320c2ba9a662771d9810b55f9d623ed3f5cd4c78197be84d1",
+  "bytes": 476247173,
+  "file_count": 1350,
+  "crc": "PASS",
+  "all_manifest_hashes": "PASS",
+  "unpacked_verification": "PASS",
+  "unpacked_science_retraining": "PASS: identical computational files independently retrained in UNPACKED_REPRODUCTION_CHECK.json; editorial repack",
+  "science_fingerprint": "9aa6e03394d97d7d32d855e9ddbab034303bea1abb27a7a4e9f5600005cf706a",
+  "excluded": [
+    "research_notes and original hydro PDFs",
+    "__pycache__",
+    ".venv",
+    ".git",
+    "raw/demo_source_page.html"
+  ],
+  "manifest_self_hash": "intentionally omitted"
+}

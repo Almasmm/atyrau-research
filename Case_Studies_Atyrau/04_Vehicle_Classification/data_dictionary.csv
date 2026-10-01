@@ -1,0 +1,32 @@
+﻿variable,type,unit,origin,description,used_as_model_feature
+object_id,integer,not_applicable,COCO annotation id,уникальный объект,no; image-derived features only
+image_id,integer,not_applicable,COCO image id,исходная фотография,no; image-derived features only
+scene_id,string,not_applicable,image_id,не доказанная физическая сцена,no; image-derived features only
+video_id,string,not_applicable,not_available_still_image,видео отсутствует,no; image-derived features only
+class,category,not_applicable,COCO category_id,эталонный класс,no; image-derived features only
+category_id,integer,not_applicable,3 car /6 bus /8 truck,исходное отображение,no; image-derived features only
+crop_path,path,not_applicable,производный PNG,относительно корня кейса,no; image-derived features only
+image_path,path,not_applicable,исходный JPEG,относительно корня кейса,no; image-derived features only
+bbox_x,number,pixel,COCO JSON / ссылка Flickr / описание обработки,см. DATA_CARD; не признак модели,no; image-derived features only
+bbox_y,number,pixel,COCO JSON / ссылка Flickr / описание обработки,см. DATA_CARD; не признак модели,no; image-derived features only
+bbox_width,number,pixel,COCO JSON / ссылка Flickr / описание обработки,см. DATA_CARD; не признак модели,no; image-derived features only
+bbox_height,number,pixel,COCO JSON / ссылка Flickr / описание обработки,см. DATA_CARD; не признак модели,no; image-derived features only
+image_width,number,pixel,COCO JSON / ссылка Flickr / описание обработки,см. DATA_CARD; не признак модели,no; image-derived features only
+image_height,number,pixel,COCO JSON / ссылка Flickr / описание обработки,см. DATA_CARD; не признак модели,no; image-derived features only
+iscrowd,number,not_applicable,COCO JSON / ссылка Flickr / описание обработки,см. DATA_CARD; не признак модели,no; image-derived features only
+license_id,number,not_applicable,COCO JSON / ссылка Flickr / описание обработки,см. DATA_CARD; не признак модели,no; image-derived features only
+license_name,string,not_applicable,COCO JSON / ссылка Flickr / описание обработки,см. DATA_CARD; не признак модели,no; image-derived features only
+license_url,string,not_applicable,COCO JSON / ссылка Flickr / описание обработки,см. DATA_CARD; не признак модели,no; image-derived features only
+flickr_url,string,not_applicable,COCO JSON / ссылка Flickr / описание обработки,см. DATA_CARD; не признак модели,no; image-derived features only
+flickr_photo_page,string,not_applicable,COCO JSON / ссылка Flickr / описание обработки,см. DATA_CARD; не признак модели,no; image-derived features only
+creator,string,not_applicable,COCO JSON / ссылка Flickr / описание обработки,см. DATA_CARD; не признак модели,no; image-derived features only
+title,string,not_applicable,COCO JSON / ссылка Flickr / описание обработки,см. DATA_CARD; не признак модели,no; image-derived features only
+modification,string,not_applicable,COCO JSON / ссылка Flickr / описание обработки,см. DATA_CARD; не признак модели,no; image-derived features only
+coco_url,string,not_applicable,COCO JSON / ссылка Flickr / описание обработки,см. DATA_CARD; не признак модели,no; image-derived features only
+image_sha256,hex,not_applicable,скачанные байты JPEG,целостность,no; image-derived features only
+crop_sha256,hex,not_applicable,PNG кропа,целостность,no; image-derived features only
+geography,string,not_applicable,COCO JSON / ссылка Flickr / описание обработки,см. DATA_CARD; не признак модели,no; image-derived features only
+date_captured_metadata,string,not_applicable,COCO JSON / ссылка Flickr / описание обработки,см. DATA_CARD; не признак модели,no; image-derived features only
+scene_group,integer,not_applicable,группировка image_id/pHash,единица split,no; image-derived features only
+image_phash,hex,not_applicable,DCT pHash,поиск схожести,no; image-derived features only
+split,category,not_applicable,фиксированное групповое разбиение,train/validation/test,no; image-derived features only

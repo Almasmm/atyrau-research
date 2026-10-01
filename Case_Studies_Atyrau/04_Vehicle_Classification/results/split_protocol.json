@@ -1,0 +1,9 @@
+{
+  "seed": 42,
+  "algorithm": "StratifiedGroupKFold(5,shuffle=True); fold0=test fold1=validation fold2-4=train",
+  "group": "source image plus connected full-image pHash Hamming<=6 or identical crop pHash",
+  "near_duplicate_pairs": 0,
+  "group_count": 337,
+  "claims_limit": "No trip or photographer IDs in COCO; grouping cannot prove all semantic scenes independent. Not adjacent video-frame splitting.",
+  "frozen_before_model_fitting": true
+}

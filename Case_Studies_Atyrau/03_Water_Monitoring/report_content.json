@@ -1,0 +1,64 @@
+{
+  "title": "Среднесуточный уровень Урала в Атырау",
+  "original_case": 12,
+  "language": "ru",
+  "report_markdown": "Report.md",
+  "summary": {
+    "selected_model": "ridge",
+    "validation_selected_MAE_cm": 6.59580409915196,
+    "test_selected": {
+      "n": 358,
+      "MAE_cm": 7.038741591180133,
+      "RMSE_cm": 10.57721053048693,
+      "R2": 0.9634455304724913
+    },
+    "test_baseline": {
+      "n": 358,
+      "MAE_cm": 6.966480446927374,
+      "RMSE_cm": 10.751899923051147,
+      "R2": 0.9622281187860725
+    },
+    "MAE_improvement_percent": -1.0372690313748114,
+    "largest_error_date": "2022-03-05",
+    "largest_error_cm": 81.69499169842834,
+    "annual": [
+      {
+        "source_year": 2018,
+        "n": 365,
+        "mean_cm": 270.4958904109589,
+        "min_cm": 180,
+        "max_cm": 413,
+        "std_cm": 48.389026882396784
+      },
+      {
+        "source_year": 2019,
+        "n": 365,
+        "mean_cm": 241.37808219178083,
+        "min_cm": 153,
+        "max_cm": 324,
+        "std_cm": 28.355660357923007
+      },
+      {
+        "source_year": 2022,
+        "n": 365,
+        "mean_cm": 219.9095890410959,
+        "min_cm": 144,
+        "max_cm": 375,
+        "std_cm": 55.01782968840063
+      }
+    ],
+    "elapsed_seconds": 2.0375304222106934,
+    "data_rows": 1095,
+    "feature_rows": 1081,
+    "training_search_fits": 6,
+    "final_refits": 2
+  },
+  "figures": [
+    "figures/01_daily_levels.png",
+    "figures/02_monthly_levels.png",
+    "figures/03_daily_changes.png",
+    "figures/04_actual_vs_predicted.png",
+    "figures/05_model_comparison.png",
+    "figures/06_errors_seasons.png"
+  ]
+}

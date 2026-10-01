@@ -1,0 +1,64 @@
+{
+  "selected_model": "logistic",
+  "selection_criterion": "validation macro-F1 only; models remain trained on training split only",
+  "classes": [
+    "bus",
+    "car",
+    "truck"
+  ],
+  "seed": 42,
+  "validation": {
+    "majority": {
+      "macro_f1": 0.23624595469255663,
+      "accuracy": 0.5488721804511278,
+      "n": 133
+    },
+    "logistic": {
+      "macro_f1": 0.5305468477882271,
+      "accuracy": 0.5939849624060151,
+      "n": 133
+    },
+    "random_forest": {
+      "macro_f1": 0.34259532958912203,
+      "accuracy": 0.5864661654135338,
+      "n": 133
+    }
+  },
+  "test": {
+    "majority": {
+      "macro_f1": 0.23624595469255663,
+      "accuracy": 0.5488721804511278,
+      "n": 133
+    },
+    "logistic": {
+      "macro_f1": 0.48826548033316935,
+      "accuracy": 0.5488721804511278,
+      "n": 133
+    },
+    "random_forest": {
+      "macro_f1": 0.4307960800107397,
+      "accuracy": 0.6165413533834586,
+      "n": 133
+    }
+  },
+  "counts": {
+    "bus": {
+      "test": 28,
+      "train": 85,
+      "validation": 28
+    },
+    "car": {
+      "test": 73,
+      "train": 219,
+      "validation": 73
+    },
+    "truck": {
+      "test": 32,
+      "train": 99,
+      "validation": 32
+    }
+  },
+  "features": 1813,
+  "feature_description": "64x64 RGB crop: HOG 9 orientations/8x8 cells/2x2 blocks L2-Hys + 16-bin RGB histogram each channel + log original width/height",
+  "pretrained_weights": false
+}

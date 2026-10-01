@@ -1,0 +1,31 @@
+{
+  "python": "3.12.14 (main, Aug 25 2026, 14:01:42) [MSC v.1944 64 bit (AMD64)]",
+  "platform": "Windows-11-10.0.26200-SP0",
+  "cpu_threads": 24,
+  "memory_gib": 63.37409591674805,
+  "versions": {
+    "numpy": "2.3.5",
+    "pandas": "3.0.1",
+    "scipy": "1.18.1",
+    "scikit-learn": "1.9.1",
+    "matplotlib": "3.11.2",
+    "seaborn": "0.13.2",
+    "requests": "2.34.2",
+    "joblib": "1.6.0",
+    "pillow": "12.3.0",
+    "scikit-image": "0.26.0",
+    "opencv-python-headless": "5.0.0.93",
+    "nbformat": "5.11.1",
+    "nbclient": "0.11.0",
+    "nbconvert": "7.17.1",
+    "ipykernel": "7.3.0",
+    "pymupdf": "1.28.2",
+    "pdfplumber": "0.11.9",
+    "pypdf": "6.10.0",
+    "reportlab": "4.4.9",
+    "python-docx": "1.2.0",
+    "psutil": "7.2.2",
+    "pyarrow": "25.0.1",
+    "platformdirs": "4.11.13"
+  }
+}

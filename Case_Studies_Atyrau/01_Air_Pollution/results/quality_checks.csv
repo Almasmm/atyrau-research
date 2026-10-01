@@ -1,0 +1,7 @@
+check,status
+chronological_nonoverlap,PASS
+no_imputed_target,PASS
+identical_test_targets_all_models,PASS
+metric_recalculation,PASS
+publisher_realtime_availability,NOT_VERIFIABLE
+station32_PM_fraction_physical_consistency,FAIL

@@ -1,0 +1,22 @@
+{
+  "status": "POST_HOC_EXPLORATORY",
+  "date": "2026-09-26",
+  "seed": 42,
+  "resamples": 5000,
+  "block_days": [
+    7,
+    14,
+    28
+  ],
+  "method": "Non-circular moving calendar blocks sampled with replacement; concatenate and truncate to 365 calendar days; retain missing dates; paired absolute-loss difference; percentile 2.5% and 97.5%.",
+  "limitations": "No model refitting or tuning. Approximate resampling ranges conditional on frozen fits and observed 2025 data; weak-dependence/stationarity assumptions and informative missingness unverified. Not forecast prediction intervals or confirmatory p-values.",
+  "inputs_sha256": {
+    "01_Air_Pollution\\raw\\selected_pm2_5.csv.gz": "acc137fd9f3f08a3cd0e55238804323ac022342097d19c9ee8dac6fc8a92c399",
+    "01_Air_Pollution\\raw\\selected_pm10.csv.gz": "392df0dc9e7fb170c0b5f7d0a18d433262431b3d23da5d9919da3ffbae08e9e2",
+    "01_Air_Pollution\\dataset.csv": "a6237c43ec464ab669cc9701d00dbd85cec1aacd08e038963f227edc2083cd84",
+    "01_Air_Pollution\\results\\predictions.csv": "64798d817a709c16a8b65ddddfd7fc14c423905cb436ce3eddb0423a4aea00bf",
+    "02_Air_Quality_Prediction\\results\\predictions.csv": "2820aa81ea83b2ccb3448eebf4679b5fbbd6217ff1d6dd9085ee9f100f76a75a",
+    "02_Air_Quality_Prediction\\results\\sensitivity235\\predictions.csv": "e7aa2a3fcbc696bd3628a5f53345136ef7da96f19918136a5fc79c66e5c18b11"
+  },
+  "source": "Künsch (1989), Annals of Statistics 17(3), 1217–1241. DOI:10.1214/aos/1176347265"
+}

@@ -1,0 +1,163 @@
+{
+  "date": "2026-09-26",
+  "empirical_data_unchanged": true,
+  "checks": [
+    {
+      "check": "raw_equals_dataset",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "dataset_and_plan_hashes",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "dates_units_schema",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "all_nine_features_reconstructed_from_past",
+      "status": "PASS",
+      "detail": "1081 target rows"
+    },
+    {
+      "check": "calendar_horizon_and_split",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "gap_and_boundary",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "scaler_fit_only_on_723_development_targets",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "model_parameters_match_metadata",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "ridge_saved_model_reproduces_test",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "forest_saved_model_reproduces_test",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "metrics_validation_persistence",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "metrics_validation_drift",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "metrics_validation_ridge",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "metrics_validation_forest",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "metrics_test_persistence",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "metrics_test_drift",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "metrics_test_ridge",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "metrics_test_forest",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "selection_matches_validation_only",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "replay_original_predictions_unchanged",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "replay_flags_and_threshold",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "fault_gap_requires_new_seven_day_window",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "fault_nonfinite_requires_new_seven_day_window",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "fault_text_and_date_logged_without_forecast",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "statistical_flag_strict_greater_than",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "PDF_2018_independent_365_cells",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "PDF_2019_independent_365_cells",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "PDF_2022_independent_365_cells",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "independent_source_total",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "isolated_pipeline_exit",
+      "status": "PASS",
+      "detail": "Fresh case: no models, cache or PDF; completed from unrelated cwd"
+    },
+    {
+      "check": "isolated_predictions_identical",
+      "status": "PASS",
+      "detail": ""
+    }
+  ],
+  "PASS": 31,
+  "FAIL": 0
+}

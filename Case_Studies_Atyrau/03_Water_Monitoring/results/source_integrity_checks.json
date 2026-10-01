@@ -1,0 +1,16 @@
+{
+  "syntax": "PASS",
+  "frozen_hashes_match_manifest": "PASS",
+  "original_cached_hashes": "PASS",
+  "simulated_mismatch_rejected_before_extraction": "PASS",
+  "network_calls": 0,
+  "protected_artifacts_unchanged": "PASS",
+  "test_method": "Injected mismatching digest for first cached PDF; original source bytes untouched",
+  "mismatch_message": "W2018: source PDF SHA-256 mismatch before extraction. Expected 48f6e58ed06631b92b04b84e64dfc771911b415df2eaae364b178687bdd444c9; got 0000000000000000000000000000000000000000000000000000000000000000; URL: https://www.kazhydromet.kz/uploads/files/495/file/630840dd1094fbasseyn-rek-ural-srednee-i-nizhnee-techenie-i-emba-i-ustevaya-chast-reki-volga-vypusk-4-2018-god.pdf. The cached file may be incomplete or the publisher may have changed it. No dataset or source manifest has been replaced. Obtain the frozen original or investigate and document a new source version; do not silently update the expected hash.",
+  "protected_file_sha256": {
+    "dataset.csv": "155f74f0043c12047402032fdeac1cc7eedc51dcb192ffb3c77f31d20a81f1d1",
+    "data/raw/atyrau_level_observations.csv": "155f74f0043c12047402032fdeac1cc7eedc51dcb192ffb3c77f31d20a81f1d1",
+    "data/source_download_manifest.json": "17a8bf90acde03221af749d4abb89223f9a045bdbb62c549dd79a31c06863b4b",
+    "results/data_quality.json": "caa0805a906ad856e491cc3789dced00d8b23ad77fcf915d6d0754c5cceb0d16"
+  }
+}

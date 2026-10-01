@@ -1,0 +1,22 @@
+field,table,dtype,unit,provenance,availability
+date,dataset,date,день,Дата суточного среднего в источнике,в окончательном архиве; оперативная задержка неизвестна
+station_id,dataset,int,код,"Казгидромет,19802",статично
+level_cm,dataset,int,см,Таблица1.2; среднесуточный уровень,"после завершения соответствующего дня, допущение"
+source_marks,dataset,str,код источника,Символы таблицы сохранены дословно,не используются в модели
+source_year,dataset,int,год,Год ежегодника,статично
+source_page,dataset,int,страница PDF,1-based номер страницы,статично
+source_id,dataset,str,идентификатор,SOURCE_REGISTER.csv,статично
+level_lag1,features,float,см,"H(t), последний известный суточный уровень",измерения до t включительно; календарь цели известен заранее
+delta_lag1,features,float,см,H(t) - H(t-1),измерения до t включительно; календарь цели известен заранее
+delta_lag2,features,float,см,H(t-1) - H(t-2),измерения до t включительно; календарь цели известен заранее
+delta_lag3,features,float,см,H(t-2) - H(t-3),измерения до t включительно; календарь цели известен заранее
+deviation_mean3,features,float,см,"H(t) - mean(H(t-2), H(t-1), H(t))",измерения до t включительно; календарь цели известен заранее
+deviation_mean7,features,float,см,"H(t) - mean(H(t-6), ..., H(t))",измерения до t включительно; календарь цели известен заранее
+mean_change7,features,float,см/сутки,(H(t) - H(t-6)) / 6; шесть приращений между семью датами,измерения до t включительно; календарь цели известен заранее
+sin_doy,features,float,безразмерно,sin(2*pi*dayofyear(target_time)/365.25),измерения до t включительно; календарь цели известен заранее
+cos_doy,features,float,безразмерно,cos(2*pi*dayofyear(target_time)/365.25),измерения до t включительно; календарь цели известен заранее
+target_time,features/predictions,date,день,"t+1, календарная дата прогнозируемого суточного среднего",известна при прогнозе; само значение позже
+forecast_origin_date,features/predictions,date,день,"t, последняя дата измеряемых признаков",предполагается завершённым днём; задержка публикации неизвестна
+actual,features/predictions,float,см,"H(t+1), реальная цель из dataset.csv",после целевого дня; не вход модели
+delta_target,features,float,см,"H(t+1)-H(t), цель обучения регрессии",только обучение или последующая оценка
+split,features/predictions,str,этап,"train=2018, validation=2019, test=2022 по году target_time",правило зафиксировано в плане

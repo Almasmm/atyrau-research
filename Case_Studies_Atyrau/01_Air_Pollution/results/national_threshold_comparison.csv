@@ -1,0 +1,16 @@
+city,parameter,threshold_ugm3,reference,valid_days,exceedance_days,exceedance_pct
+Aktau,co,3000.0,KZ_DSM70_current_as_read_2026_09_25_24h,1327,0,0.0
+Aktau,no2,40.0,KZ_DSM70_current_as_read_2026_09_25_24h,438,175,39.95433789954338
+Aktau,pm10,60.0,KZ_DSM70_current_as_read_2026_09_25_24h,1328,1282,96.53614457831326
+Aktau,pm2_5,35.0,KZ_DSM70_current_as_read_2026_09_25_24h,1282,5,0.39001560062402496
+Aktau,so2,50.0,KZ_DSM70_current_as_read_2026_09_25_24h,1325,0,0.0
+Aktobe,co,3000.0,KZ_DSM70_current_as_read_2026_09_25_24h,1312,0,0.0
+Aktobe,no2,40.0,KZ_DSM70_current_as_read_2026_09_25_24h,1305,458,35.09578544061303
+Aktobe,pm10,60.0,KZ_DSM70_current_as_read_2026_09_25_24h,1326,0,0.0
+Aktobe,pm2_5,35.0,KZ_DSM70_current_as_read_2026_09_25_24h,1326,0,0.0
+Aktobe,so2,50.0,KZ_DSM70_current_as_read_2026_09_25_24h,472,23,4.872881355932203
+Atyrau,co,3000.0,KZ_DSM70_current_as_read_2026_09_25_24h,1208,0,0.0
+Atyrau,no2,40.0,KZ_DSM70_current_as_read_2026_09_25_24h,1012,3,0.2964426877470355
+Atyrau,pm10,60.0,KZ_DSM70_current_as_read_2026_09_25_24h,1209,451,37.30355665839537
+Atyrau,pm2_5,35.0,KZ_DSM70_current_as_read_2026_09_25_24h,1209,1054,87.17948717948718
+Atyrau,so2,50.0,KZ_DSM70_current_as_read_2026_09_25_24h,529,7,1.3232514177693762

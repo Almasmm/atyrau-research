@@ -1,0 +1,35 @@
+[
+  {
+    "source_id": "W2018",
+    "year": 2018,
+    "url": "https://www.kazhydromet.kz/uploads/files/495/file/630840dd1094fbasseyn-rek-ural-srednee-i-nizhnee-techenie-i-emba-i-ustevaya-chast-reki-volga-vypusk-4-2018-god.pdf",
+    "pdf_page": 35,
+    "bytes": 4370617,
+    "sha256": "48f6e58ed06631b92b04b84e64dfc771911b415df2eaae364b178687bdd444c9",
+    "download_date": "2026-09-25",
+    "method": "public HTTPS GET; pdfplumber page extraction",
+    "redistributed": false
+  },
+  {
+    "source_id": "W2019",
+    "year": 2019,
+    "url": "https://kazhydromet.kz/uploads/files/496/file/630840f50875ebasseyn-rek-ural-srednee-i-nizhnee-techenie-i-emba-i-ustevaya-chast-reki-volga-vypusk-4-2019-god.pdf",
+    "pdf_page": 35,
+    "bytes": 6730716,
+    "sha256": "754a2b2a1c7768529f040c06c0a41e82346cafe461e535bbc8636a1377d7e476",
+    "download_date": "2026-09-25",
+    "method": "public HTTPS GET; pdfplumber page extraction",
+    "redistributed": false
+  },
+  {
+    "source_id": "W2022",
+    "year": 2022,
+    "url": "https://www.kazhydromet.kz/uploads/files/1885/file/66e7e0b8ce51deds-vypusk-4-2022-ural-1.pdf",
+    "pdf_page": 37,
+    "bytes": 9836655,
+    "sha256": "b67004d491322437a88aa250c050d896afb168bcff504e29416e462d504831fd",
+    "download_date": "2026-09-25",
+    "method": "public HTTPS GET; pdfplumber page extraction",
+    "redistributed": false
+  }
+]

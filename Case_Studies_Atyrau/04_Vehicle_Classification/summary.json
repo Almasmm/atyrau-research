@@ -1,0 +1,19 @@
+{
+  "case": 15,
+  "title": "Классификация автомобилей, автобусов и грузовиков на COCO",
+  "status": "PARTIAL",
+  "data_objects": 669,
+  "data_images": 337,
+  "selected_model": "logistic",
+  "test_macro_f1": 0.48826548033316935,
+  "baseline_macro_f1": 0.23624595469255663,
+  "test_accuracy": 0.5488721804511278,
+  "test_n": 133,
+  "report_language": "Russian",
+  "slides": 15,
+  "missing": "Quantitative dashcam/Atyrau evaluation; detector evaluation; original Flickr creator metadata where unavailable",
+  "source_geography": "COCO image locations unspecified; Atyrau unconfirmed",
+  "demo_seconds": 30,
+  "slides_source": "slides_v2.json",
+  "revision_date": "2026-09-26"
+}

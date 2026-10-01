@@ -1,0 +1,6 @@
+{
+  "kind": "persistence",
+  "training_mean_ugm3": 60.175015266166824,
+  "definition": "prediction(t)=observed_daily(t-1)",
+  "chosen_prediction_column": "persistence"
+}

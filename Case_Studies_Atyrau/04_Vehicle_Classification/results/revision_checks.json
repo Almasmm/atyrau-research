@@ -1,0 +1,29 @@
+{
+  "audit_date": "2026-09-26",
+  "checked_utc": "2026-09-25T20:58:23.972755+00:00",
+  "status": "PASS",
+  "checks": {
+    "all_eligible_annotations_retained": true,
+    "index_unique": true,
+    "labels_and_boxes_match_original_annotations": true,
+    "license_fields_match_original_metadata": true,
+    "source_urls_match_original_metadata": true,
+    "all_crops_equal_reconstruction_from_raw": true,
+    "no_near_source_image_cross_split": true,
+    "no_identical_crop_phash_cross_split": true,
+    "split_replays_from_fixed_groups_and_seed": true,
+    "attribution_covers_all_objects": true,
+    "attribution_missing_creator_is_explicit": true,
+    "confusion_matrix_recalculated": true,
+    "saved_parameters_follow_validation_logistic": true,
+    "saved_parameters_follow_validation_random_forest": true,
+    "no_new_hyperparameters_in_revision": true
+  },
+  "raw_near_duplicate_pairs": 0,
+  "objects": 669,
+  "images": 337,
+  "test_already_seen_before_revision": true,
+  "new_model_selection_performed": false,
+  "annotation_labels_human_reaudited": false,
+  "annotation_sha256": "e8c7f7908f1d7278341fae127d0da654f102f11bd7b21d8aeefa635b8c810b6f"
+}

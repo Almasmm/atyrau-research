@@ -1,0 +1,38 @@
+[
+  {
+    "step": "python 01_Air_Pollution/build_notebooks.py --case both",
+    "returncode": 0,
+    "seconds": 92.846,
+    "cwd_relative": "."
+  },
+  {
+    "step": "python 01_Air_Pollution/build_content.py ",
+    "returncode": 0,
+    "seconds": 0.791,
+    "cwd_relative": "."
+  },
+  {
+    "step": "python 03_Water_Monitoring/code/build_notebook.py ",
+    "returncode": 0,
+    "seconds": 21.281,
+    "cwd_relative": "."
+  },
+  {
+    "step": "python 03_Water_Monitoring/code/build_materials.py ",
+    "returncode": 0,
+    "seconds": 2.338,
+    "cwd_relative": "."
+  },
+  {
+    "step": "python 04_Vehicle_Classification/scripts/prepare_data.py ",
+    "returncode": 0,
+    "seconds": 14.616,
+    "cwd_relative": "."
+  },
+  {
+    "step": "python 04_Vehicle_Classification/scripts/make_notebook.py ",
+    "returncode": 1,
+    "seconds": 2.908,
+    "cwd_relative": "."
+  }
+]

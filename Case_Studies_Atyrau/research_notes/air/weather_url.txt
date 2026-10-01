@@ -1,0 +1,1 @@
+https://archive-api.open-meteo.com/v1/archive?latitude=47.096617&longitude=51.942701&start_date=2022-01-01&end_date=2025-12-31&daily=temperature_2m_mean%2Crelative_humidity_2m_mean%2Cwind_speed_10m_mean%2Cprecipitation_sum&timezone=Asia%2FAtyrau&wind_speed_unit=ms&models=era5

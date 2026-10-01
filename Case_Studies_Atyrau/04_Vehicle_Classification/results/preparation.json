@@ -1,0 +1,18 @@
+{
+  "source_images": 5000,
+  "source_annotations": 36781,
+  "vehicle_annotations_before_filters": 2632,
+  "eligible_objects": 669,
+  "eligible_images": 337,
+  "downloaded_images": 337,
+  "prepared_objects": 669,
+  "min_bbox_pixels": 40,
+  "allowed_license_ids": [
+    1,
+    2,
+    4,
+    5
+  ],
+  "selection": "all qualifying objects in COCO val2017, no model-driven selection",
+  "failed_downloads": 0
+}

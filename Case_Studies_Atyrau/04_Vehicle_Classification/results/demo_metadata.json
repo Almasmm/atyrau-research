@@ -1,0 +1,54 @@
+{
+  "source_url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/e/ea/Dashcam_Recording_%28urban%29.ogv/Dashcam_Recording_%28urban%29.ogv.480p.vp9.webm",
+  "source_page": "https://commons.wikimedia.org/wiki/File:Dashcam_Recording_(urban).ogv",
+  "creator": "Fernost",
+  "license": "CC0 1.0",
+  "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "source_date": "2013 (page date June30; embedded timestamp June18; not resolved)",
+  "source_sha256": "fa90043b949a468a4669cf68294c313db40ad1403ebd785ddfc4e7bd5206af7f",
+  "source_duration_seconds": 120.06666666666666,
+  "output_duration_seconds": 30.0,
+  "frames_decoded": 450,
+  "output_resolution": [
+    1280,
+    720
+  ],
+  "source_clip_start_seconds": 85,
+  "source_clip_duration_seconds": 30,
+  "output_sha256": "7a6941ad2c4a65b4c398caa052e80e81f4b712fd4e2852fcd3e378838579a488",
+  "rois": [
+    {
+      "source_second": 60,
+      "bbox": [
+        180,
+        279,
+        94,
+        44
+      ],
+      "predicted": "car",
+      "reference_label": "none_for_quantitative_evaluation",
+      "selection": "manually specified rectangle from visual inspection"
+    },
+    {
+      "source_second": 100,
+      "bbox": [
+        347,
+        274,
+        53,
+        39
+      ],
+      "predicted": "car",
+      "reference_label": "none_for_quantitative_evaluation",
+      "selection": "manually specified rectangle from visual inspection"
+    }
+  ],
+  "ground_truth_evaluation": false,
+  "camera_domain": "real dashcam; filming location not established; Atyrau unconfirmed",
+  "privacy": "Displayed footage downsampled and Gaussian-softened; no identities or plates transcribed.",
+  "selected_model": "logistic",
+  "model_file": "models/logistic.joblib",
+  "model_sha256": "6d2080acfea0aa7cf6b2460b55d5f12630f4e4aca9aeb3d7dbb6863138b69557",
+  "source_fps": 30.0,
+  "source_hash_matches_pinned_snapshot": true,
+  "roi_labels_are_model_predictions_only": true
+}

@@ -1,0 +1,1697 @@
+[
+  {
+    "check": "01_Air_Pollution/README.md exists",
+    "status": "PASS",
+    "detail": ""
+  },
+  {
+    "check": "01_Air_Pollution/Report.pdf exists",
+    "status": "PASS",
+    "detail": ""
+  },
+  {
+    "check": "01_Air_Pollution/Report.docx exists",
+    "status": "PASS",
+    "detail": ""
+  },
+  {
+    "check": "01_Air_Pollution/Presentation.pptx exists",
+    "status": "PASS",
+    "detail": ""
+  },
+  {
+    "check": "01_Air_Pollution/Presentation.pdf exists",
+    "status": "PASS",
+    "detail": ""
+  },
+  {
+    "check": "01_Air_Pollution/Notebook.ipynb exists",
+    "status": "PASS",
+    "detail": ""
+  },
+  {
+    "check": "01_Air_Pollution/Notebook.html exists",
+    "status": "PASS",
+    "detail": ""
+  },
+  {
+    "check": "01_Air_Pollution/dataset.csv exists",
+    "status": "PASS",
+    "detail": ""
+  },
+  {
+    "check": "01_Air_Pollution/DATA_CARD.md exists",
+    "status": "PASS",
+    "detail": ""
+  },
+  {
+    "check": "01_Air_Pollution/data_dictionary.csv exists",
+    "status": "PASS",
+    "detail": ""
+  },
+  {
+    "check": "01_Air_Pollution/requirements.txt exists",
+    "status": "PASS",
+    "detail": ""
+  },
+  {
+    "check": "01_Air_Pollution/models/metadata.json exists",
+    "status": "PASS",
+    "detail": ""
+  },
+  {
+    "check": "01_Air_Pollution/slides_v2.json exists",
+    "status": "PASS",
+    "detail": ""
+  },
+  {
+    "check": "01_Air_Pollution/results/presentation_structure.json exists",
+    "status": "PASS",
+    "detail": ""
+  },
+  {
+    "check": "01_Air_Pollution/results/metrics.csv exists",
+    "status": "PASS",
+    "detail": ""
+  },
+  {
+    "check": "01_Air_Pollution/results/predictions.csv exists",
+    "status": "PASS",
+    "detail": ""
+  },
+  {
+    "check": "01_Air_Pollution saved fitted models",
+    "status": "PASS",
+    "detail": ""
+  },
+  {
+    "check": "01_Air_Pollution model dataset hash matches",
+    "status": "PASS",
+    "detail": ""
+  },
+  {
+    "check": "01_Air_Pollution recorded seed and versions",
+    "status": "PASS",
+    "detail": ""
+  },
+  {
+    "check": "01_Air_Pollution nonempty dataset",
+    "status": "PASS",
+    "detail": "46298 rows, 9 columns"
+  },
+  {
+    "check": "01_Air_Pollution report 8-15 pages",
+    "status": "PASS",
+    "detail": "12"
+  },
+  {
+    "check": "01_Air_Pollution report pages have content",
+    "status": "PASS",
+    "detail": ""
+  },
+  {
+    "check": "01_Air_Pollution no duplicate figure prefixes",
+    "status": "PASS",
+    "detail": ""
+  },
+  {
+    "check": "01_Air_Pollution readable Cyrillic text",
+    "status": "PASS",
+    "detail": ""
+  },
+  {
+    "check": "01_Air_Pollution slides 10-15",
+    "status": "PASS",
+    "detail": "15"
+  },
+  {
+    "check": "01_Air_Pollution notes for each slide",
+    "status": "PASS",
+    "detail": "15"
+  },
+  {
+    "check": "01_Air_Pollution editable slide text",
+    "status": "PASS",
+    "detail": ""
+  },
+  {
+    "check": "01_Air_Pollution substantive speaker notes",
+    "status": "PASS",
+    "detail": ""
+  },
+  {
+    "check": "01_Air_Pollution native evidence chart",
+    "status": "PASS",
+    "detail": ""
+  },
+  {
+    "check": "01_Air_Pollution embedded chart workbooks",
+    "status": "PASS",
+    "detail": ""
+  },
+  {
+    "check": "01_Air_Pollution deck count matches narrative",
+    "status": "PASS",
+    "detail": ""
+  },
+  {
+    "check": "01_Air_Pollution sources cited on slides",
+    "status": "PASS",
+    "detail": ""
+  },
+  {
+    "check": "01_Air_Pollution every headline metric present in PPTX",
+    "status": "PASS",
+    "detail": ""
+  },
+  {
+    "check": "01_Air_Pollution native chart values match result narrative",
+    "status": "PASS",
+    "detail": ""
+  },
+  {
+    "check": "01_Air_Pollution PDF/PPT slide counts",
+    "status": "PASS",
+    "detail": ""
+  },
+  {
+    "check": "01_Air_Pollution notebook executed",
+    "status": "PASS",
+    "detail": "14"
+  },
+  {
+    "check": "01_Air_Pollution notebook no errors",
+    "status": "PASS",
+    "detail": "0"
+  },
+  {
+    "check": "01_Air_Pollution notebook outputs saved",
+    "status": "PASS",
+    "detail": ""
+  },
+  {
+    "check": "01_Air_Pollution sequential clean-kernel execution",
+    "status": "PASS",
+    "detail": ""
+  },
+  {
+    "check": "01_Air_Pollution HTML document structure",
+    "status": "PASS",
+    "detail": ""
+  },
+  {
+    "check": "01_Air_Pollution HTML embedded PNG decode",
+    "status": "PASS",
+    "detail": "8/8"
+  },
+  {
+    "check": "01_Air_Pollution/Report.docx OOXML CRC",
+    "status": "PASS",
+    "detail": ""
+  },
+  {
+    "check": "01_Air_Pollution/Presentation.pptx OOXML CRC",
+    "status": "PASS",
+    "detail": ""
+  },
+  {
+    "check": "02_Air_Quality_Prediction/README.md exists",
+    "status": "PASS",
+    "detail": ""
+  },
+  {
+    "check": "02_Air_Quality_Prediction/Report.pdf exists",
+    "status": "PASS",
+    "detail": ""
+  },
+  {
+    "check": "02_Air_Quality_Prediction/Report.docx exists",
+    "status": "PASS",
+    "detail": ""
+  },
+  {
+    "check": "02_Air_Quality_Prediction/Presentation.pptx exists",
+    "status": "PASS",
+    "detail": ""
+  },
+  {
+    "check": "02_Air_Quality_Prediction/Presentation.pdf exists",
+    "status": "PASS",
+    "detail": ""
+  },
+  {
+    "check": "02_Air_Quality_Prediction/Notebook.ipynb exists",
+    "status": "PASS",
+    "detail": ""
+  },
+  {
+    "check": "02_Air_Quality_Prediction/Notebook.html exists",
+    "status": "PASS",
+    "detail": ""
+  },
+  {
+    "check": "02_Air_Quality_Prediction/dataset.csv exists",
+    "status": "PASS",
+    "detail": ""
+  },
+  {
+    "check": "02_Air_Quality_Prediction/DATA_CARD.md exists",
+    "status": "PASS",
+    "detail": ""
+  },
+  {
+    "check": "02_Air_Quality_Prediction/data_dictionary.csv exists",
+    "status": "PASS",
+    "detail": ""
+  },
+  {
+    "check": "02_Air_Quality_Prediction/requirements.txt exists",
+    "status": "PASS",
+    "detail": ""
+  },
+  {
+    "check": "02_Air_Quality_Prediction/models/metadata.json exists",
+    "status": "PASS",
+    "detail": ""
+  },
+  {
+    "check": "02_Air_Quality_Prediction/slides_v2.json exists",
+    "status": "PASS",
+    "detail": ""
+  },
+  {
+    "check": "02_Air_Quality_Prediction/results/presentation_structure.json exists",
+    "status": "PASS",
+    "detail": ""
+  },
+  {
+    "check": "02_Air_Quality_Prediction/results/metrics.csv exists",
+    "status": "PASS",
+    "detail": ""
+  },
+  {
+    "check": "02_Air_Quality_Prediction/results/predictions.csv exists",
+    "status": "PASS",
+    "detail": ""
+  },
+  {
+    "check": "02_Air_Quality_Prediction saved fitted models",
+    "status": "PASS",
+    "detail": ""
+  },
+  {
+    "check": "02_Air_Quality_Prediction model dataset hash matches",
+    "status": "PASS",
+    "detail": ""
+  },
+  {
+    "check": "02_Air_Quality_Prediction recorded seed and versions",
+    "status": "PASS",
+    "detail": ""
+  },
+  {
+    "check": "02_Air_Quality_Prediction nonempty dataset",
+    "status": "PASS",
+    "detail": "1108 rows, 17 columns"
+  },
+  {
+    "check": "02_Air_Quality_Prediction report 8-15 pages",
+    "status": "PASS",
+    "detail": "10"
+  },
+  {
+    "check": "02_Air_Quality_Prediction report pages have content",
+    "status": "PASS",
+    "detail": ""
+  },
+  {
+    "check": "02_Air_Quality_Prediction no duplicate figure prefixes",
+    "status": "PASS",
+    "detail": ""
+  },
+  {
+    "check": "02_Air_Quality_Prediction readable Cyrillic text",
+    "status": "PASS",
+    "detail": ""
+  },
+  {
+    "check": "02_Air_Quality_Prediction slides 10-15",
+    "status": "PASS",
+    "detail": "15"
+  },
+  {
+    "check": "02_Air_Quality_Prediction notes for each slide",
+    "status": "PASS",
+    "detail": "15"
+  },
+  {
+    "check": "02_Air_Quality_Prediction editable slide text",
+    "status": "PASS",
+    "detail": ""
+  },
+  {
+    "check": "02_Air_Quality_Prediction substantive speaker notes",
+    "status": "PASS",
+    "detail": ""
+  },
+  {
+    "check": "02_Air_Quality_Prediction native evidence chart",
+    "status": "PASS",
+    "detail": ""
+  },
+  {
+    "check": "02_Air_Quality_Prediction embedded chart workbooks",
+    "status": "PASS",
+    "detail": ""
+  },
+  {
+    "check": "02_Air_Quality_Prediction deck count matches narrative",
+    "status": "PASS",
+    "detail": ""
+  },
+  {
+    "check": "02_Air_Quality_Prediction sources cited on slides",
+    "status": "PASS",
+    "detail": ""
+  },
+  {
+    "check": "02_Air_Quality_Prediction every headline metric present in PPTX",
+    "status": "PASS",
+    "detail": ""
+  },
+  {
+    "check": "02_Air_Quality_Prediction native chart values match result narrative",
+    "status": "PASS",
+    "detail": ""
+  },
+  {
+    "check": "02_Air_Quality_Prediction PDF/PPT slide counts",
+    "status": "PASS",
+    "detail": ""
+  },
+  {
+    "check": "02_Air_Quality_Prediction notebook executed",
+    "status": "PASS",
+    "detail": "13"
+  },
+  {
+    "check": "02_Air_Quality_Prediction notebook no errors",
+    "status": "PASS",
+    "detail": "0"
+  },
+  {
+    "check": "02_Air_Quality_Prediction notebook outputs saved",
+    "status": "PASS",
+    "detail": ""
+  },
+  {
+    "check": "02_Air_Quality_Prediction sequential clean-kernel execution",
+    "status": "PASS",
+    "detail": ""
+  },
+  {
+    "check": "02_Air_Quality_Prediction HTML document structure",
+    "status": "PASS",
+    "detail": ""
+  },
+  {
+    "check": "02_Air_Quality_Prediction HTML embedded PNG decode",
+    "status": "PASS",
+    "detail": "6/6"
+  },
+  {
+    "check": "02_Air_Quality_Prediction/Report.docx OOXML CRC",
+    "status": "PASS",
+    "detail": ""
+  },
+  {
+    "check": "02_Air_Quality_Prediction/Presentation.pptx OOXML CRC",
+    "status": "PASS",
+    "detail": ""
+  },
+  {
+    "check": "03_Water_Monitoring/README.md exists",
+    "status": "PASS",
+    "detail": ""
+  },
+  {
+    "check": "03_Water_Monitoring/Report.pdf exists",
+    "status": "PASS",
+    "detail": ""
+  },
+  {
+    "check": "03_Water_Monitoring/Report.docx exists",
+    "status": "PASS",
+    "detail": ""
+  },
+  {
+    "check": "03_Water_Monitoring/Presentation.pptx exists",
+    "status": "PASS",
+    "detail": ""
+  },
+  {
+    "check": "03_Water_Monitoring/Presentation.pdf exists",
+    "status": "PASS",
+    "detail": ""
+  },
+  {
+    "check": "03_Water_Monitoring/Notebook.ipynb exists",
+    "status": "PASS",
+    "detail": ""
+  },
+  {
+    "check": "03_Water_Monitoring/Notebook.html exists",
+    "status": "PASS",
+    "detail": ""
+  },
+  {
+    "check": "03_Water_Monitoring/dataset.csv exists",
+    "status": "PASS",
+    "detail": ""
+  },
+  {
+    "check": "03_Water_Monitoring/DATA_CARD.md exists",
+    "status": "PASS",
+    "detail": ""
+  },
+  {
+    "check": "03_Water_Monitoring/data_dictionary.csv exists",
+    "status": "PASS",
+    "detail": ""
+  },
+  {
+    "check": "03_Water_Monitoring/requirements.txt exists",
+    "status": "PASS",
+    "detail": ""
+  },
+  {
+    "check": "03_Water_Monitoring/models/metadata.json exists",
+    "status": "PASS",
+    "detail": ""
+  },
+  {
+    "check": "03_Water_Monitoring/slides_v2.json exists",
+    "status": "PASS",
+    "detail": ""
+  },
+  {
+    "check": "03_Water_Monitoring/results/presentation_structure.json exists",
+    "status": "PASS",
+    "detail": ""
+  },
+  {
+    "check": "03_Water_Monitoring/results/metrics.csv exists",
+    "status": "PASS",
+    "detail": ""
+  },
+  {
+    "check": "03_Water_Monitoring/results/predictions.csv exists",
+    "status": "PASS",
+    "detail": ""
+  },
+  {
+    "check": "03_Water_Monitoring saved fitted models",
+    "status": "PASS",
+    "detail": ""
+  },
+  {
+    "check": "03_Water_Monitoring model dataset hash matches",
+    "status": "PASS",
+    "detail": ""
+  },
+  {
+    "check": "03_Water_Monitoring recorded seed and versions",
+    "status": "PASS",
+    "detail": ""
+  },
+  {
+    "check": "03_Water_Monitoring nonempty dataset",
+    "status": "PASS",
+    "detail": "1095 rows, 7 columns"
+  },
+  {
+    "check": "03_Water_Monitoring report 8-15 pages",
+    "status": "PASS",
+    "detail": "12"
+  },
+  {
+    "check": "03_Water_Monitoring report pages have content",
+    "status": "PASS",
+    "detail": ""
+  },
+  {
+    "check": "03_Water_Monitoring no duplicate figure prefixes",
+    "status": "PASS",
+    "detail": ""
+  },
+  {
+    "check": "03_Water_Monitoring readable Cyrillic text",
+    "status": "PASS",
+    "detail": ""
+  },
+  {
+    "check": "03_Water_Monitoring slides 10-15",
+    "status": "PASS",
+    "detail": "15"
+  },
+  {
+    "check": "03_Water_Monitoring notes for each slide",
+    "status": "PASS",
+    "detail": "15"
+  },
+  {
+    "check": "03_Water_Monitoring editable slide text",
+    "status": "PASS",
+    "detail": ""
+  },
+  {
+    "check": "03_Water_Monitoring substantive speaker notes",
+    "status": "PASS",
+    "detail": ""
+  },
+  {
+    "check": "03_Water_Monitoring native evidence chart",
+    "status": "PASS",
+    "detail": ""
+  },
+  {
+    "check": "03_Water_Monitoring embedded chart workbooks",
+    "status": "PASS",
+    "detail": ""
+  },
+  {
+    "check": "03_Water_Monitoring deck count matches narrative",
+    "status": "PASS",
+    "detail": ""
+  },
+  {
+    "check": "03_Water_Monitoring sources cited on slides",
+    "status": "PASS",
+    "detail": ""
+  },
+  {
+    "check": "03_Water_Monitoring every headline metric present in PPTX",
+    "status": "PASS",
+    "detail": ""
+  },
+  {
+    "check": "03_Water_Monitoring native chart values match result narrative",
+    "status": "PASS",
+    "detail": ""
+  },
+  {
+    "check": "03_Water_Monitoring PDF/PPT slide counts",
+    "status": "PASS",
+    "detail": ""
+  },
+  {
+    "check": "03_Water_Monitoring notebook executed",
+    "status": "PASS",
+    "detail": "7"
+  },
+  {
+    "check": "03_Water_Monitoring notebook no errors",
+    "status": "PASS",
+    "detail": "0"
+  },
+  {
+    "check": "03_Water_Monitoring notebook outputs saved",
+    "status": "PASS",
+    "detail": ""
+  },
+  {
+    "check": "03_Water_Monitoring sequential clean-kernel execution",
+    "status": "PASS",
+    "detail": ""
+  },
+  {
+    "check": "03_Water_Monitoring HTML document structure",
+    "status": "PASS",
+    "detail": ""
+  },
+  {
+    "check": "03_Water_Monitoring HTML embedded PNG decode",
+    "status": "PASS",
+    "detail": "7/7"
+  },
+  {
+    "check": "03_Water_Monitoring/Report.docx OOXML CRC",
+    "status": "PASS",
+    "detail": ""
+  },
+  {
+    "check": "03_Water_Monitoring/Presentation.pptx OOXML CRC",
+    "status": "PASS",
+    "detail": ""
+  },
+  {
+    "check": "04_Vehicle_Classification/README.md exists",
+    "status": "PASS",
+    "detail": ""
+  },
+  {
+    "check": "04_Vehicle_Classification/Report.pdf exists",
+    "status": "PASS",
+    "detail": ""
+  },
+  {
+    "check": "04_Vehicle_Classification/Report.docx exists",
+    "status": "PASS",
+    "detail": ""
+  },
+  {
+    "check": "04_Vehicle_Classification/Presentation.pptx exists",
+    "status": "PASS",
+    "detail": ""
+  },
+  {
+    "check": "04_Vehicle_Classification/Presentation.pdf exists",
+    "status": "PASS",
+    "detail": ""
+  },
+  {
+    "check": "04_Vehicle_Classification/Notebook.ipynb exists",
+    "status": "PASS",
+    "detail": ""
+  },
+  {
+    "check": "04_Vehicle_Classification/Notebook.html exists",
+    "status": "PASS",
+    "detail": ""
+  },
+  {
+    "check": "04_Vehicle_Classification/dataset.csv exists",
+    "status": "PASS",
+    "detail": ""
+  },
+  {
+    "check": "04_Vehicle_Classification/DATA_CARD.md exists",
+    "status": "PASS",
+    "detail": ""
+  },
+  {
+    "check": "04_Vehicle_Classification/data_dictionary.csv exists",
+    "status": "PASS",
+    "detail": ""
+  },
+  {
+    "check": "04_Vehicle_Classification/requirements.txt exists",
+    "status": "PASS",
+    "detail": ""
+  },
+  {
+    "check": "04_Vehicle_Classification/models/metadata.json exists",
+    "status": "PASS",
+    "detail": ""
+  },
+  {
+    "check": "04_Vehicle_Classification/slides_v2.json exists",
+    "status": "PASS",
+    "detail": ""
+  },
+  {
+    "check": "04_Vehicle_Classification/results/presentation_structure.json exists",
+    "status": "PASS",
+    "detail": ""
+  },
+  {
+    "check": "04_Vehicle_Classification/results/metrics.json exists",
+    "status": "PASS",
+    "detail": ""
+  },
+  {
+    "check": "04_Vehicle_Classification/results/test_predictions.csv exists",
+    "status": "PASS",
+    "detail": ""
+  },
+  {
+    "check": "04_Vehicle_Classification/results/split_manifest.csv exists",
+    "status": "PASS",
+    "detail": ""
+  },
+  {
+    "check": "04_Vehicle_Classification/demo.mp4 exists",
+    "status": "PASS",
+    "detail": ""
+  },
+  {
+    "check": "04_Vehicle_Classification saved fitted models",
+    "status": "PASS",
+    "detail": ""
+  },
+  {
+    "check": "04_Vehicle_Classification model dataset hash matches",
+    "status": "PASS",
+    "detail": ""
+  },
+  {
+    "check": "04_Vehicle_Classification recorded seed and versions",
+    "status": "PASS",
+    "detail": ""
+  },
+  {
+    "check": "04_Vehicle_Classification nonempty dataset",
+    "status": "PASS",
+    "detail": "669 rows, 31 columns"
+  },
+  {
+    "check": "04_Vehicle_Classification report 8-15 pages",
+    "status": "PASS",
+    "detail": "12"
+  },
+  {
+    "check": "04_Vehicle_Classification report pages have content",
+    "status": "PASS",
+    "detail": ""
+  },
+  {
+    "check": "04_Vehicle_Classification no duplicate figure prefixes",
+    "status": "PASS",
+    "detail": ""
+  },
+  {
+    "check": "04_Vehicle_Classification readable Cyrillic text",
+    "status": "PASS",
+    "detail": ""
+  },
+  {
+    "check": "04_Vehicle_Classification slides 10-15",
+    "status": "PASS",
+    "detail": "15"
+  },
+  {
+    "check": "04_Vehicle_Classification notes for each slide",
+    "status": "PASS",
+    "detail": "15"
+  },
+  {
+    "check": "04_Vehicle_Classification editable slide text",
+    "status": "PASS",
+    "detail": ""
+  },
+  {
+    "check": "04_Vehicle_Classification substantive speaker notes",
+    "status": "PASS",
+    "detail": ""
+  },
+  {
+    "check": "04_Vehicle_Classification native evidence chart",
+    "status": "PASS",
+    "detail": ""
+  },
+  {
+    "check": "04_Vehicle_Classification embedded chart workbooks",
+    "status": "PASS",
+    "detail": ""
+  },
+  {
+    "check": "04_Vehicle_Classification deck count matches narrative",
+    "status": "PASS",
+    "detail": ""
+  },
+  {
+    "check": "04_Vehicle_Classification sources cited on slides",
+    "status": "PASS",
+    "detail": ""
+  },
+  {
+    "check": "04_Vehicle_Classification every headline metric present in PPTX",
+    "status": "PASS",
+    "detail": ""
+  },
+  {
+    "check": "04_Vehicle_Classification native chart values match result narrative",
+    "status": "PASS",
+    "detail": ""
+  },
+  {
+    "check": "04_Vehicle_Classification PDF/PPT slide counts",
+    "status": "PASS",
+    "detail": ""
+  },
+  {
+    "check": "04_Vehicle_Classification notebook executed",
+    "status": "PASS",
+    "detail": "10"
+  },
+  {
+    "check": "04_Vehicle_Classification notebook no errors",
+    "status": "PASS",
+    "detail": "0"
+  },
+  {
+    "check": "04_Vehicle_Classification notebook outputs saved",
+    "status": "PASS",
+    "detail": ""
+  },
+  {
+    "check": "04_Vehicle_Classification sequential clean-kernel execution",
+    "status": "PASS",
+    "detail": ""
+  },
+  {
+    "check": "04_Vehicle_Classification HTML document structure",
+    "status": "PASS",
+    "detail": ""
+  },
+  {
+    "check": "04_Vehicle_Classification HTML embedded PNG decode",
+    "status": "PASS",
+    "detail": "7/7"
+  },
+  {
+    "check": "04_Vehicle_Classification/Report.docx OOXML CRC",
+    "status": "PASS",
+    "detail": ""
+  },
+  {
+    "check": "04_Vehicle_Classification/Presentation.pptx OOXML CRC",
+    "status": "PASS",
+    "detail": ""
+  },
+  {
+    "check": "01_Air_Pollution mean MAE",
+    "status": "PASS",
+    "detail": ""
+  },
+  {
+    "check": "01_Air_Pollution mean RMSE",
+    "status": "PASS",
+    "detail": ""
+  },
+  {
+    "check": "01_Air_Pollution mean R2",
+    "status": "PASS",
+    "detail": ""
+  },
+  {
+    "check": "01_Air_Pollution mean n",
+    "status": "PASS",
+    "detail": ""
+  },
+  {
+    "check": "01_Air_Pollution ridge MAE",
+    "status": "PASS",
+    "detail": ""
+  },
+  {
+    "check": "01_Air_Pollution ridge RMSE",
+    "status": "PASS",
+    "detail": ""
+  },
+  {
+    "check": "01_Air_Pollution ridge R2",
+    "status": "PASS",
+    "detail": ""
+  },
+  {
+    "check": "01_Air_Pollution ridge n",
+    "status": "PASS",
+    "detail": ""
+  },
+  {
+    "check": "01_Air_Pollution forest MAE",
+    "status": "PASS",
+    "detail": ""
+  },
+  {
+    "check": "01_Air_Pollution forest RMSE",
+    "status": "PASS",
+    "detail": ""
+  },
+  {
+    "check": "01_Air_Pollution forest R2",
+    "status": "PASS",
+    "detail": ""
+  },
+  {
+    "check": "01_Air_Pollution forest n",
+    "status": "PASS",
+    "detail": ""
+  },
+  {
+    "check": "01_Air_Pollution unique target dates",
+    "status": "PASS",
+    "detail": ""
+  },
+  {
+    "check": "01_Air_Pollution ordered temporal splits",
+    "status": "PASS",
+    "detail": ""
+  },
+  {
+    "check": "02_Air_Quality_Prediction persistence MAE",
+    "status": "PASS",
+    "detail": ""
+  },
+  {
+    "check": "02_Air_Quality_Prediction persistence RMSE",
+    "status": "PASS",
+    "detail": ""
+  },
+  {
+    "check": "02_Air_Quality_Prediction persistence R2",
+    "status": "PASS",
+    "detail": ""
+  },
+  {
+    "check": "02_Air_Quality_Prediction persistence n",
+    "status": "PASS",
+    "detail": ""
+  },
+  {
+    "check": "02_Air_Quality_Prediction seasonal_naive7 MAE",
+    "status": "PASS",
+    "detail": ""
+  },
+  {
+    "check": "02_Air_Quality_Prediction seasonal_naive7 RMSE",
+    "status": "PASS",
+    "detail": ""
+  },
+  {
+    "check": "02_Air_Quality_Prediction seasonal_naive7 R2",
+    "status": "PASS",
+    "detail": ""
+  },
+  {
+    "check": "02_Air_Quality_Prediction seasonal_naive7 n",
+    "status": "PASS",
+    "detail": ""
+  },
+  {
+    "check": "02_Air_Quality_Prediction ridge MAE",
+    "status": "PASS",
+    "detail": ""
+  },
+  {
+    "check": "02_Air_Quality_Prediction ridge RMSE",
+    "status": "PASS",
+    "detail": ""
+  },
+  {
+    "check": "02_Air_Quality_Prediction ridge R2",
+    "status": "PASS",
+    "detail": ""
+  },
+  {
+    "check": "02_Air_Quality_Prediction ridge n",
+    "status": "PASS",
+    "detail": ""
+  },
+  {
+    "check": "02_Air_Quality_Prediction forest MAE",
+    "status": "PASS",
+    "detail": ""
+  },
+  {
+    "check": "02_Air_Quality_Prediction forest RMSE",
+    "status": "PASS",
+    "detail": ""
+  },
+  {
+    "check": "02_Air_Quality_Prediction forest R2",
+    "status": "PASS",
+    "detail": ""
+  },
+  {
+    "check": "02_Air_Quality_Prediction forest n",
+    "status": "PASS",
+    "detail": ""
+  },
+  {
+    "check": "02_Air_Quality_Prediction unique target dates",
+    "status": "PASS",
+    "detail": ""
+  },
+  {
+    "check": "02_Air_Quality_Prediction latest measurement prior to target date",
+    "status": "PASS",
+    "detail": ""
+  },
+  {
+    "check": "02_Air_Quality_Prediction ordered temporal splits",
+    "status": "PASS",
+    "detail": ""
+  },
+  {
+    "check": "air secondary235 persistence MAE",
+    "status": "PASS",
+    "detail": ""
+  },
+  {
+    "check": "air secondary235 persistence RMSE",
+    "status": "PASS",
+    "detail": ""
+  },
+  {
+    "check": "air secondary235 persistence R2",
+    "status": "PASS",
+    "detail": ""
+  },
+  {
+    "check": "air secondary235 persistence n",
+    "status": "PASS",
+    "detail": ""
+  },
+  {
+    "check": "air secondary235 seasonal_naive7 MAE",
+    "status": "PASS",
+    "detail": ""
+  },
+  {
+    "check": "air secondary235 seasonal_naive7 RMSE",
+    "status": "PASS",
+    "detail": ""
+  },
+  {
+    "check": "air secondary235 seasonal_naive7 R2",
+    "status": "PASS",
+    "detail": ""
+  },
+  {
+    "check": "air secondary235 seasonal_naive7 n",
+    "status": "PASS",
+    "detail": ""
+  },
+  {
+    "check": "air secondary235 ridge MAE",
+    "status": "PASS",
+    "detail": ""
+  },
+  {
+    "check": "air secondary235 ridge RMSE",
+    "status": "PASS",
+    "detail": ""
+  },
+  {
+    "check": "air secondary235 ridge R2",
+    "status": "PASS",
+    "detail": ""
+  },
+  {
+    "check": "air secondary235 ridge n",
+    "status": "PASS",
+    "detail": ""
+  },
+  {
+    "check": "air secondary235 forest MAE",
+    "status": "PASS",
+    "detail": ""
+  },
+  {
+    "check": "air secondary235 forest RMSE",
+    "status": "PASS",
+    "detail": ""
+  },
+  {
+    "check": "air secondary235 forest R2",
+    "status": "PASS",
+    "detail": ""
+  },
+  {
+    "check": "air secondary235 forest n",
+    "status": "PASS",
+    "detail": ""
+  },
+  {
+    "check": "air secondary235 fitted before test",
+    "status": "PASS",
+    "detail": ""
+  },
+  {
+    "check": "air secondary235 frozen dataset hash",
+    "status": "PASS",
+    "detail": ""
+  },
+  {
+    "check": "water validation persistence MAE_cm",
+    "status": "PASS",
+    "detail": ""
+  },
+  {
+    "check": "water validation persistence RMSE_cm",
+    "status": "PASS",
+    "detail": ""
+  },
+  {
+    "check": "water validation persistence R2",
+    "status": "PASS",
+    "detail": ""
+  },
+  {
+    "check": "water validation persistence n",
+    "status": "PASS",
+    "detail": ""
+  },
+  {
+    "check": "water validation drift MAE_cm",
+    "status": "PASS",
+    "detail": ""
+  },
+  {
+    "check": "water validation drift RMSE_cm",
+    "status": "PASS",
+    "detail": ""
+  },
+  {
+    "check": "water validation drift R2",
+    "status": "PASS",
+    "detail": ""
+  },
+  {
+    "check": "water validation drift n",
+    "status": "PASS",
+    "detail": ""
+  },
+  {
+    "check": "water validation ridge MAE_cm",
+    "status": "PASS",
+    "detail": ""
+  },
+  {
+    "check": "water validation ridge RMSE_cm",
+    "status": "PASS",
+    "detail": ""
+  },
+  {
+    "check": "water validation ridge R2",
+    "status": "PASS",
+    "detail": ""
+  },
+  {
+    "check": "water validation ridge n",
+    "status": "PASS",
+    "detail": ""
+  },
+  {
+    "check": "water validation forest MAE_cm",
+    "status": "PASS",
+    "detail": ""
+  },
+  {
+    "check": "water validation forest RMSE_cm",
+    "status": "PASS",
+    "detail": ""
+  },
+  {
+    "check": "water validation forest R2",
+    "status": "PASS",
+    "detail": ""
+  },
+  {
+    "check": "water validation forest n",
+    "status": "PASS",
+    "detail": ""
+  },
+  {
+    "check": "water test persistence MAE_cm",
+    "status": "PASS",
+    "detail": ""
+  },
+  {
+    "check": "water test persistence RMSE_cm",
+    "status": "PASS",
+    "detail": ""
+  },
+  {
+    "check": "water test persistence R2",
+    "status": "PASS",
+    "detail": ""
+  },
+  {
+    "check": "water test persistence n",
+    "status": "PASS",
+    "detail": ""
+  },
+  {
+    "check": "water test drift MAE_cm",
+    "status": "PASS",
+    "detail": ""
+  },
+  {
+    "check": "water test drift RMSE_cm",
+    "status": "PASS",
+    "detail": ""
+  },
+  {
+    "check": "water test drift R2",
+    "status": "PASS",
+    "detail": ""
+  },
+  {
+    "check": "water test drift n",
+    "status": "PASS",
+    "detail": ""
+  },
+  {
+    "check": "water test ridge MAE_cm",
+    "status": "PASS",
+    "detail": ""
+  },
+  {
+    "check": "water test ridge RMSE_cm",
+    "status": "PASS",
+    "detail": ""
+  },
+  {
+    "check": "water test ridge R2",
+    "status": "PASS",
+    "detail": ""
+  },
+  {
+    "check": "water test ridge n",
+    "status": "PASS",
+    "detail": ""
+  },
+  {
+    "check": "water test forest MAE_cm",
+    "status": "PASS",
+    "detail": ""
+  },
+  {
+    "check": "water test forest RMSE_cm",
+    "status": "PASS",
+    "detail": ""
+  },
+  {
+    "check": "water test forest R2",
+    "status": "PASS",
+    "detail": ""
+  },
+  {
+    "check": "water test forest n",
+    "status": "PASS",
+    "detail": ""
+  },
+  {
+    "check": "water fixed next-day horizon",
+    "status": "PASS",
+    "detail": ""
+  },
+  {
+    "check": "water validation before test",
+    "status": "PASS",
+    "detail": ""
+  },
+  {
+    "check": "vehicle majority macroF1",
+    "status": "PASS",
+    "detail": ""
+  },
+  {
+    "check": "vehicle majority accuracy",
+    "status": "PASS",
+    "detail": ""
+  },
+  {
+    "check": "vehicle logistic macroF1",
+    "status": "PASS",
+    "detail": ""
+  },
+  {
+    "check": "vehicle logistic accuracy",
+    "status": "PASS",
+    "detail": ""
+  },
+  {
+    "check": "vehicle random_forest macroF1",
+    "status": "PASS",
+    "detail": ""
+  },
+  {
+    "check": "vehicle random_forest accuracy",
+    "status": "PASS",
+    "detail": ""
+  },
+  {
+    "check": "vehicle no object_id split overlap",
+    "status": "PASS",
+    "detail": ""
+  },
+  {
+    "check": "vehicle no image_id split overlap",
+    "status": "PASS",
+    "detail": ""
+  },
+  {
+    "check": "vehicle no scene_group split overlap",
+    "status": "PASS",
+    "detail": ""
+  },
+  {
+    "check": "vehicle demo opens",
+    "status": "PASS",
+    "detail": ""
+  },
+  {
+    "check": "vehicle demo 20-60 seconds",
+    "status": "PASS",
+    "detail": "{'fps': 15.0, 'frames': 450.0, 'seconds': 30.0}"
+  },
+  {
+    "check": "source local path AIRDATA",
+    "status": "PASS",
+    "detail": "01_Air_Pollution/raw"
+  },
+  {
+    "check": "source local path DATASHEET",
+    "status": "PASS",
+    "detail": "01_Air_Pollution/provenance/DATASHEET.md"
+  },
+  {
+    "check": "source hash DATASHEET",
+    "status": "PASS",
+    "detail": ""
+  },
+  {
+    "check": "source local path ERA5",
+    "status": "PASS",
+    "detail": "01_Air_Pollution/raw/atyrau_era5.json"
+  },
+  {
+    "check": "source hash ERA5",
+    "status": "PASS",
+    "detail": ""
+  },
+  {
+    "check": "source local path AIR_pm2_5",
+    "status": "PASS",
+    "detail": "01_Air_Pollution/raw/pm2_5.csv.gz"
+  },
+  {
+    "check": "source hash AIR_pm2_5",
+    "status": "PASS",
+    "detail": ""
+  },
+  {
+    "check": "source local path AIR_pm10",
+    "status": "PASS",
+    "detail": "01_Air_Pollution/raw/pm10.csv.gz"
+  },
+  {
+    "check": "source hash AIR_pm10",
+    "status": "PASS",
+    "detail": ""
+  },
+  {
+    "check": "source local path AIR_no2",
+    "status": "PASS",
+    "detail": "01_Air_Pollution/raw/no2.csv.gz"
+  },
+  {
+    "check": "source hash AIR_no2",
+    "status": "PASS",
+    "detail": ""
+  },
+  {
+    "check": "source local path AIR_so2",
+    "status": "PASS",
+    "detail": "01_Air_Pollution/raw/so2.csv.gz"
+  },
+  {
+    "check": "source hash AIR_so2",
+    "status": "PASS",
+    "detail": ""
+  },
+  {
+    "check": "source local path AIR_co",
+    "status": "PASS",
+    "detail": "01_Air_Pollution/raw/co.csv.gz"
+  },
+  {
+    "check": "source hash AIR_co",
+    "status": "PASS",
+    "detail": ""
+  },
+  {
+    "check": "source local path AIR_h2s",
+    "status": "PASS",
+    "detail": "01_Air_Pollution/raw/h2s.csv.gz"
+  },
+  {
+    "check": "source hash AIR_h2s",
+    "status": "PASS",
+    "detail": ""
+  },
+  {
+    "check": "source local path AIR_o3",
+    "status": "PASS",
+    "detail": "01_Air_Pollution/raw/o3.csv.gz"
+  },
+  {
+    "check": "source hash AIR_o3",
+    "status": "PASS",
+    "detail": ""
+  },
+  {
+    "check": "source local path ERA5_DOWNLOAD",
+    "status": "PASS",
+    "detail": "01_Air_Pollution/raw/atyrau_era5.json"
+  },
+  {
+    "check": "source hash ERA5_DOWNLOAD",
+    "status": "PASS",
+    "detail": ""
+  },
+  {
+    "check": "source local path W2018",
+    "status": "PASS",
+    "detail": "03_Water_Monitoring/data/raw/atyrau_level_observations.csv"
+  },
+  {
+    "check": "source hash W2018",
+    "status": "PASS",
+    "detail": ""
+  },
+  {
+    "check": "source local path W2019",
+    "status": "PASS",
+    "detail": "03_Water_Monitoring/data/raw/atyrau_level_observations.csv"
+  },
+  {
+    "check": "source hash W2019",
+    "status": "PASS",
+    "detail": ""
+  },
+  {
+    "check": "source local path W2022",
+    "status": "PASS",
+    "detail": "03_Water_Monitoring/data/raw/atyrau_level_observations.csv"
+  },
+  {
+    "check": "source hash W2022",
+    "status": "PASS",
+    "detail": ""
+  },
+  {
+    "check": "source local path W_HISTORY",
+    "status": "PASS",
+    "detail": "03_Water_Monitoring/References.md"
+  },
+  {
+    "check": "source hash W_HISTORY",
+    "status": "PASS",
+    "detail": ""
+  },
+  {
+    "check": "source local path W_DB",
+    "status": "PASS",
+    "detail": "03_Water_Monitoring/References.md"
+  },
+  {
+    "check": "source hash W_DB",
+    "status": "PASS",
+    "detail": ""
+  },
+  {
+    "check": "source local path W_CATALOG",
+    "status": "PASS",
+    "detail": "03_Water_Monitoring/References.md"
+  },
+  {
+    "check": "source hash W_CATALOG",
+    "status": "PASS",
+    "detail": ""
+  },
+  {
+    "check": "source local path W_BULLETIN",
+    "status": "PASS",
+    "detail": "03_Water_Monitoring/References.md"
+  },
+  {
+    "check": "source hash W_BULLETIN",
+    "status": "PASS",
+    "detail": ""
+  },
+  {
+    "check": "source local path W_FPP",
+    "status": "PASS",
+    "detail": "03_Water_Monitoring/References.md"
+  },
+  {
+    "check": "source hash W_FPP",
+    "status": "PASS",
+    "detail": ""
+  },
+  {
+    "check": "source local path W_RIDGE",
+    "status": "PASS",
+    "detail": "03_Water_Monitoring/References.md"
+  },
+  {
+    "check": "source hash W_RIDGE",
+    "status": "PASS",
+    "detail": ""
+  },
+  {
+    "check": "source local path W_RF",
+    "status": "PASS",
+    "detail": "03_Water_Monitoring/References.md"
+  },
+  {
+    "check": "source hash W_RF",
+    "status": "PASS",
+    "detail": ""
+  },
+  {
+    "check": "source local path W_GLOFAS",
+    "status": "PASS",
+    "detail": "03_Water_Monitoring/References.md"
+  },
+  {
+    "check": "source hash W_GLOFAS",
+    "status": "PASS",
+    "detail": ""
+  },
+  {
+    "check": "source local path V01",
+    "status": "PASS",
+    "detail": "04_Vehicle_Classification/raw/instances_val2017.json"
+  },
+  {
+    "check": "source hash V01",
+    "status": "PASS",
+    "detail": ""
+  },
+  {
+    "check": "source local path V02",
+    "status": "PASS",
+    "detail": "04_Vehicle_Classification/DATA_CARD.md"
+  },
+  {
+    "check": "source hash V02",
+    "status": "PASS",
+    "detail": ""
+  },
+  {
+    "check": "source local path V03",
+    "status": "PASS",
+    "detail": "04_Vehicle_Classification/References.md"
+  },
+  {
+    "check": "source hash V03",
+    "status": "PASS",
+    "detail": ""
+  },
+  {
+    "check": "source local path V04",
+    "status": "PASS",
+    "detail": "04_Vehicle_Classification/References.md"
+  },
+  {
+    "check": "source hash V04",
+    "status": "PASS",
+    "detail": ""
+  },
+  {
+    "check": "source local path V05",
+    "status": "PASS",
+    "detail": "04_Vehicle_Classification/DATA_FEASIBILITY.md"
+  },
+  {
+    "check": "source hash V05",
+    "status": "PASS",
+    "detail": ""
+  },
+  {
+    "check": "source local path V06",
+    "status": "PASS",
+    "detail": "04_Vehicle_Classification/DATA_FEASIBILITY.md"
+  },
+  {
+    "check": "source hash V06",
+    "status": "PASS",
+    "detail": ""
+  },
+  {
+    "check": "source local path V07",
+    "status": "PASS",
+    "detail": "04_Vehicle_Classification/DATA_FEASIBILITY.md"
+  },
+  {
+    "check": "source hash V07",
+    "status": "PASS",
+    "detail": ""
+  },
+  {
+    "check": "source local path V08",
+    "status": "PASS",
+    "detail": "04_Vehicle_Classification/raw/dashcam_urban_480p.webm"
+  },
+  {
+    "check": "source hash V08",
+    "status": "PASS",
+    "detail": ""
+  },
+  {
+    "check": "source local path V09",
+    "status": "PASS",
+    "detail": "04_Vehicle_Classification/References.md"
+  },
+  {
+    "check": "source hash V09",
+    "status": "PASS",
+    "detail": ""
+  },
+  {
+    "check": "source local path V10",
+    "status": "PASS",
+    "detail": "04_Vehicle_Classification/results/image_attribution.csv"
+  },
+  {
+    "check": "source hash V10",
+    "status": "PASS",
+    "detail": ""
+  },
+  {
+    "check": "source local path V11",
+    "status": "PASS",
+    "detail": "04_Vehicle_Classification/results/image_attribution.csv"
+  },
+  {
+    "check": "source hash V11",
+    "status": "PASS",
+    "detail": ""
+  },
+  {
+    "check": "source local path V12",
+    "status": "PASS",
+    "detail": "04_Vehicle_Classification/results/image_attribution.csv"
+  },
+  {
+    "check": "source hash V12",
+    "status": "PASS",
+    "detail": ""
+  },
+  {
+    "check": "source local path V13",
+    "status": "PASS",
+    "detail": "04_Vehicle_Classification/results/image_attribution.csv"
+  },
+  {
+    "check": "source hash V13",
+    "status": "PASS",
+    "detail": ""
+  }
+]

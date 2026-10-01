@@ -1,0 +1,662 @@
+«Approved»
+Dean
+
+«» 202г.
+
+Syllabus Academic Year 2025 – 2026
+
+1. General information
+Course Code
+AIaML 2025
+Course Title
+Artificial intelligence and machine learning
+Degree Cycle (Level)/ Major / Relation to
+curriculum
+Master Degree CSE
+ВК
+Year, trimester
+2nd year, 3
+Language of Instruction:
+Russian
+Lecturer(s)/ Instructors/ Instructor Contact Information
+Zhanar Oralbekova, PhD, Associate Professor, School of Artificial Intelligence and Data Science, E-mail: zh.oralbekova@astanait.edu.kz, Office: C1.1.337
+
+Number of Credits
+4
+Workload of
+course components and credits per trimester
+
+
+ECTS
+credits
+Contact hours
+IASS
+SIS
+Total hours
+
+
+Lectures
+Practice sessions
+Labor atory work
+
+
+
+
+4
+20
+20
+
+10
+70
+120
+
+
+
+
+
+
+
+
+Prerequisites
+AI, Python, Machine learning algorithms
+Post requisites
+Smart city technologies, Quantum computing, AI LLM, AI Research/practical project capstone
+2. Goals, objectives and learning outcomes of the course
+1.Course Overview/Descriptio n
+Artificial intelligence is transforming the world and helping organizations of all sizes grow, innovate, and make smarter decisions. The Artificial Intelligence Professional Program will equip you with knowledge of the principles, tools, techniques, and technologies driving this transformation.
+This program provides rigorous coverage of the most important topics in modern artificial intelligence, including:
+
+Machine Learning Deep Learning
+Natural Language Processing Supervised and Unsupervised Learning Reinforcement Learning
+Graph Neural Networks (GNNs) Computer Vision
+Deepfake detection
+AI agents development
+ML algorithms development
+Google professional certification in AI and ML
+2.CourseLearning Goals
+Key elements of this course include:
+The most important algorithms in AI and machine learning
+•Demonstrate a familiarity with major algorithms and data structures.
+•Apply important algorithmic design paradigms and methods of analysis.
+•Synthesize efficient algorithms in common engineering design situations.
+•Receive actual novel approaches for algorithms in ML, Generative AI.
+
+3.Course Learning Outcomes
+By the end of this course, students will be able to:
+By the end of the course, the goals for the students are to:- Develop a sense of where to apply machine learning and where not to,
+and which AI&ML algorithm to use- Understand the process of garnering and preprocessing a variety of “big” real-world data, to be used to train ML systems
+Characterize the process to train machine learning algorithms and evaluate their performance- Develop programming skills to code in Python and use modern ML and scientific computing libraries like SciPy and scikit-learn- Propose a novel product/research-focused idea (this will be an iterative process), design and execute experiments, and present the findings and demos to a suitable audience (in
+this case, the class)
+4.Methods/forms of teaching
+Lectures – explanation of theoretical foundations, research methods, and tools.
+Practical classes – hands-on training with international academic databases (Scopus, Web of Science, ScienceDirect), reference management software, scientometric indicators, and implementation of advanced machine learning models using modern frameworks.
+Case Studies and Real-World Data – critical examination of real-world and published research cases involving advanced machine learning applications, with emphasis on research design, model selection, data quality, performance metrics, reproducibility, and ethical considerations.
+Workshops – guided activities on searching, citing, and evaluating research papers.
+Group discussions – collaborative and critical discussion of research strategies, methodological challenges, and machine learning case-study findings.
+Independent study – systematic literature review, database-driven research tasks, and self-directed implementation and evaluation of advanced machine learning techniques.
+Project-based learning – development of mini research projects integrating advanced machine learning, including problem formulation, dataset preparation, model development, experimental analysis, and professional presentation of results.
+5. Coursework and Grading Scheme
+ See the Section 4 for detailed information.
+6.Academic Integrity
+Follow the Rules of Academic Integrity approved by the Scientific Council of LLP “Astana IT University”
+7.Learning resources:
+Basic Literature:
+1. Aurélien Géron. Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow [Text]: Concepts, Tools, and Techniques to Build Intelligent Systems / G. Aurélien. - USA: O'Reilly Media, 2023. - 834 p. - ISBN 978-1-098-12597-4.
+Shelf mark: 004.42 - G 39
+Copies in university’s library: Total: 4, of which: subscription-3, reading room-1
+2. Harrington P. Machine Learning in Action [Text] / P. Harrington. - USA: Manning, 2014. - 354p. - ISBN 9781617290183.
+Shelf mark: 621 - Н20
+Copies in university’s library: Total: 25, of which: subscription-22, reading room-3
+3. Kevin P.Murphy. Probabilistic Machine Learning [Text]: An Introduction / P.M. Kevin. - USA : MIT Press, 2022. - 826 p. - ISBN 978-026-204-68-24.
+Shelf mark: 519.6 - M 96
+Copies in university’s library: Total: 2, of which: reading room-2
+4. Sebastian Raschka. Machine Learning with PyTorch and Scikit-Learn [Text] : Develop machine learning and deep learning models with Python / R. Sebastian Yuxi (Hayden) Liu, Vahid Mirjalili. - United Kingdom : Packt, 2022. - 741 p. - ISBN 978-1-80181-931-2.
+Shelf mark: 004.4 - R 24
+Copies in university’s library: Total: 2, of which: subscription-1, reading room-1
+Supplementary literature:
+1. Steven L.Brunton. Data Driven Science and Engineering [Text]: Machine learning, Dynamical Systems, and Control / L.B. Steven, J.Nathan Kutz. - 2nd ed. - UK : Cambridge University Press, 2023. - 590 p. - ISBN 978-1-00-909848-9.
+Shelf mark: 004.422.6 - B 90
+Copies in university’s library: Total: 5, of which: subscription-4, reading room-1
+2. Maria Cristina Mariani. Data Science in Theory and Practice [Text]: Techniques for Big Data Analytics and Complex Data Sets / C.M. Maria. - USA: Wiley, 2022. - 370 p. - ISBN 978-1-119-67468-9. 
+Shelf mark: 004 - M 30
+Copies in university’s library: Total: 1, of which: reading room-1
+3. Goodfellow, I., Bengio, Y., & Courville, A. (2016). Deep learning. MIT Press. https://www.deeplearningbook.org.
+
+Basic Literature:
+
+1. https://www.cloudskillsboost.google/paths/183
+
+
+
+Certification from Google for ML an AI
+
+https://gdg.community.dev/events/details/google-gdg-cloud-astana-presents-certification-study-group-prof-akmaral-kuatbayeva-ai-learning-group-astana-it-university/ RSVP till September 12, 2025, USE GMAIL only !
+
+Also you need to register at clouskillboost google
+
+Advanced: Generative AI for Developers Learning Path | Google Cloud Skills Boost
+
+Gemini for Government | Google Cloud Skills Boost
+
+AI Boost Bites: Your Edge in the AI-Powered World | Google Cloud Skills Boost
+
+
+Google Cloud AI Infrastructure | Google Cloud Skills Boost
+
+Deploy and Manage Generative AI Models | Google Cloud Skills Boost Generative AI Leader | Google Cloud Skills Boost
+Generate Smarter Generative AI Outputs | Google Cloud Skills Boost Integrate Generative AI Into Your Data Workflow | Google Cloud Skills Boost Contact Center AI (CCAI) Platform | Google Cloud Skills Boost
+
+
+Certification for AI AWS AMAZON
+
+https://skillbuilder.aws/learning-plan/G8ENMJ5QBE/aws-artificial-intelligence-practitioner-learning-plan/SU2A1EJM1A?trk=d37ff52f-b536-4e4f-8094-37e05a0006ee&sc_channel=el&fbclid=PAZXh0bgNhZW0CMTEAAaee-DQnwzOajSd_wpGcOhTuCKvZr14yiOoSpA1Ja18Yt7v4-8JA2ge4ACvpcA_aem_e2mEfakAZTn0z_3kh4-Y3w
+
+Certification for ML
+
+MATLAB https://matlabacademy.mathworks.com/details/matlab-onramp/gettingstart ed
+
+CISCO PYTHONCOURSE https://www.netacad.com/courses/programming/pcap-programming-essent ials-python SAS https://support.sas.com/edu/elearning.html?ctry=us&productType=library
+
+AWS ML
+
+https://explore.skillbuilder.aws/learn/public/learning_plan/view/28/machine-learning-learning-plan?la=cta&cta=topbanner
+8.Technology employed:
+Python, PyTorch, TensorFlow/Keras, Scikit-learn, pandas, geopandas, HuggingFace Transformers, Jupyter Notebooks, Git/GitHub, Google Colab, Docker, Google Gemini, VEO, LLMs, AI agents, Google cloudskillboost, Amazon skillbuilder
+9.Course Policies
+Course and University policies include:
+Attendance: 
+Attendance is not allocated any grading points in the marking scheme but is compulsory to pass the course. Normally students are required to achieve course attendance of minimum 70% to get admitted to the examination rubric.
+In case a student misses 30% or more class sessions without a valid excuse the instructor has the right to mark him as “not graded”. In such case a student is not admitted to the exam and automatically fails the course.
+In cases, when a student misses class session due to valid reasons (is excused by the instructor or the dean’s office) he/she has to confirm the absence reason using a valid document in accordance with the academic policy of AITU.
+It should be NOTED that in cases when a student is excused for 30% of the scheduled class sessions or more he/she has to study material provided under the course on their own. Course instructor might provide additional opportunities to submit missed graded pieces of work during office hours or conduct alternative assessment exercises using method of Instructor choosing.
+Preparation for Class: Class participation is a very important part of the learning process in this course. Although not explicitly grade, students will be evaluated on the QUALITY of their contributions and insights. Quality comments possess one or more of the following properties: 
+Offers a different and unique, but relevant, perspective;
+Contributes to moving the discussion and analysis forward;
+Builds on other comments. 
+Class work: The duration of each lecture and practical lesson is 50 minutes for offline and online classes. Students are expected to complete all readings and assignments ahead of time, attend class regularly and participate in class discussions. In case of systemic student’s misconduct, the student can be dispensed from the classes.
+Being late on class: When students come to class late, it can disrupt the flow of a lecture or discussion, distract other students, impede learning, and generally erode class morale. Moreover, if left unchecked, lateness can become chronic and spread throughout the class. Therefore, the being late to the class is not welcome and can have restriction activities by the course instructor.  
+Attestation I and II: Students, who score less than 25% for Attestation period I or Attestation period II (RK1/RK2) automatically fail the course.
+Homework / Assignments: The assignments are designed to acquaint students with the theoretical knowledge and practical skills required for the course. The textbook readings will be supplemented with materials collected from recent professional articles and journals. In case of using someone’s work (papers, articles, any publications), all works must be properly cited. Failure to cite work will be resulted as a cheating from the students and may be a subject of additional disciplinary measures.
+Laboratory works: During practical sessions, Master students complete laboratory exercises that provide extra points toward Assignment 1 and Assignment 3.
+Late submissions: Most assignments will be discussed in class on the due date. It is expected that all work will be submitted on time. All gradings are based using a percentage grading scale.
+Research article: Writing a research article in a course is essential for Master students as it fosters critical thinking, deepens subject mastery, and develops academic writing skills. It enables students to synthesize knowledge, conduct original research, and contribute to their research field. Moreover, it prepares them for publishing in scientific journals, participating in conferences, and fulfilling requirements for publications. Through this process, they also gain experience in addressing real-world problems and communicating findings effectively, which are vital skills for a successful academic or industry career. 
+The topic for publication can be selected based on your dissertation topic, or from the list provided in “List of Assignments for Case-based Topic Study”.
+Final project: 
+Project (dataset, source code), report and presentation (slides). The project must be completed individually. The selected dataset must be unique and must not be reused by other Master students within the same lecture cohort.
+The final project requires submission of a written report that will be checked for plagiarism. The report must follow the structure of a scientific research article in IMRAD format (Introduction, Methods, Results, and Discussion). The Introduction section must clearly formulate the research problem and justify its relevance through a systematic literature review of publications from the last five years.
+The presentation must be prepared in an academic style with a clear logical structure and consistent formatting, typically consisting of 10–15 slides excluding the title and references. It should include the problem statement and research relevance, a brief literature review, dataset description, machine learning methods used, experimental results with analysis, and conclusions with potential future work. Text should be concise and readable, supplemented with clear, labeled figures, tables, and diagrams. All sources and data must be properly cited, and the presentation should reflect the student’s independent work, accuracy of results, and adherence to academic integrity.
+Laptops and mobile devices can only be used for classroom purposes when directed by the course instructor. Misuse of laptops or handheld devices will be considered a breach of discipline and appropriate action will be initiated by the instructor. 
+Online lessons can be used in case if there won’t be a chance to make offline traditional lessons. It must not discourage the interest and enthusiasm of students. The main software to run the online lessons is Microsoft Teams for video calls and live webinars, and Moodle (lms.astanait.edu.kz) as a Learning Management System. 
+Behavior during classes:
+Please do not talk and distract lecturer and other students during classes unless instructor explicitly gives permission to talk. Please do not disturb lecturer or students in any way during the classes. Violating these rules will lead to a warning and in case of a second violation will lead to complaint to Ethics Committee, which may decide to give student an official warning or exclude student from the course.
+Emotional blackmail:
+Please refrain from the emotional blackmail towards the lecturer. It is against the University’s Code of Conduct and potentially a subject of a complaint to the Ethics Committee. Examples of emotional blackmail include:
+begging lecturer to increase your grade due to the possibility of losing a scholarship, stipend, going to academic mobility etc.
+asking lecturer to “understand you, your position”, “financial difficulties” etc.
+asking to add additional points because “I only need 3 points to pass”.
+asking to give you an additional assignment to increase your grade.
+Please remember instructor do not “assign” grades. Students earn grades. A lecturer cannot give a student a grade she/he did not earn.
+Cheating and plagiarism are defined in the Academic conduct policies of the university and include: 
+1. Submitting work that is not your own papers, assignments, or exams. 
+2. Copying ideas, words, or graphics from a published or unpublished source without appropriate citation. 
+3. Submitting or using falsified data. 
+4. Submitting the same work for credit in two courses without prior consent of both instructors. 
+Any student who is found cheating or plagiarizing on any work for this course will receive 0 (zero) for that work and further actions will also be taken regarding academic conduct policies of the university. 
+Academic Conduct Policies of the university: The full texts of all the academic conduct code will be posted to the students using Learning Management System (lms.astanait.edu.kz).
+Contacting the Course instructor: The easiest and most reliable way to get in touch with the course instructor is by email. Students must feel free to send email if you have a question related to the course. Instructor responds as soon as they can but not always instantaneously. Besides that, students are also welcomed to arrange a one-to-one meeting with the instructor by their office during office hours to discuss the class using both offline and online.
+10. Course Schedule
+See the Section 3.2-3.4
+11. Syllabus Inclusion Statements
+Listening actively – respecting others when they are talking
+Speaking from one’s own experiences instead of generalizing (“I” instead of “they,” “we,” and “you”)
+Participating to the fullest of one’s ability – community growth depends on the inclusion of every individual voice
+Helping self and peers to become more self-reflective
+Confidentiality – respecting the confidentiality of personal disclosure
+Supporting one another if someone needs clarification, a chance to speak, a chance to quietly gather thoughts, or time to think/reflect before responding to a question
+3.1 Abbreviations
+#
+Abbreviation
+Meaning
+1
+IASS
+Instructor assisted student study - Instructors assist students in achieving success by delivering support, feedback, and resources. This support might
+take the form of clarifying difficult topics, recommending additional materials, or providing individualized guidance.
+2
+SIS
+Student independent study
+3
+IW
+Individual work
+4
+GW
+Group work
+5
+PA
+Practical assignment
+6
+LW
+Laboratory work
+7
+MCQ
+Multiple choice quiz
+8
+PBT
+Paper-based test
+NB: You may introduce abbreviations that are used in the syllabus
+Course Plan
+
+
+Week No
+
+
+Course Topic
+Lectures (h/w)
+Practice sessions (h/w)
+Lab. Sessions ( h/w)
+IASS
+(h/w)
+SIS
+(h/w)
+1
+Introduction to AI and Machine Learning.
+AI standards and ethics.
+2
+3
+
+1
+9
+2
+AI prompt engineering
+2
+3
+
+1
+9
+3
+AI LLM models
+2
+3
+
+1
+9
+4
+AI deepfake detection
+2
+3
+
+1
+9
+5
+AI for blockchain and quantum computing.
+Midterm project.
+2
+3
+
+1
+9
+6
+Machinelearningalgorithms: Linear regression
+2
+3
+
+1
+9
+7
+Machinelearningalgorithms: Logistic regression
+2
+3
+
+1
+9
+8
+Machine learning computational complexity.
+2
+3
+
+1
+9
+9
+Machinelearningalgorithms: Clustering and decision trees.
+2
+3
+
+1
+9
+10
+Machine learning algorithms: cryptography, XGboost, Generative AI models.
+Endterm project Exam week.
+2
+3
+
+1
+9
+
+Total:
+20
+30
+
+10
+90
+
+Total:
+
+
+
+
+150
+Detailed course plan
+
+
+
+Week No
+
+
+Lecture Topics with Learning Resources
+Tasks and Activities for Practice Sessions with Recommended Reading Resources
+1
+Introduction to AI and Machine Learning.
+AI standards and ethics.
+Books provided in the Learning resources
+2
+AI prompt engineering
+Assignment 1-5
+Books provided in the Learning resources
+3
+AI LLM models
+Assignment 1-5
+4
+AI deepfake detection
+Books provided in the Learning resources
+5
+AI for blockchain and quantum computing. Midterm project.
+Assignment 1-5
+6
+Machine learning algorithms: Linear regression
+Books provided in the Learning resources
+7
+Machine learning algorithms: Logistic regression
+Assignment 6-10
+8
+Machine learning computational complexity.
+Books provided in the Learning resources
+9
+Machine learning algorithms: Clustering and decision trees.
+Assignment 6-10
+10
+Machine learning algorithms: cryptography, XGboost, Generative AI models. Endterm project
+Exam week.
+Endterm Exam
+Books provided in the Learning resources
+List of Assignments for Case-based Topic Study
+
+
+#
+
+Case study tasks / Assignments (topics) for independent study
+Hours
+Recommended literature and other sources (links)
+Form of submission and deadlines
+1
+2
+3
+4
+5
+1
+Air pollution in the main cities of Kazakhstan
+
+5
+Reading list, books, internet resources Electronic version, Datasets (Kaggle), AirKaz.org – real-time air quality data, Kazhydromet – official environmental monitoring reports, IQAir / World Air Quality Index, Local government reports or academic publications
+A research paper detailing the process and results of the project, including dataset selection, exploratory data analysis (EDA), model building and training, and evaluation.
+Every week during the lecture and practice session
+2
+Sentiment Analysis of Social Media Data
+5
+Reading list, books, internet resources Electronic version, Datasets (Example: Sentiment140 Dataset (Twitter), Reddit Comment Dataset.
+A research paper (the same as in #1).
+3
+Machine Learning for Terrorism Analysis 
+5
+Reading list, books, internet resources Electronic version, Publicly Available or Private Datasets.
+A research paper (the same as in #1).
+4
+Image Classification for Medical Imaging
+
+5
+Reading list, books, internet resources Electronic version, Publicly Available or Private Datasets.
+A research paper (the same as in #1).
+5
+Fraud Detection in Financial Transactions
+
+5
+Reading list, books, internet resources Electronic version, Publicly Available or Private Datasets.
+A research paper (the same as in #1).
+6
+Time Series Forecasting for Stock Market Prediction
+5
+Reading list, books, internet resources Electronic version, Publicly Available or Private Datasets.
+A research paper (the same as in #1).
+7
+Recommender Systems for E-commerce
+
+5
+Reading list, books, internet resources Electronic version, Publicly Available or Private Datasets.
+A research paper (the same as in #1).
+8
+Anomaly Detection for Network Security
+
+5
+Reading list, books, internet resources Electronic version, Publicly Available or Private Datasets.
+A research paper (the same as in #1).
+9
+Social Network Analysis and Community Detection
+
+5
+Reading list, books, internet resources Electronic version, Publicly Available or Private Datasets.
+A research paper (the same as in #1).
+10
+Predicting Air Quality and Pollution Levels in Urban Areas
+
+5
+Reading list, books, internet resources Electronic version, Publicly Available or Private Datasets.
+A research paper (the same as in #1).
+11
+Predicting Crime Hotspots in a City Using Geospatial Data
+5
+Reading list, books, internet resources Electronic version, Publicly Available or Private Datasets.
+A research paper (the same as in #1).
+12
+Smart Water Management Using IoT and Sensor Data
+5
+Reading list, books, internet resources Electronic version, Publicly Available or Private Datasets.
+A research paper (the same as in #1).
+13
+Energy Consumption Forecasting in Smart Homes
+5
+Reading list, books, internet resources Electronic version, Publicly Available or Private Datasets.
+A research paper (the same as in #1).
+14
+Real-Time Public Transit Monitoring Using GPS Data
+5
+Reading list, books, internet resources Electronic version, Publicly Available or Private Datasets.
+A research paper (the same as in #1).
+15
+Vehicle Type Classification from Dashcam Footage
+5
+Reading list, books, internet resources Electronic version, Publicly Available or Private Datasets.
+A research paper (the same as in #1).
+16
+Emotion Recognition from Facial Expressions
+5
+Reading list, books, internet resources Electronic version, Publicly Available or Private Datasets.
+A research paper (the same as in #1).
+17
+Real-Time Object Detection for Autonomous Vehicles
+5
+Reading list, books, internet resources Electronic version, Publicly Available or Private Datasets.
+A research paper (the same as in #1).
+18
+Medical Waste Management
+5
+Reading list, books, internet resources Electronic version, Publicly Available or Private Datasets.
+A research paper (the same as in #1).
+
+For instructor assisted student study (IASS) schedule and policy follow your course LMS Moodle. 
+Student performance evaluation system for the course.
+
+Period
+Assignments*
+Number of points
+Form of assessment
+Total
+1st attestation
+Assignment 1 (week 3)
+40
+Article (part 1)
+100
+
+Assignment 2 (week 4)
+40
+Case study tasks 1-4
+100
+
+MidTerm (week 5)
+20
+Project Work
+100
+2nd attestation 
+Assignment 3 (week 7)
+40
+Article (part 2)
+100
+
+Assignment 4 (week 9)
+40
+Case study tasks 1-4 70% + Writing control work 30%
+100
+
+EndTerm (week 10)
+20
+Project Work
+100
+Final exam
+Exam (week 10)
+100
+Project Work
+100
+Total  
+0.3*1 st Att + 0.3 *2 nd Att + 0,4 * Final
+
+
+100
+
+* The complete title of the assignment must be clearly stated.
+** The number of assignments may vary depending on the course content and is determined by the course syllabus.
+*** Description of iROS or Social GPA elements, if applicable
+
+Achievement level as per course curriculum shall be assessed according to the evaluation chart adopted by the academic credit system.
+Letter Grade
+GPA
+Percentage
+Description
+А
+4,0
+95-100
+Excellent
+А-
+3,67
+90-94
+
+В+
+3,33
+85-89
+Good
+В
+3,0
+80-84
+
+В-
+2,67
+75-79
+
+С+
+2,33
+70-74
+
+С
+2,0
+65-69
+
+Satisfactory
+С-
+1,67
+60-64
+
+D+
+1,33
+55-59
+
+D
+1,0
+50-54
+
+FX
+0
+30-49
+Fail
+F
+0
+0-29
+
+ 
+
+Course Assessment Rubric for Student Performance Evaluation
+Learning outcomes
+Indicators
+Excellent (90-100)
+Good (70-89)
+Satisfactory (50-69)
+Fail 0-49
+1. Explain the fundamental principles and stages of AI andML,
+complete all Google badges and Amazon path for AI.
+Count of badges, path completion, projects competion, final exam completion
+31-65 Google badges completed, AWS AI path, Midterm, enterm,final examprojects completed fully
+18-30 Google badges plus AWS AI path completed plus midterm and enterm projects completed
+10-18google
+badgesplus projects completed
+Lessthan10 google badges
+2. AI and ML skills practically
+Canexplain mathematical model, mathematical partof
+algorithm,can code it in python, demonstrate both theoretical andpractical skills in AI and ML,
+Correctly selectsand applies the most appropriate methods for the task.
+Demonstrates high proficiency in using tools
+
+Briefly describesthe model, shows all steps a little bit.
+Explanation notfully
+complete
+
+Selects AI methods that are only partially appropriate or inconsistently applied.
+Shows limited ability to use programming tools; may rely on basic functions or external assistance.
+Provides minimal or weak justification for AI
+and ML decisions.
+Fails to select or apply appropriate AI or ML methods.
+Demonstrates little or no ability to usepythontools effectively.
+Providesno
+justificationor showsserious misunderstandings of AI and ML
+Course assessment methodology
+Assessment is conducted continuously throughout the course, comprising 60% continuous assessment throughout the semester and 40% summative assessment during the examination session, totaling 100%. Continuous assessment evaluates students’ ongoing performance through attendance, laboratory work defense, in-class activities, course assignments as well as independent study (SIS).
+IASS (Instructor assisted student study) - Instructors assist students in achieving success by delivering support, feedback, and resources. This support might take the form of clarifying difficult topics, recommending additional materials, or providing individualized guidance.
+SIS – Student engagement in self-directed study on assigned topics and the completion of relevant assignments given in the syllabus.
+Mid-term and End-term are a review of the topics covered and an assessment of each student's knowledge. The form of the midterm and end term exams is complex.
+Final assessment for the course “Advanced machine learning” includes Final project, Report and Presentation.
+
+Lecturer (lecturers) signature
+
+Full name
+Job title
+Date
+Signature
+Zhanar Oralbekova
+
+Acting Professor
+
+
